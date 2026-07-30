@@ -1,0 +1,2171 @@
+{
+  "updated": "2026-07-30",
+  "count": 239,
+  "sources": {
+    "ryc": "https://www.hsbc.com.hk/credit-cards/rewards/your-choice/",
+    "red": "https://www.hsbc.com.hk/credit-cards/products/red/",
+    "everymile": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/everymile/everymile-everyday-spend.pdf"
+  },
+  "merchants": [
+    {
+      "name": "$mart",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "% Arabica",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "12306 China Railway",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cross-border-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "1O1O",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "3COINS",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "3HK",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "7 For All Mankind",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "759 Store",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "@cosme HONG KONG",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "@cosme STORE",
+      "tags": [
+        "ryc:shopping",
+        "red:designated"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "AEON",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "AEON STYLE",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "AEON SUPERMARKET",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "agnes b. FLEURISTE",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
+      "name": "agnès b.",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "APITA",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "APT. Coffee",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "at.home",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "AV Life",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "AVIS",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "travel-services",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "bakebe",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "Bakehouse",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "BASAO Tea",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Be Earth",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
+      "name": "BEAUTY AVENUE",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "Bento Express by AEON",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Big C",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "BIRKENSTOCK",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Blue Bottle Coffee",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "BROADWAY",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Brooks Brothers",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "BRUNO",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Caltex",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "Cantevole",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
+      "name": "Carparks or Parking spaces",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "local-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "CASETiFY",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
+      "name": "CGV Cinemas",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "Chinese Arts & Crafts (H.K.)",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Chun Shui Tang",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Chung Hwa Book",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Bookstores",
+      "source": "ryc"
+    },
+    {
+      "name": "Chung Yuen Electrical",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Citilife",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Citistore",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "City Life",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "city'super",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "city'super LOG-ON",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "city'super neighbourhood",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Citybus",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "Cityline (Hong Kong) Limited",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "Cityplaza Ice Palace",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "Club Monaco",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Club Sim",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "Coffee Roasters",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Columbia",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Crocs",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "csl",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "Cupping Room",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Day Day Store",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "Dazzling Café",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "DECATHLON",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Decathlon Hong Kong",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "Don Don Donki",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "DS GROCERIES",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "ECCO",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "EF English Centers",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "eGG Optical Boutique",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Emperor Cinemas",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "eslite bookstore",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Bookstores",
+      "source": "ryc"
+    },
+    {
+      "name": "ESSO",
+      "tags": [
+        "ryc:lifestyle",
+        "everymile:designated"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "Eternal East Tours",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cross-border-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Excludes online bill payment made by HSBC Classic Card, HSBC Gold Card and HSBC UnionPay Dual Currency Credit Card.",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "FamilyMart in Japan",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "overseas",
+      "source": "red-page"
+    },
+    {
+      "name": "Festival Grand Cinema",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "FLIPPER’s",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "food le parc",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "FORTRESS",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "FRESH",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "FUSION",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "Go Wild",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Go24 Fitness",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
+      "name": "GoByBus.hk",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cross-border-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "GOURMET",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "Grand Kornhill Cinema",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "Grand Windsor Cinema",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "GREAT FOOD HALL",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "Green Common",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Greenery Music",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "GreenPrice",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "GU",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "GUERLAIN",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "Guu San",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "HABITŪ",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "HARVEY NICHOLS",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "HERTZ",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "travel-services",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "HK Tramways",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "HKeToll",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "HKT HOME PHONE",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "HKTicketing",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "HKTVmall",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Home+ By Ella",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "Hong Kong Flavour",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "hutchgo",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "INN – I’m Not Nothing",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "INTERNATIONAL",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "IPSA",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "J SELECT",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Japan Home Centre (JHC)",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "Joint Publishing",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Bookstores",
+      "source": "ryc"
+    },
+    {
+      "name": "JOYCE BEAUTY",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "K11 Art House",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "KeyChain Pay",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "KKBOX",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "KKDay",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "KKTix",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "Klook",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "KMB",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "La Bohéme",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
+      "name": "Lady M",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Life Kan",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "Life@HOME",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "Living PLAZA by AEON",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "LOG-ON",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "MARKS & SPENCER",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "MCL Cinemas",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "Miramar Travel",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "MISCH MASCH",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Mobile Tmoney",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "overseas",
+      "source": "red-page"
+    },
+    {
+      "name": "Mono Mono",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Moood Massage",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
+      "name": "Moov",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "Mother Pearl",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Movie Town",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "mtm labo",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "MTR",
+      "tags": [
+        "ryc:lifestyle",
+        "everymile:designated"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "Nam Pei Hong",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "NAMCO",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "NARS",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "NETVIGATOR",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "New participating merchants, starting from 1 January 2026.",
+      "tags": [
+        "ryc:home",
+        "ryc:shopping"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Neway CEO Karaoke",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "NICAL",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "NINETYs",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Ninki Denki",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "NOC",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Now TV",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "OLIVE YOUNG in South Korea",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "overseas",
+      "source": "red-page"
+    },
+    {
+      "name": "OPTICAL 88",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "ORiental Traffic",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "OSIM",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "OTO",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "Pacific Coffee",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Panasonic Showroom",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "PARKnSHOP",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "Pet Line",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Petmium Superstore",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "PetroChina",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "local-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "PIT",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "Pret A Manger",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Price.com.hk",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "PURE Group",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
+      "name": "Q-Pets",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Red Carrot",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Remarks:",
+      "tags": [
+        "ryc:home",
+        "ryc:lifestyle",
+        "ryc:shopping"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Road Tunnel Toll Plaza",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "local-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "ROCKPORT",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "ROYCE'",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
+      "name": "Sa Sa",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "sensory ZERO",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Sephora",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "Serge Lutens",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "Shell",
+      "tags": [
+        "ryc:lifestyle",
+        "everymile:designated"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "Shell Recharge",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "shh massage",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
+      "name": "SHISEIDO",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "SIMMONS",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "Sincere Department Store",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "SINOPEC",
+      "tags": [
+        "ryc:lifestyle",
+        "everymile:designated"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "SKECHERS",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "SLOWOOD",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "SmarTone",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "SmartPlay",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "Snap Fitness",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
+      "name": "SOGO",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "SPA by mtm labo",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "SPORT b.",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Square Fitness",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
+      "name": "STAR Cinema",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Cinemas",
+      "source": "ryc"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Suica",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "overseas",
+      "source": "red-page"
+    },
+    {
+      "name": "Sulwhasoo",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "Sun and Moon Massage",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
+      "name": "Sunflower Travel",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "Suning",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "SUPREME",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "Sushiro Hong Kong",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "TAITO STATION",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "TamJai SamGor Mixian",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "TamJai Yunnan Mixian",
+      "tags": [
+        "red:designated"
+      ],
+      "category": "red",
+      "subcategory": "local",
+      "source": "red-page"
+    },
+    {
+      "name": "TASTE",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "TASTE x FRESH",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Supermarkets",
+      "source": "ryc"
+    },
+    {
+      "name": "Taxi services",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "local-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Tea WG Salon & Boutique",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Tesla",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Transportation",
+      "source": "ryc"
+    },
+    {
+      "name": "TESLA SuperCharger",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "local-transport",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Teva",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "The Commercial Press",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Bookstores",
+      "source": "ryc"
+    },
+    {
+      "name": "The Dog’s Garden",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Theory",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "This promotion is only applicable to the stores in Hong Kong of all designated merchants (excluding counters at department stores and outlets).",
+      "tags": [
+        "ryc:home",
+        "ryc:shopping"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Three Little Meow",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "TIME by mtm labo",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "Tocoo Car Rental",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "travel-services",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Tom Lee Music",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Entertainment",
+      "source": "ryc"
+    },
+    {
+      "name": "TONI&GUY HONG KONG",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
+      "name": "TOYOTA Rent a Car",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "travel-services",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Trip.com",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "TWIST",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "UGG",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Ulfenbo",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "Ulferts",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
+      "name": "UNIQLO",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "UNY",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Urban Coffee Roaster",
+      "tags": [
+        "everymile:designated"
+      ],
+      "category": "everymile",
+      "subcategory": "cafe",
+      "source": "everymile-pdf"
+    },
+    {
+      "name": "Vita Green",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "WA ORiental Traffic",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Wai Ming Electrical",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Wai Yuen Tong",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "Watson's Wine",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
+      "name": "Watsons",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Wellness Grocery",
+      "source": "ryc"
+    },
+    {
+      "name": "Whirlpool Official Online Store W-Mall",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Wilson Communications",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Wing On Department Stores / Wing On Plus",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Wing On Travel",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "YATA",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "YMT Travel",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Travel Agents",
+      "source": "ryc"
+    },
+    {
+      "name": "YOHO",
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "ZALORA",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "Zi Massage & Wellness",
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
+      "name": "Zoff",
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    }
+  ]
+}

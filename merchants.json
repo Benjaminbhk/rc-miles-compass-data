@@ -1,14 +1,19 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "count": 239,
   "sources": {
-    "ryc": "https://www.hsbc.com.hk/credit-cards/rewards/your-choice/",
+    "ryc": "https://www.hsbc.com.hk{prefix}/credit-cards/rewards/your-choice/",
     "red": "https://www.hsbc.com.hk/credit-cards/products/red/",
     "everymile": "https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/everymile/everymile-everyday-spend.pdf"
   },
   "merchants": [
     {
       "name": "$mart",
+      "names": {
+        "en": "$mart",
+        "zh-HK": "多來買",
+        "zh-CN": "多来买"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -18,6 +23,9 @@
     },
     {
       "name": "% Arabica",
+      "names": {
+        "en": "% Arabica"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -27,6 +35,9 @@
     },
     {
       "name": "12306 China Railway",
+      "names": {
+        "en": "12306 China Railway"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -36,6 +47,11 @@
     },
     {
       "name": "1O1O",
+      "names": {
+        "en": "1O1O",
+        "zh-HK": "1O1O",
+        "zh-CN": "1O1O"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -45,6 +61,9 @@
     },
     {
       "name": "3COINS",
+      "names": {
+        "en": "3COINS"
+      },
       "tags": [
         "red:designated"
       ],
@@ -54,6 +73,11 @@
     },
     {
       "name": "3HK",
+      "names": {
+        "en": "3HK",
+        "zh-HK": "3香港",
+        "zh-CN": "3香港"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -63,6 +87,11 @@
     },
     {
       "name": "7 For All Mankind",
+      "names": {
+        "en": "7 For All Mankind",
+        "zh-HK": "7 For All Mankind",
+        "zh-CN": "7 For All Mankind"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -72,6 +101,11 @@
     },
     {
       "name": "759 Store",
+      "names": {
+        "en": "759 Store",
+        "zh-HK": "759阿信屋",
+        "zh-CN": "759阿信屋"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -81,6 +115,9 @@
     },
     {
       "name": "@cosme HONG KONG",
+      "names": {
+        "en": "@cosme HONG KONG"
+      },
       "tags": [
         "red:designated"
       ],
@@ -90,6 +127,11 @@
     },
     {
       "name": "@cosme STORE",
+      "names": {
+        "en": "@cosme STORE",
+        "zh-HK": "@cosme STORE",
+        "zh-CN": "@cosme STORE"
+      },
       "tags": [
         "ryc:shopping",
         "red:designated"
@@ -100,6 +142,11 @@
     },
     {
       "name": "AEON",
+      "names": {
+        "en": "AEON",
+        "zh-HK": "AEON",
+        "zh-CN": "AEON"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -109,6 +156,11 @@
     },
     {
       "name": "AEON STYLE",
+      "names": {
+        "en": "AEON STYLE",
+        "zh-HK": "AEON STYLE",
+        "zh-CN": "AEON STYLE"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -118,6 +170,11 @@
     },
     {
       "name": "AEON SUPERMARKET",
+      "names": {
+        "en": "AEON SUPERMARKET",
+        "zh-HK": "AEON SUPERMARKET",
+        "zh-CN": "AEON SUPERMARKET"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -127,6 +184,11 @@
     },
     {
       "name": "agnes b. FLEURISTE",
+      "names": {
+        "en": "agnes b. FLEURISTE",
+        "zh-HK": "agnes b. FLEURISTE",
+        "zh-CN": "agnes b. FLEURISTE"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -136,6 +198,11 @@
     },
     {
       "name": "agnès b.",
+      "names": {
+        "en": "agnès b.",
+        "zh-HK": "agnès b.",
+        "zh-CN": "agnès b."
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -145,6 +212,11 @@
     },
     {
       "name": "APITA",
+      "names": {
+        "en": "APITA",
+        "zh-HK": "APITA",
+        "zh-CN": "APITA"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -154,6 +226,9 @@
     },
     {
       "name": "APT. Coffee",
+      "names": {
+        "en": "APT. Coffee"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -163,6 +238,11 @@
     },
     {
       "name": "at.home",
+      "names": {
+        "en": "at.home",
+        "zh-HK": "at.home",
+        "zh-CN": "at.home"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -172,6 +252,10 @@
     },
     {
       "name": "AV Life",
+      "names": {
+        "en": "AV Life",
+        "zh-HK": "生活影音"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -181,6 +265,9 @@
     },
     {
       "name": "AVIS",
+      "names": {
+        "en": "AVIS"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -190,6 +277,11 @@
     },
     {
       "name": "bakebe",
+      "names": {
+        "en": "bakebe",
+        "zh-HK": "焙著你烘焙",
+        "zh-CN": "焙着你烘焙"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -199,6 +291,9 @@
     },
     {
       "name": "Bakehouse",
+      "names": {
+        "en": "Bakehouse"
+      },
       "tags": [
         "red:designated"
       ],
@@ -208,6 +303,9 @@
     },
     {
       "name": "BASAO Tea",
+      "names": {
+        "en": "BASAO Tea"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -217,6 +315,11 @@
     },
     {
       "name": "Be Earth",
+      "names": {
+        "en": "Be Earth",
+        "zh-HK": "Be Earth",
+        "zh-CN": "Be Earth"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -226,6 +329,11 @@
     },
     {
       "name": "BEAUTY AVENUE",
+      "names": {
+        "en": "BEAUTY AVENUE",
+        "zh-HK": "BEAUTY AVENUE",
+        "zh-CN": "BEAUTY AVENUE"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -235,6 +343,11 @@
     },
     {
       "name": "Bento Express by AEON",
+      "names": {
+        "en": "Bento Express by AEON",
+        "zh-HK": "Bento Express by AEON",
+        "zh-CN": "Bento Express by AEON"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -244,6 +357,11 @@
     },
     {
       "name": "Big C",
+      "names": {
+        "en": "Big C",
+        "zh-HK": "Big C",
+        "zh-CN": "Big C"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -253,6 +371,11 @@
     },
     {
       "name": "BIRKENSTOCK",
+      "names": {
+        "en": "BIRKENSTOCK",
+        "zh-HK": "BIRKENSTOCK",
+        "zh-CN": "BIRKENSTOCK"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -262,6 +385,9 @@
     },
     {
       "name": "Blue Bottle Coffee",
+      "names": {
+        "en": "Blue Bottle Coffee"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -271,6 +397,10 @@
     },
     {
       "name": "BROADWAY",
+      "names": {
+        "en": "BROADWAY",
+        "zh-HK": "百老滙"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -280,6 +410,11 @@
     },
     {
       "name": "Brooks Brothers",
+      "names": {
+        "en": "Brooks Brothers",
+        "zh-HK": "Brooks Brothers",
+        "zh-CN": "Brooks Brothers"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -289,6 +424,10 @@
     },
     {
       "name": "BRUNO",
+      "names": {
+        "en": "BRUNO",
+        "zh-HK": "BRUNO"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -298,6 +437,11 @@
     },
     {
       "name": "Caltex",
+      "names": {
+        "en": "Caltex",
+        "zh-HK": "加德士",
+        "zh-CN": "加德士"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -307,6 +451,11 @@
     },
     {
       "name": "Cantevole",
+      "names": {
+        "en": "Cantevole",
+        "zh-HK": "Cantevole",
+        "zh-CN": "Cantevole"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -316,6 +465,9 @@
     },
     {
       "name": "Carparks or Parking spaces",
+      "names": {
+        "en": "Carparks or Parking spaces"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -325,6 +477,11 @@
     },
     {
       "name": "CASETiFY",
+      "names": {
+        "en": "CASETiFY",
+        "zh-HK": "CASETiFY",
+        "zh-CN": "CASETiFY"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -334,6 +491,11 @@
     },
     {
       "name": "CGV Cinemas",
+      "names": {
+        "en": "CGV Cinemas",
+        "zh-HK": "CGV Cinemas",
+        "zh-CN": "CGV Cinemas"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -343,6 +505,11 @@
     },
     {
       "name": "Chinese Arts & Crafts (H.K.)",
+      "names": {
+        "en": "Chinese Arts & Crafts (H.K.)",
+        "zh-HK": "中藝（香港）",
+        "zh-CN": "中艺（香港）"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -352,6 +519,9 @@
     },
     {
       "name": "Chun Shui Tang",
+      "names": {
+        "en": "Chun Shui Tang"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -361,6 +531,11 @@
     },
     {
       "name": "Chung Hwa Book",
+      "names": {
+        "en": "Chung Hwa Book",
+        "zh-HK": "中華書局",
+        "zh-CN": "中华书局"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -370,6 +545,10 @@
     },
     {
       "name": "Chung Yuen Electrical",
+      "names": {
+        "en": "Chung Yuen Electrical",
+        "zh-HK": "中原電器"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -379,6 +558,11 @@
     },
     {
       "name": "Citilife",
+      "names": {
+        "en": "Citilife",
+        "zh-HK": "C生活",
+        "zh-CN": "C生活"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -388,6 +572,11 @@
     },
     {
       "name": "Citistore",
+      "names": {
+        "en": "Citistore",
+        "zh-HK": "千色Citistore",
+        "zh-CN": "千色Citistore"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -397,6 +586,11 @@
     },
     {
       "name": "City Life",
+      "names": {
+        "en": "City Life",
+        "zh-HK": "生活提案",
+        "zh-CN": "生活提案"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -406,6 +600,11 @@
     },
     {
       "name": "city'super",
+      "names": {
+        "en": "city'super",
+        "zh-HK": "city'super",
+        "zh-CN": "city'super"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -415,6 +614,11 @@
     },
     {
       "name": "city'super LOG-ON",
+      "names": {
+        "en": "city'super LOG-ON",
+        "zh-HK": "city'super LOG-ON",
+        "zh-CN": "city'super LOG-ON"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -424,6 +628,11 @@
     },
     {
       "name": "city'super neighbourhood",
+      "names": {
+        "en": "city'super neighbourhood",
+        "zh-HK": "city'super neighbourhood",
+        "zh-CN": "city'super neighbourhood"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -433,6 +642,11 @@
     },
     {
       "name": "Citybus",
+      "names": {
+        "en": "Citybus",
+        "zh-HK": "城巴",
+        "zh-CN": "城巴"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -442,6 +656,11 @@
     },
     {
       "name": "Cityline (Hong Kong) Limited",
+      "names": {
+        "en": "Cityline (Hong Kong) Limited",
+        "zh-HK": "購票通",
+        "zh-CN": "购票通"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -451,6 +670,11 @@
     },
     {
       "name": "Cityplaza Ice Palace",
+      "names": {
+        "en": "Cityplaza Ice Palace",
+        "zh-HK": "太古城中心冰上皇宮",
+        "zh-CN": "太古城中心冰上皇宫"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -460,6 +684,11 @@
     },
     {
       "name": "Club Monaco",
+      "names": {
+        "en": "Club Monaco",
+        "zh-HK": "Club Monaco",
+        "zh-CN": "Club Monaco"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -469,6 +698,11 @@
     },
     {
       "name": "Club Sim",
+      "names": {
+        "en": "Club Sim",
+        "zh-HK": "Club Sim",
+        "zh-CN": "Club Sim"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -478,6 +712,9 @@
     },
     {
       "name": "Coffee Roasters",
+      "names": {
+        "en": "Coffee Roasters"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -487,6 +724,11 @@
     },
     {
       "name": "Columbia",
+      "names": {
+        "en": "Columbia",
+        "zh-HK": "Columbia",
+        "zh-CN": "Columbia"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -496,6 +738,11 @@
     },
     {
       "name": "Crocs",
+      "names": {
+        "en": "Crocs",
+        "zh-HK": "Crocs",
+        "zh-CN": "Crocs"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -505,6 +752,11 @@
     },
     {
       "name": "csl",
+      "names": {
+        "en": "csl",
+        "zh-HK": "csl",
+        "zh-CN": "csl"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -514,6 +766,9 @@
     },
     {
       "name": "Cupping Room",
+      "names": {
+        "en": "Cupping Room"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -523,6 +778,11 @@
     },
     {
       "name": "Day Day Store",
+      "names": {
+        "en": "Day Day Store",
+        "zh-HK": "日記士多",
+        "zh-CN": "日记士多"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -532,6 +792,9 @@
     },
     {
       "name": "Dazzling Café",
+      "names": {
+        "en": "Dazzling Café"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -541,6 +804,11 @@
     },
     {
       "name": "DECATHLON",
+      "names": {
+        "en": "DECATHLON",
+        "zh-HK": "DECATHLON",
+        "zh-CN": "DECATHLON"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -550,6 +818,9 @@
     },
     {
       "name": "Decathlon Hong Kong",
+      "names": {
+        "en": "Decathlon Hong Kong"
+      },
       "tags": [
         "red:designated"
       ],
@@ -559,6 +830,11 @@
     },
     {
       "name": "Don Don Donki",
+      "names": {
+        "en": "Don Don Donki",
+        "zh-HK": "Don Don Donki",
+        "zh-CN": "Don Don Donki"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -568,6 +844,11 @@
     },
     {
       "name": "DS GROCERIES",
+      "names": {
+        "en": "DS GROCERIES",
+        "zh-HK": "大生生活超市",
+        "zh-CN": "大生生活超市"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -577,6 +858,11 @@
     },
     {
       "name": "ECCO",
+      "names": {
+        "en": "ECCO",
+        "zh-HK": "ECCO",
+        "zh-CN": "ECCO"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -586,6 +872,11 @@
     },
     {
       "name": "EF English Centers",
+      "names": {
+        "en": "EF English Centers",
+        "zh-HK": "EF English Centers",
+        "zh-CN": "EF English Centers"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -595,6 +886,11 @@
     },
     {
       "name": "eGG Optical Boutique",
+      "names": {
+        "en": "eGG Optical Boutique",
+        "zh-HK": "eGG Optical Boutique",
+        "zh-CN": "eGG Optical Boutique"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -604,6 +900,11 @@
     },
     {
       "name": "Emperor Cinemas",
+      "names": {
+        "en": "Emperor Cinemas",
+        "zh-HK": "英皇戲院",
+        "zh-CN": "英皇戏院"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -613,6 +914,11 @@
     },
     {
       "name": "eslite bookstore",
+      "names": {
+        "en": "eslite bookstore",
+        "zh-HK": "誠品書店",
+        "zh-CN": "诚品书店"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -622,6 +928,11 @@
     },
     {
       "name": "ESSO",
+      "names": {
+        "en": "ESSO",
+        "zh-HK": "ESSO",
+        "zh-CN": "ESSO"
+      },
       "tags": [
         "ryc:lifestyle",
         "everymile:designated"
@@ -632,6 +943,9 @@
     },
     {
       "name": "Eternal East Tours",
+      "names": {
+        "en": "Eternal East Tours"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -641,6 +955,11 @@
     },
     {
       "name": "Excludes online bill payment made by HSBC Classic Card, HSBC Gold Card and HSBC UnionPay Dual Currency Credit Card.",
+      "names": {
+        "en": "Excludes online bill payment made by HSBC Classic Card, HSBC Gold Card and HSBC UnionPay Dual Currency Credit Card.",
+        "zh-HK": "不包括以滙豐普通卡、滙豐金卡及滙豐銀聯雙幣信用卡的網上繳費。",
+        "zh-CN": "不包括以滙丰普通卡、滙丰金卡及滙丰银联双币信用卡的网上缴费。"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -650,6 +969,9 @@
     },
     {
       "name": "FamilyMart in Japan",
+      "names": {
+        "en": "FamilyMart in Japan"
+      },
       "tags": [
         "red:designated"
       ],
@@ -659,6 +981,11 @@
     },
     {
       "name": "Festival Grand Cinema",
+      "names": {
+        "en": "Festival Grand Cinema",
+        "zh-HK": "Festival Grand Cinema",
+        "zh-CN": "Festival Grand Cinema"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -668,6 +995,9 @@
     },
     {
       "name": "FLIPPER’s",
+      "names": {
+        "en": "FLIPPER’s"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -677,6 +1007,11 @@
     },
     {
       "name": "food le parc",
+      "names": {
+        "en": "food le parc",
+        "zh-HK": "food le parc",
+        "zh-CN": "food le parc"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -686,6 +1021,10 @@
     },
     {
       "name": "FORTRESS",
+      "names": {
+        "en": "FORTRESS",
+        "zh-HK": "豐澤"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -695,6 +1034,11 @@
     },
     {
       "name": "FRESH",
+      "names": {
+        "en": "FRESH",
+        "zh-HK": "新鮮生活",
+        "zh-CN": "新鲜生活"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -704,6 +1048,11 @@
     },
     {
       "name": "FUSION",
+      "names": {
+        "en": "FUSION",
+        "zh-HK": "FUSION",
+        "zh-CN": "FUSION"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -713,6 +1062,11 @@
     },
     {
       "name": "Go Wild",
+      "names": {
+        "en": "Go Wild",
+        "zh-HK": "Go Wild",
+        "zh-CN": "Go Wild"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -722,6 +1076,11 @@
     },
     {
       "name": "Go24 Fitness",
+      "names": {
+        "en": "Go24 Fitness",
+        "zh-HK": "Go24 Fitness",
+        "zh-CN": "Go24 Fitness"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -731,6 +1090,9 @@
     },
     {
       "name": "GoByBus.hk",
+      "names": {
+        "en": "GoByBus.hk"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -740,6 +1102,11 @@
     },
     {
       "name": "GOURMET",
+      "names": {
+        "en": "GOURMET",
+        "zh-HK": "GOURMET",
+        "zh-CN": "GOURMET"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -749,6 +1116,11 @@
     },
     {
       "name": "Grand Kornhill Cinema",
+      "names": {
+        "en": "Grand Kornhill Cinema",
+        "zh-HK": "康怡戲院",
+        "zh-CN": "康怡戏院"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -758,6 +1130,11 @@
     },
     {
       "name": "Grand Windsor Cinema",
+      "names": {
+        "en": "Grand Windsor Cinema",
+        "zh-HK": "皇室戲院",
+        "zh-CN": "皇室戏院"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -767,6 +1144,11 @@
     },
     {
       "name": "GREAT FOOD HALL",
+      "names": {
+        "en": "GREAT FOOD HALL",
+        "zh-HK": "GREAT FOOD HALL",
+        "zh-CN": "GREAT FOOD HALL"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -776,6 +1158,9 @@
     },
     {
       "name": "Green Common",
+      "names": {
+        "en": "Green Common"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -785,6 +1170,11 @@
     },
     {
       "name": "Greenery Music",
+      "names": {
+        "en": "Greenery Music",
+        "zh-HK": "青苗琴行",
+        "zh-CN": "青苗琴行"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -794,6 +1184,11 @@
     },
     {
       "name": "GreenPrice",
+      "names": {
+        "en": "GreenPrice",
+        "zh-HK": "GreenPrice",
+        "zh-CN": "GreenPrice"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -803,6 +1198,11 @@
     },
     {
       "name": "GU",
+      "names": {
+        "en": "GU",
+        "zh-HK": "GU",
+        "zh-CN": "GU"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -812,6 +1212,11 @@
     },
     {
       "name": "GUERLAIN",
+      "names": {
+        "en": "GUERLAIN",
+        "zh-HK": "法國嬌蘭",
+        "zh-CN": "法国娇兰"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -821,6 +1226,11 @@
     },
     {
       "name": "Guu San",
+      "names": {
+        "en": "Guu San",
+        "zh-HK": "谷辰",
+        "zh-CN": "谷辰"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -830,6 +1240,9 @@
     },
     {
       "name": "HABITŪ",
+      "names": {
+        "en": "HABITŪ"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -839,6 +1252,11 @@
     },
     {
       "name": "HARVEY NICHOLS",
+      "names": {
+        "en": "HARVEY NICHOLS",
+        "zh-HK": "HKTVmall",
+        "zh-CN": "HKTVmall"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -848,6 +1266,9 @@
     },
     {
       "name": "HERTZ",
+      "names": {
+        "en": "HERTZ"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -857,6 +1278,11 @@
     },
     {
       "name": "HK Tramways",
+      "names": {
+        "en": "HK Tramways",
+        "zh-HK": "香港電車",
+        "zh-CN": "香港电车"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -866,6 +1292,11 @@
     },
     {
       "name": "HKeToll",
+      "names": {
+        "en": "HKeToll",
+        "zh-HK": "易通行",
+        "zh-CN": "易通行"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -875,6 +1306,11 @@
     },
     {
       "name": "HKT HOME PHONE",
+      "names": {
+        "en": "HKT HOME PHONE",
+        "zh-HK": "HKT 家居電話",
+        "zh-CN": "HKT 家居电话"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -884,6 +1320,11 @@
     },
     {
       "name": "HKTicketing",
+      "names": {
+        "en": "HKTicketing",
+        "zh-HK": "快達票",
+        "zh-CN": "快达票"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -893,6 +1334,11 @@
     },
     {
       "name": "HKTVmall",
+      "names": {
+        "en": "HKTVmall",
+        "zh-HK": "HARVEY NICHOLS",
+        "zh-CN": "HARVEY NICHOLS"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -902,6 +1348,11 @@
     },
     {
       "name": "Home+ By Ella",
+      "names": {
+        "en": "Home+ By Ella",
+        "zh-HK": "生活工房",
+        "zh-CN": "生活工房"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -911,6 +1362,11 @@
     },
     {
       "name": "Hong Kong Flavour",
+      "names": {
+        "en": "Hong Kong Flavour",
+        "zh-HK": "本灣水產",
+        "zh-CN": "本湾水产"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -920,6 +1376,11 @@
     },
     {
       "name": "hutchgo",
+      "names": {
+        "en": "hutchgo",
+        "zh-HK": "hutchgo",
+        "zh-CN": "hutchgo"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -929,6 +1390,9 @@
     },
     {
       "name": "INN – I’m Not Nothing",
+      "names": {
+        "en": "INN – I’m Not Nothing"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -938,6 +1402,11 @@
     },
     {
       "name": "INTERNATIONAL",
+      "names": {
+        "en": "INTERNATIONAL",
+        "zh-HK": "INTERNATIONAL",
+        "zh-CN": "INTERNATIONAL"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -947,6 +1416,11 @@
     },
     {
       "name": "IPSA",
+      "names": {
+        "en": "IPSA",
+        "zh-HK": "IPSA",
+        "zh-CN": "IPSA"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -956,6 +1430,10 @@
     },
     {
       "name": "J SELECT",
+      "names": {
+        "en": "J SELECT",
+        "zh-HK": "J SELECT"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -965,6 +1443,11 @@
     },
     {
       "name": "Japan Home Centre (JHC)",
+      "names": {
+        "en": "Japan Home Centre (JHC)",
+        "zh-HK": "JHC真好城",
+        "zh-CN": "JHC真好城"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -974,6 +1457,11 @@
     },
     {
       "name": "Joint Publishing",
+      "names": {
+        "en": "Joint Publishing",
+        "zh-HK": "三聯書店",
+        "zh-CN": "三联书店"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -983,6 +1471,11 @@
     },
     {
       "name": "JOYCE BEAUTY",
+      "names": {
+        "en": "JOYCE BEAUTY",
+        "zh-HK": "JOYCE BEAUTY",
+        "zh-CN": "JOYCE BEAUTY"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -992,6 +1485,11 @@
     },
     {
       "name": "K11 Art House",
+      "names": {
+        "en": "K11 Art House",
+        "zh-HK": "K11 Art House",
+        "zh-CN": "K11 Art House"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1001,6 +1499,11 @@
     },
     {
       "name": "KeyChain Pay",
+      "names": {
+        "en": "KeyChain Pay",
+        "zh-HK": "KeyChain Pay",
+        "zh-CN": "KeyChain Pay"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1010,6 +1513,11 @@
     },
     {
       "name": "KKBOX",
+      "names": {
+        "en": "KKBOX",
+        "zh-HK": "KKBOX",
+        "zh-CN": "KKBOX"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1019,6 +1527,11 @@
     },
     {
       "name": "KKDay",
+      "names": {
+        "en": "KKDay",
+        "zh-HK": "KKDay",
+        "zh-CN": "KKDay"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1028,6 +1541,11 @@
     },
     {
       "name": "KKTix",
+      "names": {
+        "en": "KKTix",
+        "zh-HK": "KKTix",
+        "zh-CN": "KKTix"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1037,6 +1555,11 @@
     },
     {
       "name": "Klook",
+      "names": {
+        "en": "Klook",
+        "zh-HK": "Klook",
+        "zh-CN": "Klook"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1046,6 +1569,11 @@
     },
     {
       "name": "KMB",
+      "names": {
+        "en": "KMB",
+        "zh-HK": "九巴",
+        "zh-CN": "九巴"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1055,6 +1583,11 @@
     },
     {
       "name": "La Bohéme",
+      "names": {
+        "en": "La Bohéme",
+        "zh-HK": "La Bohéme",
+        "zh-CN": "La Bohéme"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1064,6 +1597,9 @@
     },
     {
       "name": "Lady M",
+      "names": {
+        "en": "Lady M"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1073,6 +1609,11 @@
     },
     {
       "name": "Life Kan",
+      "names": {
+        "en": "Life Kan",
+        "zh-HK": "生活館",
+        "zh-CN": "生活馆"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1082,6 +1623,11 @@
     },
     {
       "name": "Life@HOME",
+      "names": {
+        "en": "Life@HOME",
+        "zh-HK": "生活廊",
+        "zh-CN": "生活廊"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1091,6 +1637,11 @@
     },
     {
       "name": "Living PLAZA by AEON",
+      "names": {
+        "en": "Living PLAZA by AEON",
+        "zh-HK": "Living PLAZA by AEON",
+        "zh-CN": "Living PLAZA by AEON"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1100,6 +1651,11 @@
     },
     {
       "name": "LOG-ON",
+      "names": {
+        "en": "LOG-ON",
+        "zh-HK": "LOG-ON",
+        "zh-CN": "LOG-ON"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1109,6 +1665,11 @@
     },
     {
       "name": "MARKS & SPENCER",
+      "names": {
+        "en": "MARKS & SPENCER",
+        "zh-HK": "MARKS & SPENCER",
+        "zh-CN": "MARKS & SPENCER"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1118,6 +1679,11 @@
     },
     {
       "name": "MCL Cinemas",
+      "names": {
+        "en": "MCL Cinemas",
+        "zh-HK": "MCL 院線",
+        "zh-CN": "MCL 院线"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1127,6 +1693,11 @@
     },
     {
       "name": "Miramar Travel",
+      "names": {
+        "en": "Miramar Travel",
+        "zh-HK": "美麗華旅遊",
+        "zh-CN": "美丽华旅游"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1136,6 +1707,11 @@
     },
     {
       "name": "MISCH MASCH",
+      "names": {
+        "en": "MISCH MASCH",
+        "zh-HK": "MISCH MASCH",
+        "zh-CN": "MISCH MASCH"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1145,6 +1721,9 @@
     },
     {
       "name": "Mobile Tmoney",
+      "names": {
+        "en": "Mobile Tmoney"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1154,6 +1733,11 @@
     },
     {
       "name": "Mono Mono",
+      "names": {
+        "en": "Mono Mono",
+        "zh-HK": "Mono Mono",
+        "zh-CN": "Mono Mono"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1163,6 +1747,11 @@
     },
     {
       "name": "Moood Massage",
+      "names": {
+        "en": "Moood Massage",
+        "zh-HK": "沐館",
+        "zh-CN": "沐馆"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1172,6 +1761,11 @@
     },
     {
       "name": "Moov",
+      "names": {
+        "en": "Moov",
+        "zh-HK": "Moov",
+        "zh-CN": "Moov"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1181,6 +1775,9 @@
     },
     {
       "name": "Mother Pearl",
+      "names": {
+        "en": "Mother Pearl"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1190,6 +1787,11 @@
     },
     {
       "name": "Movie Town",
+      "names": {
+        "en": "Movie Town",
+        "zh-HK": "Movie Town",
+        "zh-CN": "Movie Town"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1199,6 +1801,11 @@
     },
     {
       "name": "mtm labo",
+      "names": {
+        "en": "mtm labo",
+        "zh-HK": "mtm labo",
+        "zh-CN": "mtm labo"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1208,6 +1815,11 @@
     },
     {
       "name": "MTR",
+      "names": {
+        "en": "MTR",
+        "zh-HK": "MTR",
+        "zh-CN": "MTR"
+      },
       "tags": [
         "ryc:lifestyle",
         "everymile:designated"
@@ -1218,6 +1830,11 @@
     },
     {
       "name": "Nam Pei Hong",
+      "names": {
+        "en": "Nam Pei Hong",
+        "zh-HK": "南北行",
+        "zh-CN": "南北行"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1227,6 +1844,9 @@
     },
     {
       "name": "NAMCO",
+      "names": {
+        "en": "NAMCO"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1236,6 +1856,11 @@
     },
     {
       "name": "NARS",
+      "names": {
+        "en": "NARS",
+        "zh-HK": "NARS",
+        "zh-CN": "NARS"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1245,6 +1870,11 @@
     },
     {
       "name": "NETVIGATOR",
+      "names": {
+        "en": "NETVIGATOR",
+        "zh-HK": "網上行",
+        "zh-CN": "网上行"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1254,6 +1884,11 @@
     },
     {
       "name": "New participating merchants, starting from 1 January 2026.",
+      "names": {
+        "en": "New participating merchants, starting from 1 January 2026.",
+        "zh-HK": "新參與商戶，由2026年1月1日生效。",
+        "zh-CN": "新参与商户，由2026年1月1日生效。"
+      },
       "tags": [
         "ryc:home",
         "ryc:shopping"
@@ -1264,6 +1899,11 @@
     },
     {
       "name": "Neway CEO Karaoke",
+      "names": {
+        "en": "Neway CEO Karaoke",
+        "zh-HK": "Neway CEO Karaoke",
+        "zh-CN": "Neway CEO Karaoke"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1273,6 +1913,11 @@
     },
     {
       "name": "NICAL",
+      "names": {
+        "en": "NICAL",
+        "zh-HK": "NICAL",
+        "zh-CN": "NICAL"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1282,6 +1927,9 @@
     },
     {
       "name": "NINETYs",
+      "names": {
+        "en": "NINETYs"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1291,6 +1939,10 @@
     },
     {
       "name": "Ninki Denki",
+      "names": {
+        "en": "Ninki Denki",
+        "zh-HK": "人気电器店"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1300,6 +1952,9 @@
     },
     {
       "name": "NOC",
+      "names": {
+        "en": "NOC"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1309,6 +1964,11 @@
     },
     {
       "name": "Now TV",
+      "names": {
+        "en": "Now TV",
+        "zh-HK": "Now TV",
+        "zh-CN": "Now TV"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1318,6 +1978,9 @@
     },
     {
       "name": "OLIVE YOUNG in South Korea",
+      "names": {
+        "en": "OLIVE YOUNG in South Korea"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1327,6 +1990,11 @@
     },
     {
       "name": "OPTICAL 88",
+      "names": {
+        "en": "OPTICAL 88",
+        "zh-HK": "眼鏡88",
+        "zh-CN": "眼镜88"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1336,6 +2004,11 @@
     },
     {
       "name": "ORiental Traffic",
+      "names": {
+        "en": "ORiental Traffic",
+        "zh-HK": "ORiental Traffic",
+        "zh-CN": "ORiental Traffic"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1345,6 +2018,11 @@
     },
     {
       "name": "OSIM",
+      "names": {
+        "en": "OSIM",
+        "zh-HK": "OSIM",
+        "zh-CN": "OSIM"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1354,6 +2032,11 @@
     },
     {
       "name": "OTO",
+      "names": {
+        "en": "OTO",
+        "zh-HK": "OTO",
+        "zh-CN": "OTO"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1363,6 +2046,9 @@
     },
     {
       "name": "Pacific Coffee",
+      "names": {
+        "en": "Pacific Coffee"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1372,6 +2058,10 @@
     },
     {
       "name": "Panasonic Showroom",
+      "names": {
+        "en": "Panasonic Showroom",
+        "zh-HK": "Panasonic陳列室"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1381,6 +2071,11 @@
     },
     {
       "name": "PARKnSHOP",
+      "names": {
+        "en": "PARKnSHOP",
+        "zh-HK": "百佳超級市場",
+        "zh-CN": "百佳超级市场"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1390,6 +2085,11 @@
     },
     {
       "name": "Pet Line",
+      "names": {
+        "en": "Pet Line",
+        "zh-HK": "寵寵線",
+        "zh-CN": "宠宠线"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1399,6 +2099,11 @@
     },
     {
       "name": "Petmium Superstore",
+      "names": {
+        "en": "Petmium Superstore",
+        "zh-HK": "Petmium寵物百貨",
+        "zh-CN": "Petmium宠物百货"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1408,6 +2113,9 @@
     },
     {
       "name": "PetroChina",
+      "names": {
+        "en": "PetroChina"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1417,6 +2125,11 @@
     },
     {
       "name": "PIT",
+      "names": {
+        "en": "PIT",
+        "zh-HK": "PIT",
+        "zh-CN": "PIT"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1426,6 +2139,9 @@
     },
     {
       "name": "Pret A Manger",
+      "names": {
+        "en": "Pret A Manger"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1435,6 +2151,10 @@
     },
     {
       "name": "Price.com.hk",
+      "names": {
+        "en": "Price.com.hk",
+        "zh-HK": "Price網購"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1444,6 +2164,11 @@
     },
     {
       "name": "PURE Group",
+      "names": {
+        "en": "PURE Group",
+        "zh-HK": "PURE Group",
+        "zh-CN": "PURE Group"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1453,6 +2178,11 @@
     },
     {
       "name": "Q-Pets",
+      "names": {
+        "en": "Q-Pets",
+        "zh-HK": "Q-Pets",
+        "zh-CN": "Q-Pets"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1462,6 +2192,11 @@
     },
     {
       "name": "Red Carrot",
+      "names": {
+        "en": "Red Carrot",
+        "zh-HK": "紅蘿蔔",
+        "zh-CN": "红萝蔔"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1471,17 +2206,25 @@
     },
     {
       "name": "Remarks:",
+      "names": {
+        "en": "Remarks:",
+        "zh-HK": "註：",
+        "zh-CN": "注："
+      },
       "tags": [
-        "ryc:home",
         "ryc:lifestyle",
+        "ryc:home",
         "ryc:shopping"
       ],
-      "category": "home",
-      "subcategory": "Pet Care",
+      "category": "lifestyle",
+      "subcategory": "Transportation",
       "source": "ryc"
     },
     {
       "name": "Road Tunnel Toll Plaza",
+      "names": {
+        "en": "Road Tunnel Toll Plaza"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1491,6 +2234,11 @@
     },
     {
       "name": "ROCKPORT",
+      "names": {
+        "en": "ROCKPORT",
+        "zh-HK": "ROCKPORT",
+        "zh-CN": "ROCKPORT"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1500,6 +2248,11 @@
     },
     {
       "name": "ROYCE'",
+      "names": {
+        "en": "ROYCE'",
+        "zh-HK": "ROYCE'",
+        "zh-CN": "ROYCE'"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1509,6 +2262,11 @@
     },
     {
       "name": "Sa Sa",
+      "names": {
+        "en": "Sa Sa",
+        "zh-HK": "莎莎",
+        "zh-CN": "莎莎"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1518,6 +2276,9 @@
     },
     {
       "name": "sensory ZERO",
+      "names": {
+        "en": "sensory ZERO"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1527,6 +2288,9 @@
     },
     {
       "name": "Sephora",
+      "names": {
+        "en": "Sephora"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1536,6 +2300,11 @@
     },
     {
       "name": "Serge Lutens",
+      "names": {
+        "en": "Serge Lutens",
+        "zh-HK": "Serge Lutens",
+        "zh-CN": "Serge Lutens"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1545,6 +2314,11 @@
     },
     {
       "name": "Shell",
+      "names": {
+        "en": "Shell",
+        "zh-HK": "Shell",
+        "zh-CN": "Shell"
+      },
       "tags": [
         "ryc:lifestyle",
         "everymile:designated"
@@ -1555,6 +2329,11 @@
     },
     {
       "name": "Shell Recharge",
+      "names": {
+        "en": "Shell Recharge",
+        "zh-HK": "Shell Recharge",
+        "zh-CN": "Shell Recharge"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1564,6 +2343,11 @@
     },
     {
       "name": "shh massage",
+      "names": {
+        "en": "shh massage",
+        "zh-HK": "靜",
+        "zh-CN": "静"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1573,6 +2357,11 @@
     },
     {
       "name": "SHISEIDO",
+      "names": {
+        "en": "SHISEIDO",
+        "zh-HK": "SHISEIDO",
+        "zh-CN": "SHISEIDO"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1582,6 +2371,11 @@
     },
     {
       "name": "SIMMONS",
+      "names": {
+        "en": "SIMMONS",
+        "zh-HK": "蓆夢思",
+        "zh-CN": "蓆梦思"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1591,6 +2385,11 @@
     },
     {
       "name": "Sincere Department Store",
+      "names": {
+        "en": "Sincere Department Store",
+        "zh-HK": "先施百貨",
+        "zh-CN": "先施百货"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1600,6 +2399,11 @@
     },
     {
       "name": "SINOPEC",
+      "names": {
+        "en": "SINOPEC",
+        "zh-HK": "SINOPEC",
+        "zh-CN": "SINOPEC"
+      },
       "tags": [
         "ryc:lifestyle",
         "everymile:designated"
@@ -1610,6 +2414,11 @@
     },
     {
       "name": "SKECHERS",
+      "names": {
+        "en": "SKECHERS",
+        "zh-HK": "SKECHERS",
+        "zh-CN": "SKECHERS"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1619,6 +2428,11 @@
     },
     {
       "name": "SLOWOOD",
+      "names": {
+        "en": "SLOWOOD",
+        "zh-HK": "SLOWOOD",
+        "zh-CN": "SLOWOOD"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1628,6 +2442,11 @@
     },
     {
       "name": "SmarTone",
+      "names": {
+        "en": "SmarTone",
+        "zh-HK": "SmarTone",
+        "zh-CN": "SmarTone"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1637,6 +2456,11 @@
     },
     {
       "name": "SmartPlay",
+      "names": {
+        "en": "SmartPlay",
+        "zh-HK": "康體通",
+        "zh-CN": "康体通"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1646,6 +2470,11 @@
     },
     {
       "name": "Snap Fitness",
+      "names": {
+        "en": "Snap Fitness",
+        "zh-HK": "Snap Fitness",
+        "zh-CN": "Snap Fitness"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1655,6 +2484,11 @@
     },
     {
       "name": "SOGO",
+      "names": {
+        "en": "SOGO",
+        "zh-HK": "崇光百貨",
+        "zh-CN": "崇光百货"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1664,6 +2498,11 @@
     },
     {
       "name": "SPA by mtm labo",
+      "names": {
+        "en": "SPA by mtm labo",
+        "zh-HK": "SPA by mtm labo",
+        "zh-CN": "SPA by mtm labo"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1673,6 +2512,11 @@
     },
     {
       "name": "SPORT b.",
+      "names": {
+        "en": "SPORT b.",
+        "zh-HK": "SPORT b.",
+        "zh-CN": "SPORT b."
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1682,6 +2526,11 @@
     },
     {
       "name": "Square Fitness",
+      "names": {
+        "en": "Square Fitness",
+        "zh-HK": "Square Fitness",
+        "zh-CN": "Square Fitness"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1691,6 +2540,11 @@
     },
     {
       "name": "STAR Cinema",
+      "names": {
+        "en": "STAR Cinema",
+        "zh-HK": "STAR Cinema",
+        "zh-CN": "STAR Cinema"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1700,6 +2554,9 @@
     },
     {
       "name": "Starbucks Coffee",
+      "names": {
+        "en": "Starbucks Coffee"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1709,6 +2566,9 @@
     },
     {
       "name": "Suica",
+      "names": {
+        "en": "Suica"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1718,6 +2578,11 @@
     },
     {
       "name": "Sulwhasoo",
+      "names": {
+        "en": "Sulwhasoo",
+        "zh-HK": "雪花秀",
+        "zh-CN": "雪花秀"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1727,6 +2592,11 @@
     },
     {
       "name": "Sun and Moon Massage",
+      "names": {
+        "en": "Sun and Moon Massage",
+        "zh-HK": "日月按摩",
+        "zh-CN": "日月按摩"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1736,6 +2606,11 @@
     },
     {
       "name": "Sunflower Travel",
+      "names": {
+        "en": "Sunflower Travel",
+        "zh-HK": "新華旅遊",
+        "zh-CN": "新华旅游"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1745,6 +2620,10 @@
     },
     {
       "name": "Suning",
+      "names": {
+        "en": "Suning",
+        "zh-HK": "蘇寧"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1754,6 +2633,11 @@
     },
     {
       "name": "SUPREME",
+      "names": {
+        "en": "SUPREME",
+        "zh-HK": "SUPREME",
+        "zh-CN": "SUPREME"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1763,6 +2647,9 @@
     },
     {
       "name": "Sushiro Hong Kong",
+      "names": {
+        "en": "Sushiro Hong Kong"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1772,6 +2659,9 @@
     },
     {
       "name": "TAITO STATION",
+      "names": {
+        "en": "TAITO STATION"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1781,6 +2671,9 @@
     },
     {
       "name": "TamJai SamGor Mixian",
+      "names": {
+        "en": "TamJai SamGor Mixian"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1790,6 +2683,9 @@
     },
     {
       "name": "TamJai Yunnan Mixian",
+      "names": {
+        "en": "TamJai Yunnan Mixian"
+      },
       "tags": [
         "red:designated"
       ],
@@ -1799,6 +2695,11 @@
     },
     {
       "name": "TASTE",
+      "names": {
+        "en": "TASTE",
+        "zh-HK": "TASTE",
+        "zh-CN": "TASTE"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1808,6 +2709,11 @@
     },
     {
       "name": "TASTE x FRESH",
+      "names": {
+        "en": "TASTE x FRESH",
+        "zh-HK": "TASTE x FRESH",
+        "zh-CN": "TASTE x FRESH"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1817,6 +2723,9 @@
     },
     {
       "name": "Taxi services",
+      "names": {
+        "en": "Taxi services"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1826,6 +2735,9 @@
     },
     {
       "name": "Tea WG Salon & Boutique",
+      "names": {
+        "en": "Tea WG Salon & Boutique"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1835,6 +2747,11 @@
     },
     {
       "name": "Tesla",
+      "names": {
+        "en": "Tesla",
+        "zh-HK": "Tesla",
+        "zh-CN": "Tesla"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1844,6 +2761,9 @@
     },
     {
       "name": "TESLA SuperCharger",
+      "names": {
+        "en": "TESLA SuperCharger"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1853,6 +2773,11 @@
     },
     {
       "name": "Teva",
+      "names": {
+        "en": "Teva",
+        "zh-HK": "Teva",
+        "zh-CN": "Teva"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1862,6 +2787,11 @@
     },
     {
       "name": "The Commercial Press",
+      "names": {
+        "en": "The Commercial Press",
+        "zh-HK": "商務印書館",
+        "zh-CN": "商务印书馆"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1871,6 +2801,11 @@
     },
     {
       "name": "The Dog’s Garden",
+      "names": {
+        "en": "The Dog’s Garden",
+        "zh-HK": "The Dog’s Garden",
+        "zh-CN": "The Dog’s Garden"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1880,6 +2815,11 @@
     },
     {
       "name": "Theory",
+      "names": {
+        "en": "Theory",
+        "zh-HK": "Theory",
+        "zh-CN": "Theory"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1889,6 +2829,11 @@
     },
     {
       "name": "This promotion is only applicable to the stores in Hong Kong of all designated merchants (excluding counters at department stores and outlets).",
+      "names": {
+        "en": "This promotion is only applicable to the stores in Hong Kong of all designated merchants (excluding counters at department stores and outlets).",
+        "zh-HK": "此推廣只適用於所有指定商戶的香港分店（百貨公司專櫃及特賣場除外）。",
+        "zh-CN": "此推广只适用于所有指定商户的香港分店（百货公司专柜及特卖场除外）。"
+      },
       "tags": [
         "ryc:home",
         "ryc:shopping"
@@ -1899,6 +2844,11 @@
     },
     {
       "name": "Three Little Meow",
+      "names": {
+        "en": "Three Little Meow",
+        "zh-HK": "Three Little Meow",
+        "zh-CN": "Three Little Meow"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1908,6 +2858,11 @@
     },
     {
       "name": "TIME by mtm labo",
+      "names": {
+        "en": "TIME by mtm labo",
+        "zh-HK": "TIME by mtm labo",
+        "zh-CN": "TIME by mtm labo"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1917,6 +2872,9 @@
     },
     {
       "name": "Tocoo Car Rental",
+      "names": {
+        "en": "Tocoo Car Rental"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1926,6 +2884,11 @@
     },
     {
       "name": "Tom Lee Music",
+      "names": {
+        "en": "Tom Lee Music",
+        "zh-HK": "通利琴行",
+        "zh-CN": "通利琴行"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1935,6 +2898,11 @@
     },
     {
       "name": "TONI&GUY HONG KONG",
+      "names": {
+        "en": "TONI&GUY HONG KONG",
+        "zh-HK": "TONI&GUY HONG KONG",
+        "zh-CN": "TONI&GUY HONG KONG"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1944,6 +2912,9 @@
     },
     {
       "name": "TOYOTA Rent a Car",
+      "names": {
+        "en": "TOYOTA Rent a Car"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -1953,6 +2924,11 @@
     },
     {
       "name": "Trip.com",
+      "names": {
+        "en": "Trip.com",
+        "zh-HK": "Trip.com",
+        "zh-CN": "Trip.com"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -1962,6 +2938,11 @@
     },
     {
       "name": "TWIST",
+      "names": {
+        "en": "TWIST",
+        "zh-HK": "TWIST",
+        "zh-CN": "TWIST"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1971,6 +2952,11 @@
     },
     {
       "name": "UGG",
+      "names": {
+        "en": "UGG",
+        "zh-HK": "UGG",
+        "zh-CN": "UGG"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -1980,6 +2966,11 @@
     },
     {
       "name": "Ulfenbo",
+      "names": {
+        "en": "Ulfenbo",
+        "zh-HK": "歐化寶",
+        "zh-CN": "欧化宝"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1989,6 +2980,11 @@
     },
     {
       "name": "Ulferts",
+      "names": {
+        "en": "Ulferts",
+        "zh-HK": "歐化傢俬",
+        "zh-CN": "欧化傢俬"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -1998,6 +2994,11 @@
     },
     {
       "name": "UNIQLO",
+      "names": {
+        "en": "UNIQLO",
+        "zh-HK": "UNIQLO",
+        "zh-CN": "UNIQLO"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2007,6 +3008,11 @@
     },
     {
       "name": "UNY",
+      "names": {
+        "en": "UNY",
+        "zh-HK": "UNY 生活創富",
+        "zh-CN": "UNY 生活创富"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2016,6 +3022,9 @@
     },
     {
       "name": "Urban Coffee Roaster",
+      "names": {
+        "en": "Urban Coffee Roaster"
+      },
       "tags": [
         "everymile:designated"
       ],
@@ -2025,6 +3034,11 @@
     },
     {
       "name": "Vita Green",
+      "names": {
+        "en": "Vita Green",
+        "zh-HK": "維特健靈",
+        "zh-CN": "维特健灵"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2034,6 +3048,11 @@
     },
     {
       "name": "WA ORiental Traffic",
+      "names": {
+        "en": "WA ORiental Traffic",
+        "zh-HK": "WA ORiental Traffic",
+        "zh-CN": "WA ORiental Traffic"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2043,6 +3062,10 @@
     },
     {
       "name": "Wai Ming Electrical",
+      "names": {
+        "en": "Wai Ming Electrical",
+        "zh-HK": "偉明電業"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -2052,6 +3075,11 @@
     },
     {
       "name": "Wai Yuen Tong",
+      "names": {
+        "en": "Wai Yuen Tong",
+        "zh-HK": "位元堂",
+        "zh-CN": "位元堂"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2061,6 +3089,11 @@
     },
     {
       "name": "Watson's Wine",
+      "names": {
+        "en": "Watson's Wine",
+        "zh-HK": "屈臣氏酒窖",
+        "zh-CN": "屈臣氏酒窖"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2070,6 +3103,11 @@
     },
     {
       "name": "Watsons",
+      "names": {
+        "en": "Watsons",
+        "zh-HK": "屈臣氏",
+        "zh-CN": "屈臣氏"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2079,6 +3117,10 @@
     },
     {
       "name": "Whirlpool Official Online Store W-Mall",
+      "names": {
+        "en": "Whirlpool Official Online Store W-Mall",
+        "zh-HK": "惠而浦網上商店W-Mall"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -2088,6 +3130,10 @@
     },
     {
       "name": "Wilson Communications",
+      "names": {
+        "en": "Wilson Communications",
+        "zh-HK": "衛訊"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -2097,6 +3143,11 @@
     },
     {
       "name": "Wing On Department Stores / Wing On Plus",
+      "names": {
+        "en": "Wing On Department Stores / Wing On Plus",
+        "zh-HK": "永安百貨",
+        "zh-CN": "永安百货"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2106,6 +3157,11 @@
     },
     {
       "name": "Wing On Travel",
+      "names": {
+        "en": "Wing On Travel",
+        "zh-HK": "永安旅遊",
+        "zh-CN": "永安旅游"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -2115,6 +3171,11 @@
     },
     {
       "name": "YATA",
+      "names": {
+        "en": "YATA",
+        "zh-HK": "一田",
+        "zh-CN": "一田"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2124,6 +3185,11 @@
     },
     {
       "name": "YMT Travel",
+      "names": {
+        "en": "YMT Travel",
+        "zh-HK": "油麻地旅遊",
+        "zh-CN": "油麻地旅游"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -2133,6 +3199,10 @@
     },
     {
       "name": "YOHO",
+      "names": {
+        "en": "YOHO",
+        "zh-HK": "友和 YOHO"
+      },
       "tags": [
         "ryc:home"
       ],
@@ -2142,6 +3212,11 @@
     },
     {
       "name": "ZALORA",
+      "names": {
+        "en": "ZALORA",
+        "zh-HK": "ZALORA",
+        "zh-CN": "ZALORA"
+      },
       "tags": [
         "ryc:shopping"
       ],
@@ -2151,6 +3226,11 @@
     },
     {
       "name": "Zi Massage & Wellness",
+      "names": {
+        "en": "Zi Massage & Wellness",
+        "zh-HK": "梔 Zi Massage & Wellness",
+        "zh-CN": "栀 Zi Massage & Wellness"
+      },
       "tags": [
         "ryc:lifestyle"
       ],
@@ -2160,6 +3240,11 @@
     },
     {
       "name": "Zoff",
+      "names": {
+        "en": "Zoff",
+        "zh-HK": "Zoff",
+        "zh-CN": "Zoff"
+      },
       "tags": [
         "ryc:shopping"
       ],

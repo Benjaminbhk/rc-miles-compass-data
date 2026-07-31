@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30",
-  "count": 34,
+  "updated": "2026-07-31",
+  "count": 32,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
   "newIds": [],
   "offers": [
@@ -9,11 +9,13 @@
       "title": "HSBC Credit Card Limited-Time Double Welcome Bonus",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/card-heroes/",
       "summary": "HSBC Credit Card Limited-Time Surprise, Double Welcome Bonus! It’s just more rewarding to dine, shop, and travel with HSBC Credit Card, the welcome rewards just keep stacking up! Don't have a card yet? This is the best time to apply! Double Welcome Bonus Offer Apply online succes…",
+      "highlight": "15% off",
       "dates": [
         "31 July 2026",
         "13 July 2026",
         "1 June 2026"
       ],
+      "validUntil": "2026-07-31",
       "cards": [
         "hsbc-everymile",
         "hsbc-pulse",
@@ -22,433 +24,456 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "everymile-spending-offer",
       "title": "HSBC EveryMile Credit Card Exclusive Offer",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/everymile-spending-offer/",
       "summary": "Travel smart, go for Red Hot! HSBC EveryMile Credit Card gives you a fully upgraded rewards experience, letting you travel like never before! Whether you're commuting around town or travelling abroad, unlock extra miles and enjoy additional offers! As low as HK$2 = 1 mile 1 time-…",
+      "highlight": "HK$2 = 1 mile",
       "dates": [
         "31 December 2026",
-        "1 August 2025",
-        "31 January 2026",
-        "30 September 2026"
+        "30 September 2026",
+        "31 July 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-everymile"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "health-care-special-gba-offer",
       "title": "Red Hot Healthcare Privileges - Greater Bay Area",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/gba-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "highlight": "Up to 50% off",
       "dates": [
         "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "health-care-special-hospital-offer",
       "title": "Red Hot Healthcare Privileges - Hospital",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/hospital-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "highlight": "Up to 61% off",
       "dates": [
         "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "health-care-special-insurance-offers",
       "title": "Red Hot Healthcare Privileges - Insurance",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/insurance-offers/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "highlight": "up to $1,450 RewardCash",
       "dates": [
         "30 May 2026"
       ],
+      "validUntil": "2026-05-30",
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "health-care-special-medical-center-offer",
       "title": "Red Hot Healthcare Privileges - Medical Center",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/medical-center-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "highlight": "12% off",
       "dates": [
         "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "health-care-special-other-offer",
       "title": "Red Hot Healthcare Privileges - Others",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/other-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "highlight": "Up to 12% off",
       "dates": [
         "31 May 2026",
         "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offer-haagen-daz",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Häagen-Dazs",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offer-haagen-daz/",
-      "summary": "From 21 July to 25 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at Häagen-Dazs with your HSBC credit card: EarlyBird 1: up to 35% off (21 July to 31 August 2026) EarlyBird 2: up to 26% off (1 to 25 September 2026) --> Please select one of…",
+      "summary": "From 21 July to 25 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at Häagen-Dazs with your HSBC credit card: Please select one of the offers to see more details. Hong Kong MX Arome Häagen-Dazs The Ritz-Carlton, Hong Kong W Hong Kong Island S…",
+      "highlight": "up to 35% off",
       "dates": [
         "25 September 2026",
-        "31 August 2026",
-        "13 July 2026"
+        "31 August 2026"
       ],
+      "validUntil": "2026-09-25",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offer_shangri-la",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Island Shangri-La, Kowloon Shangri-La and Kerry Hotel, Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offer_shangri-la/",
-      "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at Island Shangri-La, Kowloon Shangri-La and Kerry Hotel, Hong Kong with your HSBC credit card: Island Shangri-La: 20% off mooncakes, goodies and hampers Kowloon Shangri-La: O…",
+      "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at Island Shangri-La, Kowloon Shangri-La and Kerry Hotel, Hong Kong with your HSBC credit card: Please select one of the offers to see more details. Hong Kong MX Arome Häagen-…",
+      "highlight": "20% off",
       "dates": [
         "20 September 2026",
         "13 August 2026",
         "21 July 2026"
       ],
+      "validUntil": "2026-09-20",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offers-arome",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Arome",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-arome/",
       "summary": "You can enjoy the following offers for Mid-Autumn Festival delicacies at Arome with your HSBC credit card: 40% off selected items from 21 July to 20 September 2026 Redeem physical coupons via RC e-Shop on HSBC Reward+ for as low as 46% off from 21 July to 31 August 2026. The long…",
+      "highlight": "up to 48% off",
       "dates": [
         "20 September 2026",
         "31 August 2026"
       ],
+      "validUntil": "2026-09-20",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offers-lmo",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Mandarin Oriental The Landmark, Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-lmo/",
       "summary": "You can enjoy the following offers at Mandarin Oriental The Landmark, Hong Kong, with your HSBC credit card: 20% off early bird offer when you order The Lantern of Woven Stone Mooncake Box (6 pieces) from 21 to 31 July 2026 15% off when you order The Lantern of Woven Stone Moonca…",
+      "highlight": "20% off",
       "dates": [
         "31 July 2026",
         "20 September 2026",
         "25 September 2026"
       ],
+      "validUntil": "2026-09-25",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offers-mx",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Hong Kong MX",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-mx/",
       "summary": "You can enjoy the following offers for Mid-Autumn Festival delicacies at Hong Kong MX with your HSBC credit card: 40% off selected items from 21 July to 20 September 2026 Redeem physical coupons via RC e-Shop on HSBC Reward+ for as low as 46% off from 21 July to 31 August 2026. T…",
+      "highlight": "up to 48% off",
       "dates": [
         "20 September 2026",
         "31 August 2026"
       ],
+      "validUntil": "2026-09-20",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offers-rc",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - The Ritz-Carlton, Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-rc/",
       "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at The Ritz-Carlton, Hong Kong with your HSBC credit card: Special price for The Ritz-Carlton, Hong Kong Classic Mooncake - Low-Sugar Mini Egg Custard Lava Mooncake Set (8 pie…",
+      "highlight": null,
       "dates": [
         "20 September 2026",
         "25 September 2026"
       ],
+      "validUntil": "2026-09-25",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "mooncake-promotion-offers-whk",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - W Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-whk/",
       "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at W Hong Kong with your HSBC credit card: Special price for W Hong Kong Mini Lava Egg Custard Mooncake Gift Set (6 pieces) Please select one of the offers to see more details…",
+      "highlight": null,
       "dates": [
         "20 September 2026",
         "25 September 2026"
       ],
+      "validUntil": "2026-09-25",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Dining",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/dining/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
         "31 December 2026",
-        "25 December 2026",
-        "12 October 2025"
+        "25 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Insurance",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/insurance/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
         "31 December 2026",
         "30 September 2026",
         "11 July 2025"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Shopping",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/shopping/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "highlight": "up to 5% cashback",
       "dates": [
         "31 October 2026",
         "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Travel",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/travel/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "highlight": "12% off",
       "dates": [
         "31 October 2026",
         "31 December 2026",
-        "1 September 2025",
-        "31 December 2025"
+        "1 January 2026",
+        "15 January 2027"
       ],
+      "validUntil": "2027-01-15",
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
       "title": "Red Hot Spending Rewards - Mainland China",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-overseas-spending-rewards/",
       "summary": "HSBC credit card making every travel experience a happy and memorable one, this time we bring across the exceptional rewards to you! From 1 July to 31 December 2026, accumulate HK$1,200 or above in mainland China spending monthly with your HSBC Credit Card to enjoy an extra 3% Re…",
+      "highlight": "3% RewardCash",
       "dates": [
-        "31 December 2026",
-        "30 September 2025",
-        "31 December 2025"
+        "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-pulse",
         "hsbc-visa-gold"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
-    },
-    {
-      "id": "red-hot-summer-broadway",
-      "title": "Object moved",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/broadway/",
-      "summary": "Please select one of the offers to see more details. Selected Dining Outlets Broadway SHKP Malls Selected Dining Outlets Broadway Page tab selected SHKP Malls Broadway -->",
-      "dates": [],
-      "cards": [],
-      "allCards": true,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-broadway-offers",
       "title": "Red Hot Festival - Broadway - Offers",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/broadway/offers/",
-      "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! RewardCash has always be…",
+      "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! With your HSBC credit ca…",
+      "highlight": "up to 50% off",
       "dates": [
-        "31 August 2026",
-        "31 August 2023"
+        "31 August 2026"
       ],
+      "validUntil": "2026-08-31",
       "cards": [
         "hsbc-everymile"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-shkp",
       "title": "Red Hot Festival - SHKP Malls",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/shkp/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we’ve got you covered. Live it up and earn big! With your HSBC credit ca…",
+      "highlight": "15% off",
       "dates": [
         "13 September 2026",
         "31 August 2026"
       ],
+      "validUntil": "2026-09-13",
       "cards": [
         "hsbc-signature"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
-    },
-    {
-      "id": "red-hot-summer-summer-dining",
-      "title": "Object moved",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/",
-      "summary": "null Please select one of the offers to see more details. Selected Dining Outlets Broadway SHKP Malls Selected Dining Outlets Page tab selected Broadway SHKP Malls Selected Dining Outlets -->",
-      "dates": [],
-      "cards": [],
-      "allCards": true,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
       "title": "Red Hot Festival - Selected Dining Outlets - Buy-1-get-1-free offers",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/buy-1-get-1-free/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
         "31 August 2026",
-        "26 September 2026",
-        "13 July 2026"
+        "26 September 2026"
       ],
+      "validUntil": "2026-09-30",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
       "title": "Red Hot Festival - Selected Dining Outlets - Chinese Cuisine",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/chinese-cuisine/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
         "31 August 2026",
         "27 September 2026",
         "26 September 2026"
       ],
+      "validUntil": "2026-09-30",
       "cards": [
         "hsbc-signature",
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
       "title": "Red Hot Festival - Selected Dining Outlets - Hotel Dining",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/hotel-offer/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
         "31 August 2026",
         "26 September 2026",
         "1 July 2026"
       ],
+      "validUntil": "2026-09-30",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
       "title": "Red Hot Festival - Selected Dining Outlets - Japanese Cuisine",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/japanese-cuisine/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
         "31 August 2026"
       ],
+      "validUntil": "2026-09-30",
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-summer-dining-mcdonalds",
       "title": "Red Hot Festival - Selected Dining Outlets - McDonald's®",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/mcdonalds/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
         "31 August 2026",
         "31 July 2026"
       ],
+      "validUntil": "2026-09-30",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
       "title": "Red Hot Festival - Selected Dining Outlets - Others",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/others/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
         "31 August 2026",
         "25 September 2026"
       ],
+      "validUntil": "2026-09-30",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "red-hot-travel-special-travel-offers",
@@ -466,63 +491,67 @@
       "title": "Travel Guru membership programme",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/",
       "summary": "HSBC Credit Card, the best credit card in town * , brings you the HSBC Travel Guru Membership Programme, a tiered membership Programme offering an annual RewardCash rebate of up to 6% on foreign currency spending and a series of travel rewards that will exceed all your expectatio…",
+      "highlight": "Up to 40% off",
       "dates": [
         "1 September 2023",
         "7 April 2024",
         "1 September 2024",
         "31 October 2024"
       ],
+      "validUntil": "2026-04-01",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
       "title": "HSBC easy Credit Card - Link easy. Earn easy. - HSBC easy Credit Card X MoneyBack",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/visa-platinum-asw-promotion/moneyback/",
       "summary": "Link easy. Earn easy! HSBC Credit Cards continue to bring you an easy rewards lifestyle – easy earning and easy spending! Simply link your HSBC easy Credit Card to the MoneyBack App and earn exceptional rewards all year round, from daily essentials to leisure! Take your rewards e…",
+      "highlight": "Up to 50% off",
       "dates": [
         "22 June 2026"
       ],
+      "validUntil": "2026-06-22",
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "visa-signature-emperor-cinemas",
       "title": "HSBC Visa Signature Card Exclusive Offers - Emperor Cinemas",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/visa-signature/emperor-cinemas/",
-      "summary": "From 1 January to 31 December 2026, simply spend with your HSBC Visa Signature Card and enjoy exclusive rewards at the following merchants. Make the most of your staycation. Enjoy discounts and privileges at four hand-picked hotels exclusive to HSBC Visa Signature cardholders fro…",
+      "summary": "From 1 January to 31 December 2026, simply spend with your HSBC Visa Signature Card and enjoy exclusive rewards at the following merchants. HSBC credit card, the best credit card in town*. The one that has it all. Please select one of the offers to see more details. Emperor Cinem…",
+      "highlight": "10% off",
       "dates": [
-        "31 December 2026",
-        "30 November 2021",
-        "31 December 2021"
+        "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-signature"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     },
     {
       "id": "visa-signature-lai-sun-dining",
       "title": "HSBC Visa Signature Card Exclusive Offers - Lai Sun Dining",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/visa-signature/lai-sun-dining/",
-      "summary": "From 1 January to 31 December 2026, simply spend with your HSBC Visa Signature Card and enjoy exclusive rewards at the following merchants. Make the most of your staycation. Enjoy discounts and privileges at four hand-picked hotels exclusive to HSBC Visa Signature cardholders fro…",
+      "summary": "From 1 January to 31 December 2026, simply spend with your HSBC Visa Signature Card and enjoy exclusive rewards at the following merchants. HSBC credit card, the best credit card in town*. The one that has it all. Please select one of the offers to see more details. Emperor Cinem…",
+      "highlight": "15% off",
       "dates": [
-        "31 December 2026",
-        "30 November 2021",
-        "31 December 2021"
+        "31 December 2026"
       ],
+      "validUntil": "2026-12-31",
       "cards": [
         "hsbc-signature"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-30"
+      "lastSeen": "2026-07-31"
     }
   ]
 }

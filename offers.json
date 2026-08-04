@@ -1,36 +1,23 @@
 {
-  "updated": "2026-07-31",
-  "count": 32,
+  "updated": "2026-08-04",
+  "count": 31,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
   "newIds": [],
   "offers": [
-    {
-      "id": "card-heroes",
-      "title": "HSBC Credit Card Limited-Time Double Welcome Bonus",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/card-heroes/",
-      "summary": "HSBC Credit Card Limited-Time Surprise, Double Welcome Bonus! It’s just more rewarding to dine, shop, and travel with HSBC Credit Card, the welcome rewards just keep stacking up! Don't have a card yet? This is the best time to apply! Double Welcome Bonus Offer Apply online succes…",
-      "highlight": "15% off",
-      "dates": [
-        "31 July 2026",
-        "13 July 2026",
-        "1 June 2026"
-      ],
-      "validUntil": "2026-07-31",
-      "cards": [
-        "hsbc-everymile",
-        "hsbc-pulse",
-        "hsbc-signature",
-        "hsbc-red"
-      ],
-      "allCards": false,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
-    },
     {
       "id": "everymile-spending-offer",
       "title": "HSBC EveryMile Credit Card Exclusive Offer",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/everymile-spending-offer/",
       "summary": "Travel smart, go for Red Hot! HSBC EveryMile Credit Card gives you a fully upgraded rewards experience, letting you travel like never before! Whether you're commuting around town or travelling abroad, unlock extra miles and enjoy additional offers! As low as HK$2 = 1 mile 1 time-…",
+      "titles": {
+        "zh-HK": "滙豐EveryMile信用卡專享優惠",
+        "zh-CN": "汇丰EveryMile信用卡专享优惠"
+      },
+      "summaries": {
+        "zh-HK": "識得玩，一定跟最紅！滙豐 EveryMile 信用卡優惠全面升級，無論搭車出行定旅遊，都可盡享里數禮遇！ 低至港幣 2 元 = 1 里 1 限時優惠 旅行更識賺 由 2026 年 7 月 1 日至 12 月 31 日，憑滙豐 EveryMile 信用卡可享以下優惠: 海外簽賬優惠 2 階段 1：7 月 1 日至 9 月 30 日 階段 2：10 月 1 日至 12 月 31 日 作合資格海外簽賬並累積簽賬淨額滿港幣 12,000 元，可賺低至 港幣 2 元 = 1 里 💡 提提您，記得海外簽賬前於滙豐 Reward+ 應用程式登記 3 ，登記後方可開始賺…",
+        "zh-CN": "识得玩，一定跟最红！汇丰 EveryMile 信用卡优惠全面升级，无论搭车出行定旅游，都可尽享里数礼遇！ 低至港币 2 元 = 1 里 1 限时优惠 旅行更识赚 由 2026 年 7 月 1 日至 12 月 31 日，凭汇丰 EveryMile 信用卡可享以下优惠: 海外签账优惠 2 阶段 1：7 月 1 日至 9 月 30 日 阶段 2：10 月 1 日至 12 月 31 日 作合资格海外签账并累积签账净额满港币 12,000 元，可赚低至 港币 2 元 = 1 里 💡 提提您，记得海外签账前于汇丰 Reward+ 应用程式登记 3 ，登记后方可开始赚…"
+      },
+      "bodyHash": "cc2c3173773b",
       "highlight": "HK$2 = 1 mile",
       "dates": [
         "31 December 2026",
@@ -43,13 +30,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "health-care-special-gba-offer",
       "title": "Red Hot Healthcare Privileges - Greater Bay Area",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/gba-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 大灣區優惠",
+        "zh-CN": "最红医疗保健优惠 - 大湾区优惠"
+      },
+      "summaries": {
+        "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 醫療中心 大灣區優惠 Page tab selected 其他禮遇 保險 深圳希華愛康健醫院 體檢服…",
+        "zh-CN": "汇丰信用卡让您无忧照顾身心，守护健康日常。 优惠期内，凭汇丰信用卡于本地及大湾区指定医疗保健商户签账，由身体检查、疫苗接种，激光及眼部护理到中医，都让您可享专属折扣及精选礼遇！ 此外，以指定汇丰信用卡缴付指定汇丰保险计划新保单之保费，更可享高达额外$4,000「奖赏钱」。全方位照顾您的医疗保健所需！ 未有汇丰信用卡？立即网上申请，可享 高达$1,450「奖赏钱」 迎新礼遇。 立即申请 立即申请 请选择优惠 医院 医疗中心 大湾区优惠 其他礼遇 保险 医院 医疗中心 大湾区优惠 Page tab selected 其他礼遇 保险 深圳希华爱康健医院 体检服…"
+      },
+      "bodyHash": "4ba94383c5e5",
       "highlight": "Up to 50% off",
       "dates": [
         "31 December 2026"
@@ -58,13 +54,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "health-care-special-hospital-offer",
       "title": "Red Hot Healthcare Privileges - Hospital",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/hospital-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 醫院",
+        "zh-CN": "最红医疗保健优惠 - 医院"
+      },
+      "summaries": {
+        "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 Page tab selected 醫療中心 大灣區優惠 其他禮遇 保險 嘉諾撒醫院 指定男／女全身…",
+        "zh-CN": "汇丰信用卡让您无忧照顾身心，守护健康日常。 优惠期内，凭汇丰信用卡于本地及大湾区指定医疗保健商户签账，由身体检查、疫苗接种，激光及眼部护理到中医，都让您可享专属折扣及精选礼遇！ 此外，以指定汇丰信用卡缴付指定汇丰保险计划新保单之保费，更可享高达额外$4,000「奖赏钱」。全方位照顾您的医疗保健所需！ 未有汇丰信用卡？立即网上申请，可享 高达$1,450「奖赏钱」 迎新礼遇。 立即申请 立即申请 请选择优惠 医院 医疗中心 大湾区优惠 其他礼遇 保险 医院 Page tab selected 医疗中心 大湾区优惠 其他礼遇 保险 嘉诺撒医院 指定男／女全身…"
+      },
+      "bodyHash": "1556cb69c03c",
       "highlight": "Up to 61% off",
       "dates": [
         "31 December 2026"
@@ -73,13 +78,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "health-care-special-insurance-offers",
       "title": "Red Hot Healthcare Privileges - Insurance",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/insurance-offers/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 保險",
+        "zh-CN": "最红医疗保健优惠 - 保险"
+      },
+      "summaries": {
+        "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 醫療中心 大灣區優惠 其他禮遇 保險 Page tab selected 憑 滙豐Visa信用卡 向…",
+        "zh-CN": "汇丰信用卡让您无忧照顾身心，守护健康日常。 优惠期内，凭汇丰信用卡于本地及大湾区指定医疗保健商户签账，由身体检查、疫苗接种，激光及眼部护理到中医，都让您可享专属折扣及精选礼遇！ 此外，以指定汇丰信用卡缴付指定汇丰保险计划新保单之保费，更可享高达额外$4,000「奖赏钱」。全方位照顾您的医疗保健所需！ 未有汇丰信用卡？立即网上申请，可享 高达$1,450「奖赏钱」 迎新礼遇。 立即申请 立即申请 请选择优惠 医院 医疗中心 大湾区优惠 其他礼遇 保险 医院 医疗中心 大湾区优惠 其他礼遇 保险 Page tab selected 凭 汇丰Visa信用卡 向…"
+      },
+      "bodyHash": "9a6db28238a8",
       "highlight": "up to $1,450 RewardCash",
       "dates": [
         "30 May 2026"
@@ -90,13 +104,16 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "health-care-special-medical-center-offer",
       "title": "Red Hot Healthcare Privileges - Medical Center",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/medical-center-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "titles": {},
+      "summaries": {},
+      "bodyHash": "ace2d0b2e996",
       "highlight": "12% off",
       "dates": [
         "31 December 2026"
@@ -105,13 +122,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "health-care-special-other-offer",
       "title": "Red Hot Healthcare Privileges - Others",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/other-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 其他禮遇",
+        "zh-CN": "最红医疗保健优惠 - 其他礼遇"
+      },
+      "summaries": {
+        "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 醫療中心 大灣區優惠 其他禮遇 Page tab selected 保險 Furmomo 寵物護理服…",
+        "zh-CN": "汇丰信用卡让您无忧照顾身心，守护健康日常。 优惠期内，凭汇丰信用卡于本地及大湾区指定医疗保健商户签账，由身体检查、疫苗接种，激光及眼部护理到中医，都让您可享专属折扣及精选礼遇！ 此外，以指定汇丰信用卡缴付指定汇丰保险计划新保单之保费，更可享高达额外$4,000「奖赏钱」。全方位照顾您的医疗保健所需！ 未有汇丰信用卡？立即网上申请，可享 高达$1,450「奖赏钱」 迎新礼遇。 立即申请 立即申请 请选择优惠 医院 医疗中心 大湾区优惠 其他礼遇 保险 医院 医疗中心 大湾区优惠 其他礼遇 Page tab selected 保险 Furmomo 宠物护理服…"
+      },
+      "bodyHash": "04ad88851954",
       "highlight": "Up to 12% off",
       "dates": [
         "31 May 2026",
@@ -121,13 +147,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offer-haagen-daz",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Häagen-Dazs",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offer-haagen-daz/",
       "summary": "From 21 July to 25 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at Häagen-Dazs with your HSBC credit card: Please select one of the offers to see more details. Hong Kong MX Arome Häagen-Dazs The Ritz-Carlton, Hong Kong W Hong Kong Island S…",
+      "titles": {
+        "zh-HK": "最紅佳節禮遇 － 中秋節食品 - Häagen-Dazs",
+        "zh-CN": "最红佳节礼遇 － 中秋节食品 - Häagen-Dazs"
+      },
+      "summaries": {
+        "zh-HK": "由2026年7月21日至2026年9月25日，憑滙豐信用卡於Häagen-Dazs可享以下中秋節食品優惠： 請選擇優惠 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港美心 東海堂 Häagen-Dazs Page tab selected 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 Häagen-Dazs 早鳥時段1：惠顧Häagen-Dazs雪糕月餅可享低至65折（2026年7月21日至8月31日） 早鳥時…",
+        "zh-CN": "由2026年7月21日至2026年9月25日，凭汇丰信用卡于Häagen-Dazs可享以下中秋节食品优惠： 请选择优惠 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港美心 东海堂 Häagen-Dazs Page tab selected 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 Häagen-Dazs 早鸟时段1：惠顾Häagen-Dazs雪糕月饼可享低至65折（2026年7月21日至8月31日） 早鸟时…"
+      },
+      "bodyHash": "d461d445e45d",
       "highlight": "up to 35% off",
       "dates": [
         "25 September 2026",
@@ -137,13 +172,16 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offer_shangri-la",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Island Shangri-La, Kowloon Shangri-La and Kerry Hotel, Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offer_shangri-la/",
       "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at Island Shangri-La, Kowloon Shangri-La and Kerry Hotel, Hong Kong with your HSBC credit card: Please select one of the offers to see more details. Hong Kong MX Arome Häagen-…",
+      "titles": {},
+      "summaries": {},
+      "bodyHash": "22d449ac2170",
       "highlight": "20% off",
       "dates": [
         "20 September 2026",
@@ -154,13 +192,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offers-arome",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Arome",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-arome/",
       "summary": "You can enjoy the following offers for Mid-Autumn Festival delicacies at Arome with your HSBC credit card: 40% off selected items from 21 July to 20 September 2026 Redeem physical coupons via RC e-Shop on HSBC Reward+ for as low as 46% off from 21 July to 31 August 2026. The long…",
+      "titles": {
+        "zh-HK": "最紅佳節禮遇 － 中秋節食品 - 東海堂",
+        "zh-CN": "最红佳节礼遇 － 中秋节食品 - 东海堂"
+      },
+      "summaries": {
+        "zh-HK": "憑滙豐信用卡於東海堂可享以下中秋節食品優惠： 由2026年7月21日至9月20日，可享指定產品6折優惠 由2026年7月21日至8月31日，可於滙豐Reward+之「獎賞錢e-Shop」以低至54折換購實體禮券，持卡年期愈長，所享折扣愈大！ 由2026年7月21日至9月20日，可於滙豐Reward+之「電子優惠券」以低至52折換購電子禮券 請選擇優惠 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港美心 東海堂 Page tab selected Häagen-…",
+        "zh-CN": "凭汇丰信用卡于东海堂可享以下中秋节食品优惠： 由2026年7月21日至9月20日，可享指定产品6折优惠 由2026年7月21日至8月31日，可于汇丰Reward+之「奖赏钱e-Shop」以低至54折换购实体礼券，持卡年期愈长，所享折扣愈大！ 由2026年7月21日至9月20日，可于汇丰Reward+之「电子优惠券」以低至52折换购电子礼券 请选择优惠 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港美心 东海堂 Page tab selected Häagen-…"
+      },
+      "bodyHash": "0a7bf1970d5b",
       "highlight": "up to 48% off",
       "dates": [
         "20 September 2026",
@@ -170,13 +217,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offers-lmo",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Mandarin Oriental The Landmark, Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-lmo/",
       "summary": "You can enjoy the following offers at Mandarin Oriental The Landmark, Hong Kong, with your HSBC credit card: 20% off early bird offer when you order The Lantern of Woven Stone Mooncake Box (6 pieces) from 21 to 31 July 2026 15% off when you order The Lantern of Woven Stone Moonca…",
+      "titles": {
+        "zh-HK": "最紅佳節禮遇 － 中秋節食品 - 香港置地文華東方酒店",
+        "zh-CN": "最红佳节礼遇 － 中秋节食品 - 香港置地文华东方酒店"
+      },
+      "summaries": {
+        "zh-HK": "憑滙豐信用卡於香港置地文華東方酒店可享以下中秋節食品優惠： 由2026年7月21至31日，訂購星輝簷影月餅禮盒（6件裝）可享8折早鳥優惠 由2026年8月1日至9月20日，訂購星輝簷影月餅禮盒（6件裝）可享85折 請選擇優惠 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 Page tab selected 星輝簷影月餅禮盒（6件…",
+        "zh-CN": "凭汇丰信用卡于香港置地文华东方酒店可享以下中秋节食品优惠： 由2026年7月21至31日，订购星辉檐影月饼礼盒（6件装）可享8折早鸟优惠 由2026年8月1日至9月20日，订购星辉檐影月饼礼盒（6件装）可享85折 请选择优惠 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 Page tab selected 星辉檐影月饼礼盒（6件…"
+      },
+      "bodyHash": "83f663ffd1ef",
       "highlight": "20% off",
       "dates": [
         "31 July 2026",
@@ -187,13 +243,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offers-mx",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - Hong Kong MX",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-mx/",
       "summary": "You can enjoy the following offers for Mid-Autumn Festival delicacies at Hong Kong MX with your HSBC credit card: 40% off selected items from 21 July to 20 September 2026 Redeem physical coupons via RC e-Shop on HSBC Reward+ for as low as 46% off from 21 July to 31 August 2026. T…",
+      "titles": {
+        "zh-HK": "最紅佳節禮遇 － 中秋節食品 - 香港美心",
+        "zh-CN": "最红佳节礼遇 － 中秋节食品 - 香港美心"
+      },
+      "summaries": {
+        "zh-HK": "憑滙豐信用卡於香港美心可享以下中秋節食品優惠： 由2026年7月21日至9月20日，可享指定產品6折優惠 由2026年7月21日至8月31日，可於滙豐Reward+之「獎賞錢e-Shop」以低至54折換購實體禮券，持卡年期愈長，所享折扣愈大！ 由2026年7月21日至9月20日，可於滙豐Reward+之「電子優惠券」以低至52折換購電子禮券 請選擇優惠 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港美心 Page tab selected 東海堂 Häagen…",
+        "zh-CN": "凭汇丰信用卡于香港美心可享以下中秋节食品优惠： 由2026年7月21日至9月20日，可享指定产品6折优惠 由2026年7月21日至8月31日，可于汇丰Reward+之「奖赏钱e-Shop」以低至54折换购实体礼券，持卡年期愈长，所享折扣愈大！ 由2026年7月21日至9月20日，可于汇丰Reward+之「电子优惠券」以低至52折换购电子礼券 请选择优惠 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港美心 Page tab selected 东海堂 Häagen…"
+      },
+      "bodyHash": "a04c4165e206",
       "highlight": "up to 48% off",
       "dates": [
         "20 September 2026",
@@ -203,13 +268,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offers-rc",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - The Ritz-Carlton, Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-rc/",
       "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at The Ritz-Carlton, Hong Kong with your HSBC credit card: Special price for The Ritz-Carlton, Hong Kong Classic Mooncake - Low-Sugar Mini Egg Custard Lava Mooncake Set (8 pie…",
+      "titles": {
+        "zh-HK": "最紅佳節禮遇 － 中秋節食品 - 香港麗思卡爾頓酒店",
+        "zh-CN": "最红佳节礼遇 － 中秋节食品 - 香港丽思卡尔顿酒店"
+      },
+      "summaries": {
+        "zh-HK": "由2026年7月21日至9月20日，憑滙豐信用卡於香港麗思卡爾頓酒店可享以下中秋節食品優惠： 以優惠價訂購香港麗思卡爾頓酒店「映。月」迷你低糖流心奶黃月餅禮盒（8個裝） 請選擇優惠 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 Page tab selected 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港麗思卡爾頓酒店「映。月」迷你低糖流心奶黃月餅禮盒（8個裝） 零…",
+        "zh-CN": "由2026年7月21日至9月20日，凭汇丰信用卡于香港丽思卡尔顿酒店可享以下中秋节食品优惠： 以优惠价订购香港丽思卡尔顿酒店「映。月」迷你低糖流心奶黄月饼礼盒（8个装） 请选择优惠 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 Page tab selected 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港丽思卡尔顿酒店「映。月」迷你低糖流心奶黄月饼礼盒（8个装） 零…"
+      },
+      "bodyHash": "ecbe91b259a7",
       "highlight": null,
       "dates": [
         "20 September 2026",
@@ -219,13 +293,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "mooncake-promotion-offers-whk",
       "title": "Red Hot Festive Rewards – Mid-Autumn Festival Delicacies - W Hong Kong",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/mooncake-promotion/offers-whk/",
       "summary": "From 21 July to 20 September 2026, you can enjoy the following offers for Mid-Autumn Festival delicacies at W Hong Kong with your HSBC credit card: Special price for W Hong Kong Mini Lava Egg Custard Mooncake Gift Set (6 pieces) Please select one of the offers to see more details…",
+      "titles": {
+        "zh-HK": "最紅佳節禮遇 － 中秋節食品 - 香港W酒店",
+        "zh-CN": "最红佳节礼遇 － 中秋节食品 - 香港W酒店"
+      },
+      "summaries": {
+        "zh-HK": "由2026年7月21日至9月20日，憑滙豐信用卡於香港W酒店可享以下中秋節食品優惠： 以優惠價訂購香港W酒店流心奶黃月餅禮盒（6個裝） 請選擇優惠 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港美心 東海堂 Häagen-Dazs 香港麗思卡爾頓酒店 香港W酒店 Page tab selected 港島香格里拉、九龍香格里拉及香港嘉里酒店 香港置地文華東方酒店 香港W酒店流心奶黃月餅禮盒（6個裝） 零售價︰ 每盒港幣468元 優惠價：每盒港幣234元 「獎賞錢…",
+        "zh-CN": "由2026年7月21日至9月20日，凭汇丰信用卡于香港W酒店可享以下中秋节食品优惠： 以优惠价订购香港W酒店流心奶黄月饼礼盒（6个装） 请选择优惠 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港美心 东海堂 Häagen-Dazs 香港丽思卡尔顿酒店 香港W酒店 Page tab selected 港岛香格里拉、九龙香格里拉及香港嘉里酒店 香港置地文华东方酒店 香港W酒店流心奶黄月饼礼盒（6个装） 零售价︰ 每盒港币468元 优惠价：每盒港币234元 「奖赏钱…"
+      },
+      "bodyHash": "e982b5263bdb",
       "highlight": null,
       "dates": [
         "20 September 2026",
@@ -235,18 +318,28 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Dining",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/dining/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "titles": {
+        "zh-HK": "滙豐卓越理財信用卡®尊享優惠 - 美饌",
+        "zh-CN": "汇丰卓越理财信用卡®尊享优惠 - 美馔"
+      },
+      "summaries": {
+        "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
+        "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
+      },
+      "bodyHash": "5c9ebab0105d",
       "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
         "31 December 2026",
-        "25 December 2026"
+        "25 December 2026",
+        "25 September 2026"
       ],
       "validUntil": "2026-12-31",
       "cards": [
@@ -254,13 +347,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Insurance",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/insurance/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "titles": {
+        "zh-HK": "滙豐卓越理財信用卡®尊享優惠 - 保險",
+        "zh-CN": "汇丰卓越理财信用卡®尊享优惠 - 保险"
+      },
+      "summaries": {
+        "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
+        "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
+      },
+      "bodyHash": "dfb344377abb",
       "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
@@ -274,13 +376,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Shopping",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/shopping/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "titles": {
+        "zh-HK": "滙豐卓越理財信用卡®尊享優惠 - 購物",
+        "zh-CN": "汇丰卓越理财信用卡®尊享优惠 - 购物"
+      },
+      "summaries": {
+        "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
+        "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
+      },
+      "bodyHash": "788f466c5a1e",
       "highlight": "up to 5% cashback",
       "dates": [
         "31 October 2026",
@@ -292,13 +403,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
       "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - Travel",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/travel/",
       "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "titles": {
+        "zh-HK": "滙豐卓越理財信用卡®尊享優惠 - 旅遊",
+        "zh-CN": "汇丰卓越理财信用卡®尊享优惠 - 旅游"
+      },
+      "summaries": {
+        "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
+        "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
+      },
+      "bodyHash": "ecb3acb864f1",
       "highlight": "12% off",
       "dates": [
         "31 October 2026",
@@ -312,13 +432,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
       "title": "Red Hot Spending Rewards - Mainland China",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-overseas-spending-rewards/",
       "summary": "HSBC credit card making every travel experience a happy and memorable one, this time we bring across the exceptional rewards to you! From 1 July to 31 December 2026, accumulate HK$1,200 or above in mainland China spending monthly with your HSBC Credit Card to enjoy an extra 3% Re…",
+      "titles": {
+        "zh-HK": "最紅簽賬獎賞 - 中國內地",
+        "zh-CN": "最红签账奖赏 - 中国内地"
+      },
+      "summaries": {
+        "zh-HK": "滙豐信用卡賞您更多享樂，出行編寫快樂故事！ 由2026年7月1日至12月31日，憑滙豐信用卡於中國內地簽賬，只要每月累積合資格簽賬滿港幣1,200元或以上，當中的合資格餐飲簽賬可獲享額外 3%「獎賞錢」回贈 ！每月最高可享 $80「獎賞錢」 ，即你於整個推廣期內合共可享高達 $480「獎賞錢」 ！ 立即於滙豐Reward+應用程式登記！ 提提你：登記前之合資格簽賬並不獲計算在內，記得簽賬前於滙豐Reward+應用程式登記好！ 想於中國內地更靈活地消費，唔少得滙豐Pulse銀聯雙幣鑽石信用卡！憑卡消費盡享三重優勢： 每筆人民幣交易豁免1.95%外幣交易費用…",
+        "zh-CN": "汇丰信用卡赏您更多享乐，出行编写快乐故事！ 由2026年7月1日至12月31日，凭汇丰信用卡于中国内地签账，只要每月累积合资格签账满港币1,200元或以上，当中的合资格餐饮签账可获享额外 3%「奖赏钱」回赠 ！每月最高可享 $80「奖赏钱」 ，即你于整个推广期内合共可享高达 $480「奖赏钱」 ！ 立即于汇丰Reward+应用程式登记！ 提提你：登记前之合资格签账并不获计算在内，记得签账前于汇丰Reward+应用程式登记好！ 想于中国内地更灵活地消费，唔少得汇丰Pulse银联双币钻石信用卡！凭卡消费尽享三重优势： 每笔人民币交易豁免1.95%外币交易费用…"
+      },
+      "bodyHash": "ca5fceb65d92",
       "highlight": "3% RewardCash",
       "dates": [
         "31 December 2026"
@@ -330,13 +459,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-broadway-offers",
       "title": "Red Hot Festival - Broadway - Offers",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/broadway/offers/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! With your HSBC credit ca…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 百老滙 - 優惠",
+        "zh-CN": "最红大折日 - 百老汇 - 优惠"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至8月31日，憑滙豐信用卡可專享最紅大折日一百老滙簽賬禮遇，賺取以下優惠。 優惠一：高達額外$800「獎賞錢」或10,000飛行里數^ 可享額外「獎賞錢」回贈（「獎賞錢」金額上限） 累積合資格簽賬 銀聯信用卡 EveryMile信用卡 其他信用卡 滿港幣4,000元至港幣5,999元 3%（$150） 3%（$120） 3%（$150） 滿港幣6,000元至港幣9,999元 5%（$400） 4%（…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有着数，实行与您热住玩，赚到爽！ 由2026年7月1日至8月31日，凭汇丰信用卡可专享最红大折日一百老汇签账礼遇，赚取以下优惠。 优惠一：高达额外$800\"奖赏钱\"或10,000飞行里数^ 可享额外\"奖赏钱\"回赠（\"奖赏钱\"金额上限） 累积合资格签账 银联信用卡 EveryMile信用卡 其他信用卡 满港币4,000元至港币5,999元 3%（$150） 3%（$120） 3%（$150） 满港币6,000元至港币9,999元 5%（$400） 4%（…"
+      },
+      "bodyHash": "a055b255e999",
       "highlight": "up to 50% off",
       "dates": [
         "31 August 2026"
@@ -347,13 +485,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-shkp",
       "title": "Red Hot Festival - SHKP Malls",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/shkp/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we’ve got you covered. Live it up and earn big! With your HSBC credit ca…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 新地商場",
+        "zh-CN": "最红大折日 - 新地商場"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月13日，憑滙豐信用卡可尊享最紅大折日—新地商場簽賬禮遇，賺取高達$1,680 Point Dollar及額外賞電子優惠券高達港幣750元。 簽賬禮遇 憑滙豐信用卡於指定新地商場簽賬可享高達 $1,300 Point Dollar禮遇 ；簽賬後同日即時透過滙豐Reward+應用程式兌換$400「獎賞錢」至 The Point積分更可享高達額外 $300 Point Dollar 兌換加碼賞 ，於…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有著数，实行与您热住玩，赚到爽！ 由2026年7月1日至9月13日，凭汇丰信用卡可尊享最红大折日—新地商场签账礼遇，赚取高达$1,680 Point Dollar及额外赏电子优惠券高达港币750元。 签账礼遇 凭汇丰信用卡于指定新地商场签账可享高达 $1,300 Point Dollar礼遇 ；签账后同日即时透过汇丰Reward+应用程式兑换$400「奖赏钱」至 The Point积分更可享高达额外 $300 Point Dollar 兑换加码赏 ，于…"
+      },
+      "bodyHash": "83c5ac759f31",
       "highlight": "15% off",
       "dates": [
         "13 September 2026",
@@ -365,13 +512,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
       "title": "Red Hot Festival - Selected Dining Outlets - Buy-1-get-1-free offers",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/buy-1-get-1-free/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 精選美饌 - 買1送1優惠",
+        "zh-CN": "最红大折日 - 精选美馔 - 买1送1优惠"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月30日，憑滙豐信用卡於超過40間精選餐廳簽賬可享低至5折優惠。 特選客戶尊屬優惠 此外，特選客戶於8月31日或之前於指定本地及海外簽賬更可賺取 高達1,250元獎賞 ！ 立即登入滙豐Reward+應用程式查看您是否特選客戶，並登記「最紅大折日—專有簽賬獎賞」。 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！7月1日起首次申請簽賬分期計劃可體驗3個月0%手續費，回贈高達$400「獎賞錢」…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有着数，实行与您热住玩，赚到爽！ 由2026年7月1日至9月30日，凭汇丰信用卡于超过40间精选餐厅签账可享低至5折优惠。 特选客户尊属优惠 此外，特选客户于8月31日或之前于指定本地及海外签账更可赚取 高达1,250元奖赏 ！ 立即登入汇丰Reward+应用程式查看您是否特选客户，并登记「最红大折日—专有签账奖赏」。 签得多，分期赏更多！ 识得签住赚，更要识得分期轻松还！7月1日起首次申请签账分期计划可体验3个月0%手续费，回赠高达$400「奖赏钱」…"
+      },
+      "bodyHash": "c9514ca565bf",
       "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
@@ -382,13 +538,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
       "title": "Red Hot Festival - Selected Dining Outlets - Chinese Cuisine",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/chinese-cuisine/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 精選美饌 - 中菜",
+        "zh-CN": "最红大折日 - 精选美馔 - 中菜"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月30日，憑滙豐信用卡於超過40間精選餐廳簽賬可享低至5折優惠。 特選客戶尊屬優惠 此外，特選客戶於8月31日或之前於指定本地及海外簽賬更可賺取 高達1,250元獎賞 ！ 立即登入滙豐Reward+應用程式查看您是否特選客戶，並登記「最紅大折日—專有簽賬獎賞」。 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！7月1日起首次申請簽賬分期計劃可體驗3個月0%手續費，回贈高達$400「獎賞錢」…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有着数，实行与您热住玩，赚到爽！ 由2026年7月1日至9月30日，凭汇丰信用卡于超过40间精选餐厅签账可享低至5折优惠。 特选客户尊属优惠 此外，特选客户于8月31日或之前于指定本地及海外签账更可赚取 高达1,250元奖赏 ！ 立即登入汇丰Reward+应用程式查看您是否特选客户，并登记「最红大折日—专有签账奖赏」。 签得多，分期赏更多！ 识得签住赚，更要识得分期轻松还！7月1日起首次申请签账分期计划可体验3个月0%手续费，回赠高达$400「奖赏钱」…"
+      },
+      "bodyHash": "78852949487b",
       "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
@@ -403,13 +568,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
       "title": "Red Hot Festival - Selected Dining Outlets - Hotel Dining",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/hotel-offer/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 精選美饌 - 酒店美饌",
+        "zh-CN": "最红大折日 - 精选美馔 - 酒店美馔"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月30日，憑滙豐信用卡於超過40間精選餐廳簽賬可享低至5折優惠。 特選客戶尊屬優惠 此外，特選客戶於8月31日或之前於指定本地及海外簽賬更可賺取 高達1,250元獎賞 ！ 立即登入滙豐Reward+應用程式查看您是否特選客戶，並登記「最紅大折日—專有簽賬獎賞」。 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！7月1日起首次申請簽賬分期計劃可體驗3個月0%手續費，回贈高達$400「獎賞錢」…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有着数，实行与您热住玩，赚到爽！ 由2026年7月1日至9月30日，凭汇丰信用卡于超过40间精选餐厅签账可享低至5折优惠。 特选客户尊属优惠 此外，特选客户于8月31日或之前于指定本地及海外签账更可赚取 高达1,250元奖赏 ！ 立即登入汇丰Reward+应用程式查看您是否特选客户，并登记「最红大折日—专有签账奖赏」。 签得多，分期赏更多！ 识得签住赚，更要识得分期轻松还！7月1日起首次申请签账分期计划可体验3个月0%手续费，回赠高达$400「奖赏钱」…"
+      },
+      "bodyHash": "759ee01bc1a9",
       "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
@@ -421,13 +595,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
       "title": "Red Hot Festival - Selected Dining Outlets - Japanese Cuisine",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/japanese-cuisine/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 精選美饌 - 日本菜",
+        "zh-CN": "最红大折日 - 精选美馔 - 日本菜"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月30日，憑滙豐信用卡於超過40間精選餐廳簽賬可享低至5折優惠。 特選客戶尊屬優惠 此外，特選客戶於8月31日或之前於指定本地及海外簽賬更可賺取 高達1,250元獎賞 ！ 立即登入滙豐Reward+應用程式查看您是否特選客戶，並登記「最紅大折日—專有簽賬獎賞」。 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！7月1日起首次申請簽賬分期計劃可體驗3個月0%手續費，回贈高達$400「獎賞錢」…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有着数，实行与您热住玩，赚到爽！ 由2026年7月1日至9月30日，凭汇丰信用卡于超过40间精选餐厅签账可享低至5折优惠。 特选客户尊属优惠 此外，特选客户于8月31日或之前于指定本地及海外签账更可赚取 高达1,250元奖赏 ！ 立即登入汇丰Reward+应用程式查看您是否特选客户，并登记「最红大折日—专有签账奖赏」。 签得多，分期赏更多！ 识得签住赚，更要识得分期轻松还！7月1日起首次申请签账分期计划可体验3个月0%手续费，回赠高达$400「奖赏钱」…"
+      },
+      "bodyHash": "8ccb91aa551b",
       "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
@@ -439,13 +622,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-summer-dining-mcdonalds",
       "title": "Red Hot Festival - Selected Dining Outlets - McDonald's®",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/mcdonalds/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 精選美饌 - 麥當勞",
+        "zh-CN": "最红大折日 - 精选美馔 - 麦当劳®"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月30日，憑滙豐信用卡於超過40間精選餐廳簽賬可享低至5折優惠。 特選客戶尊屬優惠 此外，特選客戶於8月31日或之前於指定本地及海外簽賬更可賺取 高達1,250元獎賞 ！ 立即登入滙豐Reward+應用程式查看您是否特選客戶，並登記「最紅大折日—專有簽賬獎賞」。 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！7月1日起首次申請簽賬分期計劃可體驗3個月0%手續費，回贈高達$400「獎賞錢」…",
+        "zh-CN": "最红大折日又到啦！今个夏天，汇丰信⽤卡继续为您带来全⽅位最红食买玩优惠，无论本地消费定海外旅游吃喝玩乐都有着数，实行与您热住玩，赚到爽！ 由2026年7月1日至9月30日，凭汇丰信用卡于超过40间精选餐厅签账可享低至5折优惠。 特选客户尊属优惠 此外，特选客户于8月31日或之前于指定本地及海外签账更可赚取 高达1,250元奖赏 ！ 立即登入汇丰Reward+应用程式查看您是否特选客户，并登记「最红大折日—专有签账奖赏」。 签得多，分期赏更多！ 识得签住赚，更要识得分期轻松还！7月1日起首次申请签账分期计划可体验3个月0%手续费，回赠高达$400「奖赏钱」…"
+      },
+      "bodyHash": "dbeb3c0d6d7b",
       "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
@@ -456,13 +648,20 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
       "title": "Red Hot Festival - Selected Dining Outlets - Others",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-summer/summer-dining/others/",
       "summary": "The Red Hot Festival is back to heat up the summer! HSBC credit card is bringing you an all-round lineup of the red hot dining, shopping and entertainment offer. From spending locally to overseas adventures, we've got you covered. Live it up and earn big! From 1 July to 30 Septem…",
+      "titles": {
+        "zh-HK": "最紅大折日 - 精選美饌 - 其他"
+      },
+      "summaries": {
+        "zh-HK": "最紅大折日又到啦！今個夏天，滙豐信⽤卡繼續為您帶來全⽅位最紅食買玩優惠，無論本地消費定海外旅遊吃喝玩樂都有著數，實行與您熱住玩，賺到爽！ 由2026年7月1日至9月30日，憑滙豐信用卡於超過40間精選餐廳簽賬可享低至5折優惠。 特選客戶尊屬優惠 此外，特選客戶於8月31日或之前於指定本地及海外簽賬更可賺取 高達1,250元獎賞 ！ 立即登入滙豐Reward+應用程式查看您是否特選客戶，並登記「最紅大折日—專有簽賬獎賞」。 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！7月1日起首次申請簽賬分期計劃可體驗3個月0%手續費，回贈高達$400「獎賞錢」…"
+      },
+      "bodyHash": "d74496aa9428",
       "highlight": "up to 50% off",
       "dates": [
         "30 September 2026",
@@ -473,14 +672,16 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
+      "highlight": null,
+      "dates": [],
+      "validUntil": null,
+      "summary": "null Travel Offers -->",
       "id": "red-hot-travel-special-travel-offers",
       "title": "Object moved",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-travel-special/travel-offers/",
-      "summary": "null Travel Offers -->",
-      "dates": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
@@ -491,6 +692,15 @@
       "title": "Travel Guru membership programme",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/",
       "summary": "HSBC Credit Card, the best credit card in town * , brings you the HSBC Travel Guru Membership Programme, a tiered membership Programme offering an annual RewardCash rebate of up to 6% on foreign currency spending and a series of travel rewards that will exceed all your expectatio…",
+      "titles": {
+        "zh-HK": "Travel Guru會員計劃",
+        "zh-CN": "Travel Guru会员计划"
+      },
+      "summaries": {
+        "zh-HK": "全城最好的滙豐信用卡 * 為您帶來滙豐 Travel Guru 會員計劃，讓您盡享全年高達額外 6% 外幣簽賬「獎賞錢」回贈兼一系列充滿驚喜的旅遊優惠，簽賬愈多，會員等級愈高！連同 SYNC 級隨行提示，陪您度過每個嶄新旅遊體驗。 想成為滙豐 Travel Guru 會員？只要於登記日期內上滙豐 Reward+ 應用程式登記，即可盡享旅遊優惠及獎賞。密切留意我們的消息！ • 升級會員計劃可享外幣簽賬高達額外 6%「獎賞錢」回贈 特設升級會籍，簽賬愈多，會員等級愈高，禮遇亦會愈豐富。當您登記成為 Travel Guru 會員後，將自動成為 GO 級旅人，於…",
+        "zh-CN": "全城最好的汇丰信用卡 * 为您带来汇丰 Travel Guru 会员计划，让您尽享全年高达额外 6% 外币签账「奖赏钱」回赠兼一系列充满惊喜的旅游优惠，签账愈多，会员等级愈高！连同 SYNC 级随行提示，陪您度过每个崭新旅游体验。 想成为汇丰 Travel Guru 会员？只要于登记日期内上汇丰 Reward+ 应用程式登记，即可尽享旅游优惠及奖赏。密切留意我们的消息！ • 升级会员计划可享外币签账高达额外 6%「奖赏钱」回赠 特设升级会籍，签账愈多，会员等级愈高，礼遇亦会愈丰富。当您登记成为 Travel Guru 会员后，将自动成为 GO 级旅人，于…"
+      },
+      "bodyHash": "544fcfd8f3e7",
       "highlight": "Up to 40% off",
       "dates": [
         "1 September 2023",
@@ -502,13 +712,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
       "title": "HSBC easy Credit Card - Link easy. Earn easy. - HSBC easy Credit Card X MoneyBack",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/visa-platinum-asw-promotion/moneyback/",
       "summary": "Link easy. Earn easy! HSBC Credit Cards continue to bring you an easy rewards lifestyle – easy earning and easy spending! Simply link your HSBC easy Credit Card to the MoneyBack App and earn exceptional rewards all year round, from daily essentials to leisure! Take your rewards e…",
+      "titles": {
+        "zh-HK": "滙豐easy信用卡 - LINK盡著數So Easy - 滙豐easy信用卡 X「易賞錢」優惠",
+        "zh-CN": "汇丰easy信用卡 - LINK尽著数So Easy - 汇丰easy信用卡 X「易赏钱」优惠"
+      },
+      "summaries": {
+        "zh-HK": "LINK 盡著數 So Easy！ 滙豐信用卡繼續為大家帶來易賺易使，easy 獎賞生活模式！ 只需將滙豐 easy 信用卡 Link 到「易賞錢」App，由日常生活所需到休閒玩樂，全年拎盡非凡獎賞。 要 LINK 盡著數！立即申請滙豐 easy 信用卡可享 迎新獎賞高達 $900 及日日賺 6 倍「易賞錢」VIP 會員積分（=2.4% 回贈）！ 立即申請 立即申請 提提您：現有客戶持有之滙豐白金 Visa 卡仍可享有「易賞錢」App 綁卡優惠。當信用卡有效期限到期時，我們將主動為您寄送滙豐 easy 信用卡，為您的獎賞生活注入新驚喜。 綁卡優惠參與商戶…",
+        "zh-CN": "LINK 尽著数 So Easy！ 汇丰信用卡继续为大家带来易赚易使，easy 奖赏生活模式！ 只需将汇丰 easy 信用卡 Link 到「易赏钱」App，由日常生活所需到休闲玩乐，全年拎尽非凡奖赏。 要 LINK 尽著数！立即申请汇丰 easy 信用卡可享 迎新奖赏高达 $900 及日日赚 6 倍「易赏钱」VIP 会员积分（=2.4% 回赠）！ 立即申请 立即申请 提提您：现有客户持有之汇丰白金 Visa 卡仍可享有「易赏钱」App 绑卡优惠。当信用卡有效期限到期时，我们将主动为您寄送汇丰 easy 信用卡，为您的奖赏生活注入新惊喜。 绑卡优惠参与商户…"
+      },
+      "bodyHash": "4f27be5e00af",
       "highlight": "Up to 50% off",
       "dates": [
         "22 June 2026"
@@ -517,13 +736,22 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "visa-signature-emperor-cinemas",
       "title": "HSBC Visa Signature Card Exclusive Offers - Emperor Cinemas",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/visa-signature/emperor-cinemas/",
       "summary": "From 1 January to 31 December 2026, simply spend with your HSBC Visa Signature Card and enjoy exclusive rewards at the following merchants. HSBC credit card, the best credit card in town*. The one that has it all. Please select one of the offers to see more details. Emperor Cinem…",
+      "titles": {
+        "zh-HK": "滙豐Visa Signature卡專享優惠 - 英皇戲院",
+        "zh-CN": "汇丰Visa Signature卡专享优惠 - 英皇戏院"
+      },
+      "summaries": {
+        "zh-HK": "由2026年1月1日至12月31日，憑滙豐Visa Signature卡於以下商戶可專享精選優惠。 全城最好的滙豐信用卡*，一卡百應！ 請選擇優惠 英皇戲院 麗新餐飲 英皇戲院 Page tab selected 麗新餐飲 • 正價2D戲票買一送一（星期一至四） • 細爆谷買一送一（星期一至四） • 正價3D戲票9折（星期一至四） • 正價2D戲票8折（星期五、六及日） 「獎賞錢」易賺易使，想點都可以，想點更Easy，立即下載，全方位體驗！ 請細閱以下備註。 * 根據Ipsos於2023年針對香港信用卡持卡人所做的網上調查結果 (樣本數=1,000名香港…",
+        "zh-CN": "由2026年1月1日至12月31日，凭汇丰Visa Signature卡于以下商户可专享精选优惠。 全城最好的汇丰信用卡*，一卡百应！ 请选择优惠 英皇戏院 丽新餐饮 英皇戏院 Page tab selected 丽新餐饮 • 正价2D戏票买一送一（星期一至四） • 细爆谷买一送一（星期一至四） • 正价3D戏票9折（星期一至四） • 正价2D戏票8折（星期五、六及日） 「奖赏钱」易赚易用，想怎样都行，想怎样都更简单，立即下载，全方位体验！ 请细阅以下备注。 * 根据Ipsos于2023年针对香港信用卡持卡人所做的网上调查结果（样本数=1,000名香港信…"
+      },
+      "bodyHash": "948de189db9a",
       "highlight": "10% off",
       "dates": [
         "31 December 2026"
@@ -534,13 +762,22 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     },
     {
       "id": "visa-signature-lai-sun-dining",
       "title": "HSBC Visa Signature Card Exclusive Offers - Lai Sun Dining",
       "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/visa-signature/lai-sun-dining/",
       "summary": "From 1 January to 31 December 2026, simply spend with your HSBC Visa Signature Card and enjoy exclusive rewards at the following merchants. HSBC credit card, the best credit card in town*. The one that has it all. Please select one of the offers to see more details. Emperor Cinem…",
+      "titles": {
+        "zh-HK": "滙豐Visa Signature卡專享優惠 - 麗新餐飲",
+        "zh-CN": "汇丰Visa Signature卡专享优惠 - 丽新餐饮"
+      },
+      "summaries": {
+        "zh-HK": "由2026年1月1日至12月31日，憑滙豐Visa Signature卡於以下商戶可專享精選優惠。 全城最好的滙豐信用卡*，一卡百應！ 請選擇優惠 英皇戲院 麗新餐飲 英皇戲院 麗新餐飲 Page tab selected • 全單85折 指定餐廳 Kanesaka 香港 香港中環干諾道中3號中國建設銀行大廈5樓 ​Plaisance by Mauro Colagreco 香港中環都爹利街1號1樓 Mosu Hong Kong 九龍西九龍文化區博物館道38號M+大樓3樓 Yakitori YAMATO (香港) 香港灣仔活道28號萃峯地下 3-8號店 P…",
+        "zh-CN": "由2026年1月1日至12月31日，凭汇丰Visa Signature卡于以下商户可专享精选优惠。 全城最好的汇丰信用卡*，一卡百应！ 请选择优惠 英皇戏院 丽新餐饮 英皇戏院 丽新餐饮 Page tab selected • 全单85折 指定餐厅 Kanesaka 香港 香港中环干诺道中3号中国建设银行大厦5楼 ​Plaisance by Mauro Colagreco 香港中环都爹利街1号1楼 Mosu Hong Kong 九龙西九龙文化区博物馆道38号M+大楼3楼 Yakitori YAMATO (香港) 香港湾仔活道28号萃峰地下 3-8号店 P…"
+      },
+      "bodyHash": "4d1cbe83cf75",
       "highlight": "15% off",
       "dates": [
         "31 December 2026"
@@ -551,7 +788,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-04"
     }
   ]
 }

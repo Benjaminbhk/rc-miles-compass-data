@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-03",
   "count": 239,
   "sources": {
     "ryc": "https://www.hsbc.com.hk{prefix}/credit-cards/rewards/your-choice/",
@@ -1890,11 +1890,11 @@
         "zh-CN": "新参与商户，由2026年1月1日生效。"
       },
       "tags": [
-        "ryc:home",
-        "ryc:shopping"
+        "ryc:shopping",
+        "ryc:home"
       ],
-      "category": "home",
-      "subcategory": "Pet Care",
+      "category": "shopping",
+      "subcategory": "Others",
       "source": "ryc"
     },
     {
@@ -2213,8 +2213,8 @@
       },
       "tags": [
         "ryc:lifestyle",
-        "ryc:home",
-        "ryc:shopping"
+        "ryc:shopping",
+        "ryc:home"
       ],
       "category": "lifestyle",
       "subcategory": "Transportation",
@@ -2835,11 +2835,11 @@
         "zh-CN": "此推广只适用于所有指定商户的香港分店（百货公司专柜及特卖场除外）。"
       },
       "tags": [
-        "ryc:home",
-        "ryc:shopping"
+        "ryc:shopping",
+        "ryc:home"
       ],
-      "category": "home",
-      "subcategory": "Pet Care",
+      "category": "shopping",
+      "subcategory": "Others",
       "source": "ryc"
     },
     {

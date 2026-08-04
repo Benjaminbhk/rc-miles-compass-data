@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "count": 239,
   "sources": {
     "ryc": "https://www.hsbc.com.hk{prefix}/credit-cards/rewards/your-choice/",
@@ -27,7 +27,8 @@
         "en": "% Arabica"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -230,7 +231,8 @@
         "en": "APT. Coffee"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -389,7 +391,8 @@
         "en": "Blue Bottle Coffee"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -523,7 +526,8 @@
         "en": "Chun Shui Tang"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -716,7 +720,8 @@
         "en": "Coffee Roasters"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -770,7 +775,8 @@
         "en": "Cupping Room"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -796,7 +802,8 @@
         "en": "Dazzling Café"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -999,7 +1006,8 @@
         "en": "FLIPPER’s"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -1244,7 +1252,8 @@
         "en": "HABITŪ"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -1394,7 +1403,8 @@
         "en": "INN – I’m Not Nothing"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -1779,7 +1789,8 @@
         "en": "Mother Pearl"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -1931,7 +1942,8 @@
         "en": "NINETYs"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -1956,7 +1968,8 @@
         "en": "NOC"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -2050,7 +2063,8 @@
         "en": "Pacific Coffee"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -2143,7 +2157,8 @@
         "en": "Pret A Manger"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -2212,12 +2227,12 @@
         "zh-CN": "注："
       },
       "tags": [
-        "ryc:lifestyle",
         "ryc:shopping",
-        "ryc:home"
+        "ryc:home",
+        "ryc:lifestyle"
       ],
-      "category": "lifestyle",
-      "subcategory": "Transportation",
+      "category": "shopping",
+      "subcategory": "Others",
       "source": "ryc"
     },
     {
@@ -2280,7 +2295,8 @@
         "en": "sensory ZERO"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -2558,7 +2574,8 @@
         "en": "Starbucks Coffee"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",
@@ -3026,7 +3043,8 @@
         "en": "Urban Coffee Roaster"
       },
       "tags": [
-        "everymile:designated"
+        "everymile:designated",
+        "ryc:dining"
       ],
       "category": "everymile",
       "subcategory": "cafe",

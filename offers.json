@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "count": 30,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
   "newIds": [],
@@ -24,12 +24,13 @@
         "30 September 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [
         "hsbc-everymile"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "health-care-special-gba-offer",
@@ -50,10 +51,11 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "health-care-special-hospital-offer",
@@ -74,10 +76,11 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "health-care-special-insurance-offers",
@@ -98,12 +101,13 @@
         "30 May 2026"
       ],
       "validUntil": "2026-05-30",
+      "merchants": [],
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "health-care-special-medical-center-offer",
@@ -118,10 +122,11 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "health-care-special-other-offer",
@@ -143,10 +148,11 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offer-haagen-daz",
@@ -168,10 +174,11 @@
         "31 August 2026"
       ],
       "validUntil": "2026-09-25",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offer_shangri-la",
@@ -188,10 +195,11 @@
         "21 July 2026"
       ],
       "validUntil": "2026-09-20",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offers-arome",
@@ -213,10 +221,11 @@
         "31 August 2026"
       ],
       "validUntil": "2026-09-20",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offers-lmo",
@@ -239,10 +248,11 @@
         "25 September 2026"
       ],
       "validUntil": "2026-09-25",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offers-mx",
@@ -264,10 +274,11 @@
         "31 August 2026"
       ],
       "validUntil": "2026-09-20",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offers-rc",
@@ -289,10 +300,11 @@
         "25 September 2026"
       ],
       "validUntil": "2026-09-25",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "mooncake-promotion-offers-whk",
@@ -314,10 +326,11 @@
         "25 September 2026"
       ],
       "validUntil": "2026-09-25",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -341,12 +354,14 @@
         "25 September 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [
-        "hsbc-premier-mastercard"
+        "hsbc-premier-mastercard",
+        "hsbc-prive"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -370,12 +385,13 @@
         "11 July 2025"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -397,12 +413,13 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -426,12 +443,15 @@
         "15 January 2027"
       ],
       "validUntil": "2027-01-15",
+      "merchants": [
+        "Trip.com"
+      ],
       "cards": [
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -452,13 +472,14 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [
         "hsbc-pulse",
         "hsbc-visa-gold"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-broadway-offers",
@@ -479,12 +500,15 @@
         "31 August 2026"
       ],
       "validUntil": "2026-08-31",
+      "merchants": [
+        "BROADWAY"
+      ],
       "cards": [
         "hsbc-everymile"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -506,12 +530,13 @@
         "31 August 2026"
       ],
       "validUntil": "2026-09-13",
+      "merchants": [],
       "cards": [
         "hsbc-signature"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
@@ -534,10 +559,11 @@
         "26 September 2026"
       ],
       "validUntil": "2026-09-30",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
@@ -561,13 +587,15 @@
         "26 September 2026"
       ],
       "validUntil": "2026-09-30",
+      "merchants": [],
       "cards": [
         "hsbc-signature",
-        "hsbc-premier-mastercard"
+        "hsbc-premier-mastercard",
+        "hsbc-prive"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
@@ -591,10 +619,11 @@
         "1 July 2026"
       ],
       "validUntil": "2026-09-30",
+      "merchants": [],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
@@ -616,12 +645,14 @@
         "31 August 2026"
       ],
       "validUntil": "2026-09-30",
+      "merchants": [],
       "cards": [
-        "hsbc-premier-mastercard"
+        "hsbc-premier-mastercard",
+        "hsbc-prive"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
@@ -642,10 +673,13 @@
         "25 September 2026"
       ],
       "validUntil": "2026-09-30",
+      "merchants": [
+        "Chun Shui Tang"
+      ],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "highlight": null,
@@ -682,10 +716,14 @@
         "31 October 2024"
       ],
       "validUntil": "2026-04-01",
+      "merchants": [
+        "Klook",
+        "Trip.com"
+      ],
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -706,10 +744,20 @@
         "22 June 2026"
       ],
       "validUntil": "2026-06-22",
-      "cards": [],
-      "allCards": true,
+      "merchants": [
+        "FORTRESS",
+        "hutchgo",
+        "PARKnSHOP",
+        "SUPREME",
+        "Watson's Wine",
+        "Watsons"
+      ],
+      "cards": [
+        "hsbc-easy"
+      ],
+      "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -730,12 +778,15 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [
+        "Emperor Cinemas"
+      ],
       "cards": [
         "hsbc-signature"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -756,12 +807,13 @@
         "31 December 2026"
       ],
       "validUntil": "2026-12-31",
+      "merchants": [],
       "cards": [
         "hsbc-signature"
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-20"
+      "lastSeen": "2026-08-21"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17",
-  "count": 239,
+  "updated": "2026-08-21",
+  "count": 235,
   "sources": {
     "ryc": "https://www.hsbc.com.hk{prefix}/credit-cards/rewards/your-choice/",
     "red": "https://www.hsbc.com.hk/credit-cards/products/red/",
@@ -961,20 +961,6 @@
       "source": "everymile-pdf"
     },
     {
-      "name": "Excludes online bill payment made by HSBC Classic Card, HSBC Gold Card and HSBC UnionPay Dual Currency Credit Card.",
-      "names": {
-        "en": "Excludes online bill payment made by HSBC Classic Card, HSBC Gold Card and HSBC UnionPay Dual Currency Credit Card.",
-        "zh-HK": "不包括以滙豐普通卡、滙豐金卡及滙豐銀聯雙幣信用卡的網上繳費。",
-        "zh-CN": "不包括以滙丰普通卡、滙丰金卡及滙丰银联双币信用卡的网上缴费。"
-      },
-      "tags": [
-        "ryc:home"
-      ],
-      "category": "home",
-      "subcategory": "Pet Care",
-      "source": "ryc"
-    },
-    {
       "name": "FamilyMart in Japan",
       "names": {
         "en": "FamilyMart in Japan"
@@ -1894,21 +1880,6 @@
       "source": "ryc"
     },
     {
-      "name": "New participating merchants, starting from 1 January 2026.",
-      "names": {
-        "en": "New participating merchants, starting from 1 January 2026.",
-        "zh-HK": "新參與商戶，由2026年1月1日生效。",
-        "zh-CN": "新参与商户，由2026年1月1日生效。"
-      },
-      "tags": [
-        "ryc:shopping",
-        "ryc:home"
-      ],
-      "category": "shopping",
-      "subcategory": "Others",
-      "source": "ryc"
-    },
-    {
       "name": "Neway CEO Karaoke",
       "names": {
         "en": "Neway CEO Karaoke",
@@ -2217,22 +2188,6 @@
       ],
       "category": "home",
       "subcategory": "Pet Care",
-      "source": "ryc"
-    },
-    {
-      "name": "Remarks:",
-      "names": {
-        "en": "Remarks:",
-        "zh-HK": "註：",
-        "zh-CN": "注："
-      },
-      "tags": [
-        "ryc:lifestyle",
-        "ryc:shopping",
-        "ryc:home"
-      ],
-      "category": "lifestyle",
-      "subcategory": "Transportation",
       "source": "ryc"
     },
     {
@@ -2842,21 +2797,6 @@
       ],
       "category": "shopping",
       "subcategory": "Fashion / Accessories",
-      "source": "ryc"
-    },
-    {
-      "name": "This promotion is only applicable to the stores in Hong Kong of all designated merchants (excluding counters at department stores and outlets).",
-      "names": {
-        "en": "This promotion is only applicable to the stores in Hong Kong of all designated merchants (excluding counters at department stores and outlets).",
-        "zh-HK": "此推廣只適用於所有指定商戶的香港分店（百貨公司專櫃及特賣場除外）。",
-        "zh-CN": "此推广只适用于所有指定商户的香港分店（百货公司专柜及特卖场除外）。"
-      },
-      "tags": [
-        "ryc:shopping",
-        "ryc:home"
-      ],
-      "category": "shopping",
-      "subcategory": "Others",
       "source": "ryc"
     },
     {

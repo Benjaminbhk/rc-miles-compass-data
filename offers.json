@@ -1,8 +1,21 @@
 {
-  "updated": "2026-08-30",
-  "count": 30,
+  "updated": "2026-08-31",
+  "count": 37,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
-  "newIds": [],
+  "newIds": [
+    "health-care-special-health-care-special-gba-offer",
+    "health-care-special-health-care-special-hospital-offer",
+    "health-care-special-health-care-special-insurance-offers",
+    "health-care-special-health-care-special-medical-center-offer",
+    "health-care-special-health-care-special-other-offer",
+    "health-care-special-quality-healthcare-age-based-check-ups",
+    "health-care-special-quality-healthcare-chinese-medicine-services",
+    "health-care-special-quality-healthcare-selected-single-screening",
+    "health-care-special-quality-healthcare-vaccinations",
+    "health-care-special-quality-healthcare-wellness-products",
+    "red-hot-dining-special-dining-city",
+    "red-hot-dining-special-maxim-dinner-menu"
+  ],
   "offers": [
     {
       "id": "everymile-spending-offer",
@@ -30,16 +43,16 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
-      "id": "health-care-special-gba-offer",
-      "title": "Red Hot Healthcare Privileges - Greater Bay Area",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/gba-offer/",
+      "id": "health-care-special-health-care-special-gba-offer",
+      "title": "Red Hot Health Care Privilege - Healthcare Privileges - Greater Bay Area",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/health-care-special/gba-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
       "titles": {
-        "zh-HK": "最紅醫療保健優惠 - 大灣區優惠",
-        "zh-CN": "最红医疗保健优惠 - 大湾区优惠"
+        "zh-HK": "最紅醫療保健優惠 - 醫療保健優惠 - 大灣區優惠",
+        "zh-CN": "最红医疗保健优惠 - 医疗保健优惠 - 大湾区优惠"
       },
       "summaries": {
         "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 醫療中心 大灣區優惠 Page tab selected 其他禮遇 保險 深圳希華愛康健醫院 體檢服…",
@@ -54,17 +67,17 @@
       "merchants": [],
       "cards": [],
       "allCards": true,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     },
     {
-      "id": "health-care-special-hospital-offer",
-      "title": "Red Hot Healthcare Privileges - Hospital",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/hospital-offer/",
+      "id": "health-care-special-health-care-special-hospital-offer",
+      "title": "Red Hot Health Care Privilege - Healthcare Privileges - Hospital",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/health-care-special/hospital-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
       "titles": {
-        "zh-HK": "最紅醫療保健優惠 - 醫院",
-        "zh-CN": "最红医疗保健优惠 - 医院"
+        "zh-HK": "最紅醫療保健優惠 - 醫療保健優惠 - 醫院",
+        "zh-CN": "最红医疗保健优惠 - 医疗保健优惠 - 医院"
       },
       "summaries": {
         "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 Page tab selected 醫療中心 大灣區優惠 其他禮遇 保險 嘉諾撒醫院 指定男／女全身…",
@@ -79,17 +92,17 @@
       "merchants": [],
       "cards": [],
       "allCards": true,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     },
     {
-      "id": "health-care-special-insurance-offers",
-      "title": "Red Hot Healthcare Privileges - Insurance",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/insurance-offers/",
+      "id": "health-care-special-health-care-special-insurance-offers",
+      "title": "Red Hot Health Care Privilege - Healthcare Privileges - Insurance",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/health-care-special/insurance-offers/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
       "titles": {
-        "zh-HK": "最紅醫療保健優惠 - 保險",
-        "zh-CN": "最红医疗保健优惠 - 保险"
+        "zh-HK": "最紅醫療保健優惠 - 醫療保健優惠 - 保險",
+        "zh-CN": "最红医疗保健优惠 - 医疗保健优惠 - 保险"
       },
       "summaries": {
         "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 醫療中心 大灣區優惠 其他禮遇 保險 Page tab selected 憑 滙豐Visa信用卡 向…",
@@ -106,13 +119,13 @@
         "hsbc-premier-mastercard"
       ],
       "allCards": false,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     },
     {
-      "id": "health-care-special-medical-center-offer",
-      "title": "Red Hot Healthcare Privileges - Medical Center",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/medical-center-offer/",
+      "id": "health-care-special-health-care-special-medical-center-offer",
+      "title": "Red Hot Health Care Privilege - Healthcare Privileges - Medical Center",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/health-care-special/medical-center-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
       "titles": {},
       "summaries": {},
@@ -125,17 +138,17 @@
       "merchants": [],
       "cards": [],
       "allCards": true,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     },
     {
-      "id": "health-care-special-other-offer",
-      "title": "Red Hot Healthcare Privileges - Others",
-      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/other-offer/",
+      "id": "health-care-special-health-care-special-other-offer",
+      "title": "Red Hot Health Care Privilege - Healthcare Privileges - Others",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/health-care-special/other-offer/",
       "summary": "HSBC Credit Card helps safeguard your everyday wellbeing, so you can care for your body and mind with greater peace of mind. During the promotional period, spend with your HSBC Credit Card at designated healthcare merchants across Hong Kong and the Greater Bay Area to enjoy exclu…",
       "titles": {
-        "zh-HK": "最紅醫療保健優惠 - 其他禮遇",
-        "zh-CN": "最红医疗保健优惠 - 其他礼遇"
+        "zh-HK": "最紅醫療保健優惠 - 醫療保健優惠 - 其他禮遇",
+        "zh-CN": "最红医疗保健优惠 - 医疗保健优惠 - 其他礼遇"
       },
       "summaries": {
         "zh-HK": "滙豐信用卡讓您無憂照顧身心，守護健康日常。 優惠期內，憑滙豐信用卡於本地及大灣區指定醫療保健商戶簽賬，由身體檢查、疫苗接種，激光及眼部護理到中醫，都讓您可享專屬折扣及精選禮遇！ 此外，以指定滙豐信用卡繳付指定滙豐保險計劃新保單之保費，更可享高達額外$4,000「獎賞錢」。全方位照顧您的醫療保健所需！ 未有滙豐信用卡？立即網上申請，可享 高達$1,450「獎賞錢」 迎新禮遇。 立即申請 立即申請 請選擇優惠 醫院 醫療中心 大灣區優惠 其他禮遇 保險 醫院 醫療中心 大灣區優惠 其他禮遇 Page tab selected 保險 Furmomo 寵物護理服…",
@@ -151,8 +164,138 @@
       "merchants": [],
       "cards": [],
       "allCards": true,
-      "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "health-care-special-quality-healthcare-age-based-check-ups",
+      "title": "Red Hot Health Care Privilege - Quality HealthCare - Age-based Check-ups",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/quality-healthcare/age-based-check-ups/",
+      "summary": "Besides exercise, regular check-ups are vital to maintaining your health. From 1 September to 31 December 2026, enjoy up to 25% off designated healthcare services and eShop products at Quality HealthCare with your HSBC credit card! Use your RewardCash just the way you like. Downl…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 卓健醫療 - 分齡體格檢查",
+        "zh-CN": "最红医疗保健优惠 - 卓健医疗 - 分龄体格检查"
+      },
+      "summaries": {
+        "zh-HK": "關心自己的健康，除了要多做運動，更要定期進行身體檢查！由2026年9月1日至12月31日，憑滙豐信用卡於卓健醫療簽賬，購買指定醫健服務及網店產品可享低至75折優惠！ 「獎賞錢」易賺易使，想點都可以，想點更Easy，立即下載，全方位體驗！ 全城最好的滙豐信用卡*，一卡百應！ 請選擇優惠 分齡體格檢查 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 醫健產品 分齡體格檢查 Page tab selected 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 醫健產品 卓健醫療體檢中心 服務 一般零售價 滙豐信用卡尊享價 卓健診所 卓健eShop CS code…",
+        "zh-CN": "关心自己的健康，除了要多做运动，更要定期进行身体检查！由2026年9月1日至12月31日，凭滙丰信用卡于卓健医疗签账，购买指定医健服务及网店产品可享低至75折优惠！ \"奖赏钱\" 易赚易用，想怎样都行，想怎样都更简单，立即下载，全方位体验！ 全城最好的汇丰信用卡*，一卡百应！ 请选择优惠 分龄体格检查 主题健康检查 精选单项检查 预防疫苗 中医服务 医健产品 分龄体格检查 Page tab selected 主题健康检查 精选单项检查 预防疫苗 中医服务 医健产品 卓健医疗体检中心 服务 一般零售价 汇丰信用卡尊享价 卓健诊所 卓健eShop CS cod…"
+      },
+      "bodyHash": "8f7f5e1ada26",
+      "highlight": "up to 25% off",
+      "dates": [
+        "31 December 2026",
+        "1 September 2026",
+        "31 January 2027"
+      ],
+      "validUntil": "2027-01-31",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "health-care-special-quality-healthcare-chinese-medicine-services",
+      "title": "Red Hot Health Care Privilege - Quality HealthCare - Chinese Medicine Services",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/quality-healthcare/chinese-medicine-services/",
+      "summary": "Besides exercise, regular check-ups are vital to maintaining your health. From 1 September to 31 December 2026, enjoy up to 25% off designated healthcare services and eShop products at Quality HealthCare with your HSBC credit card! Use your RewardCash just the way you like. Downl…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 卓健醫療 - 中醫服務",
+        "zh-CN": "最红医疗保健优惠 - 卓健医疗 - 中医服务"
+      },
+      "summaries": {
+        "zh-HK": "關心自己的健康，除了要多做運動，更要定期進行身體檢查！由2026年9月1日至12月31日，憑滙豐信用卡於卓健醫療簽賬，購買指定醫健服務及網店產品可享低至75折優惠！ 「獎賞錢」易賺易使，想點都可以，想點更Easy，立即下載，全方位體驗！ 全城最好的滙豐信用卡*，一卡百應！ 請選擇優惠 分齡體格檢查 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 醫健產品 分齡體格檢查 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 Page tab selected 醫健產品 卓健中醫醫療中心 服務 一般零售價 滙豐信用卡尊享價 卓健診所 卓健eShop CS code…",
+        "zh-CN": "关心自己的健康，除了要多做运动，更要定期进行身体检查！由2026年9月1日至12月31日，凭滙丰信用卡于卓健医疗签账，购买指定医健服务及网店产品可享低至75折优惠！ \"奖赏钱\" 易赚易用，想怎样都行，想怎样都更简单，立即下载，全方位体验！ 全城最好的汇丰信用卡*，一卡百应！ 请选择优惠 分龄体格检查 主题健康检查 精选单项检查 预防疫苗 中医服务 医健产品 分龄体格检查 主题健康检查 精选单项检查 预防疫苗 中医服务 Page tab selected 医健产品 卓健中医医疗中心 服务 一般零售价 汇丰信用卡尊享价 卓健诊所 卓健eShop CS cod…"
+      },
+      "bodyHash": "1b01a57a9d66",
+      "highlight": "up to 25% off",
+      "dates": [
+        "31 December 2026",
+        "1 September 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "health-care-special-quality-healthcare-selected-single-screening",
+      "title": "Red Hot Health Care Privilege - Quality HealthCare - Selected Single Screenings",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/quality-healthcare/selected-single-screening/",
+      "summary": "Besides exercise, regular check-ups are vital to maintaining your health. From 1 September to 31 December 2026, enjoy up to 25% off designated healthcare services and eShop products at Quality HealthCare with your HSBC credit card! Use your RewardCash just the way you like. Downl…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 卓健醫療 - 精選單項檢查",
+        "zh-CN": "最红医疗保健优惠 - 卓健医疗 - 精选单项检查"
+      },
+      "summaries": {
+        "zh-HK": "關心自己的健康，除了要多做運動，更要定期進行身體檢查！由2026年9月1日至12月31日，憑滙豐信用卡於卓健醫療簽賬，購買指定醫健服務及網店產品可享低至75折優惠！ 「獎賞錢」易賺易使，想點都可以，想點更Easy，立即下載，全方位體驗！ 全城最好的滙豐信用卡*，一卡百應！ 請選擇優惠 分齡體格檢查 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 醫健產品 分齡體格檢查 主題健康檢查 精選單項檢查 Page tab selected 預防疫苗 中醫服務 醫健產品 卓健醫療體檢中心 服務 一般零售價 滙豐信用卡尊享價 卓健診所 卓健eShop CS code…",
+        "zh-CN": "关心自己的健康，除了要多做运动，更要定期进行身体检查！由2026年9月1日至12月31日，凭滙丰信用卡于卓健医疗签账，购买指定医健服务及网店产品可享低至75折优惠！ \"奖赏钱\" 易赚易用，想怎样都行，想怎样都更简单，立即下载，全方位体验！ 全城最好的汇丰信用卡*，一卡百应！ 请选择优惠 分龄体格检查 主题健康检查 精选单项检查 预防疫苗 中医服务 医健产品 分龄体格检查 主题健康检查 精选单项检查 Page tab selected 预防疫苗 中医服务 医健产品 卓健医疗体检中心 服务 一般零售价 汇丰信用卡尊享价 卓健诊所 卓健eShop CS cod…"
+      },
+      "bodyHash": "1603265963e8",
+      "highlight": "up to 25% off",
+      "dates": [
+        "31 December 2026",
+        "1 September 2026",
+        "31 January 2027"
+      ],
+      "validUntil": "2027-01-31",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "health-care-special-quality-healthcare-vaccinations",
+      "title": "Red Hot Health Care Privilege - Quality HealthCare - Vaccinations",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/quality-healthcare/vaccinations/",
+      "summary": "Besides exercise, regular check-ups are vital to maintaining your health. From 1 September to 31 December 2026, enjoy up to 25% off designated healthcare services and eShop products at Quality HealthCare with your HSBC credit card! Use your RewardCash just the way you like. Downl…",
+      "titles": {},
+      "summaries": {},
+      "bodyHash": "0ba07bc9ce02",
+      "highlight": "up to 25% off",
+      "dates": [
+        "31 December 2026",
+        "1 September 2026",
+        "31 January 2027",
+        "9 October 2025"
+      ],
+      "validUntil": "2027-01-31",
+      "merchants": [],
+      "cards": [
+        "hsbc-premier-mastercard"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "health-care-special-quality-healthcare-wellness-products",
+      "title": "Red Hot Health Care Privilege - Quality HealthCare - Wellness Products",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/health-care-special/quality-healthcare/wellness-products/",
+      "summary": "Besides exercise, regular check-ups are vital to maintaining your health. From 1 September to 31 December 2026, enjoy up to 25% off designated healthcare services and eShop products at Quality HealthCare with your HSBC credit card! Use your RewardCash just the way you like. Downl…",
+      "titles": {
+        "zh-HK": "最紅醫療保健優惠 - 卓健醫療 - 醫健產品",
+        "zh-CN": "最红医疗保健优惠 - 卓健医疗 - 医健产品"
+      },
+      "summaries": {
+        "zh-HK": "關心自己的健康，除了要多做運動，更要定期進行身體檢查！由2026年9月1日至12月31日，憑滙豐信用卡於卓健醫療簽賬，購買指定醫健服務及網店產品可享低至75折優惠！ 「獎賞錢」易賺易使，想點都可以，想點更Easy，立即下載，全方位體驗！ 全城最好的滙豐信用卡*，一卡百應！ 請選擇優惠 分齡體格檢查 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 醫健產品 分齡體格檢查 主題健康檢查 精選單項檢查 預防疫苗 中醫服務 醫健產品 Page tab selected 卓健網店醫健產品（如無特別註明，請輸入優惠碼「滙豐信用卡首6位數字+HSBC2026」以享優惠…",
+        "zh-CN": "关心自己的健康，除了要多做运动，更要定期进行身体检查！由2026年9月1日至12月31日，凭滙丰信用卡于卓健医疗签账，购买指定医健服务及网店产品可享低至75折优惠！ \"奖赏钱\" 易赚易用，想怎样都行，想怎样都更简单，立即下载，全方位体验！ 全城最好的汇丰信用卡*，一卡百应！ 请选择优惠 分龄体格检查 主题健康检查 精选单项检查 预防疫苗 中医服务 医健产品 分龄体格检查 主题健康检查 精选单项检查 预防疫苗 中医服务 医健产品 Page tab selected 卓健网店医健产品（如无特别注明，请输入优惠码「滙丰信用卡首6位数字+HSBC2026」以享优…"
+      },
+      "bodyHash": "6ecf0122bb41",
+      "highlight": "up to 25% off",
+      "dates": [
+        "31 December 2026",
+        "1 September 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offer-haagen-daz",
@@ -178,7 +321,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offer_shangri-la",
@@ -199,7 +342,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offers-arome",
@@ -225,7 +368,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offers-lmo",
@@ -252,7 +395,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offers-mx",
@@ -278,7 +421,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offers-rc",
@@ -304,7 +447,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "mooncake-promotion-offers-whk",
@@ -330,7 +473,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -361,7 +504,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -391,7 +534,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -419,7 +562,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -451,7 +594,61 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "red-hot-dining-special-dining-city",
+      "title": "Red Hot Dining Special - Hong Kong Restaurant Week Summer 2026",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-dining-special/dining-city/",
+      "summary": "Share the tasteful moment with your loved ones during Hong Kong Restaurant Week Summer 2026! You can enjoy specially curated set menus at over 300 famous restaurants of Hong Kong Restaurant Week, including Michelin-starred restaurants and an array of newly joined restaurants in t…",
+      "titles": {
+        "zh-HK": "最紅飲食優惠 - 2026夏季香港餐廳周",
+        "zh-CN": "最红饮食优惠 - 2026夏季香港餐厅周"
+      },
+      "summaries": {
+        "zh-HK": "與摯愛好友於「2026夏季香港餐廳周」一起享受美饌佳餚，同時品嚐歡聚滋味。 由2026年8月11日至9月13日，憑滙豐信用卡於超過300間香港餐廳周精選餐廳（包括米芝蓮星級餐廳及多間新加入餐廳）簽賬，即可以優惠價享用精選餐牌。 於DiningCity app或香港餐廳周網頁（www.restaurantweek.hk）獨家網上預訂 • 座位有限，請於2026年8月11日（香港時間上午10時正）起及早訂座 • 用餐日期：2026年8月13日至9月13日 盡嚐城中豪華盛宴 • 精選餐牌可享低至7折優惠 - 午膳：港幣148元起 - 晚膳：港幣298元起 超過…",
+        "zh-CN": "与挚爱好友在「2026夏季香港餐厅周」一起享受美馔佳肴，同时品尝欢聚滋味。 由2026年8月11日至9月13日，凭汇丰信用卡于超过300家香港餐厅周精选餐厅（包括米芝莲星级餐厅及多家新加入餐厅）结账，即可以优惠价享用精选菜单。 于DiningCity app或香港餐厅周网页（www.restaurantweek.hk）独家网上预订 • 座位有限，请于2026年8月11日（香港时间上午10时正）起及早订座 • 用餐日期：2026年8月13日至9月13日 尽尝城中豪华盛宴 • 精选菜单可享低至7折优惠 - 午膳：港币148元起 - 晚膳：港币298元起 超过…"
+      },
+      "bodyHash": "96f1ad4dbd2b",
+      "highlight": "Up to 30% off",
+      "dates": [
+        "13 September 2026",
+        "11 August 2026"
+      ],
+      "validUntil": "2026-09-13",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "id": "red-hot-dining-special-maxim-dinner-menu",
+      "title": "Red Hot Dining Special - Maxim's Chinese Cuisine - Up to 40% off Designated Dinner Set Menu",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-dining-special/maxim/dinner-menu/",
+      "summary": "From 1 September to 30 November 2026, enjoy the following offers at more than 40 designated Maxim's Chinese Cuisine dining outlets with your HSBC credit card: Offer 1: Get up to 40% off dinner set menu for 4/6/12 diners at designated Maxim's Chinese Cuisine dining outlets Offer 2…",
+      "titles": {
+        "zh-HK": "最紅飲食優惠 - 美心中菜 - 低至6折指定晩膳套餐",
+        "zh-CN": "最红饮食优惠 - 美心中菜 - 低至6折指定晩膳套餐"
+      },
+      "summaries": {
+        "zh-HK": "由2026年9月1日至11月30日，憑滙豐信用卡於超過40間指定美心中菜食府簽賬可專享以下優惠： 優惠1：於指定美心中菜食府惠顧指定晚膳堂食4/6/12人套餐可享低至6折優惠 優惠2：由2026年9月1至30日，惠顧晚膳堂食、外賣自取或美心中菜網上外賣平台單一簽賬滿港幣600元可獲總值港幣300元美心中菜現金券／電子現金券（每張現金券面值為港幣150元） 優惠3：主餐牌外賣自取8折優惠 優惠4：由2026年9月1至27日，中秋盆菜及指定佳節食品可享低至78折優惠 優惠5：於全線美心皇宮、翠園、八月花、潮庭及潮江春預訂指定百日宴或壽宴菜單，可享免費無限暢飲…",
+        "zh-CN": "由2026年9月1日至11月30日，凭汇丰信用卡于超过40间指定美心中菜食府签账可专享以下优惠： 优惠1：于指定美心中菜食府惠顾指定晚膳堂食4/6/12人套餐可享低至6折优惠 优惠2：由2026年9月1至30日，惠顾晚膳堂食、外卖自取或美心中菜网上外卖平台单一签账满港币600元可获总值港币300元美心中菜现金券／电子现金券（每张现金券面值为港币150元） 优惠3：主餐牌外卖自取8折优惠 优惠4：由2026年9月1至27日，中秋盆菜及指定佳节食品可享低至78折优惠 优惠5：于全线美心皇宫、翠园、八月花、潮庭及潮江春预订指定百日宴或寿宴菜单，可享免费无限畅饮…"
+      },
+      "bodyHash": "43782a86749f",
+      "highlight": "up to 40% off",
+      "dates": [
+        "30 November 2026",
+        "30 September 2026",
+        "27 September 2026",
+        "1 October 2026"
+      ],
+      "validUntil": "2026-11-30",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -479,7 +676,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-broadway-offers",
@@ -508,7 +705,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -536,7 +733,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
@@ -563,7 +760,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
@@ -595,7 +792,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
@@ -623,7 +820,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
@@ -652,7 +849,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
@@ -679,7 +876,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "highlight": null,
@@ -723,7 +920,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -757,7 +954,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -786,7 +983,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -813,7 +1010,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     }
   ]
 }

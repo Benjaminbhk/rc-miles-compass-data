@@ -1,8 +1,11 @@
 {
-  "updated": "2026-09-09",
-  "count": 37,
+  "updated": "2026-09-10",
+  "count": 39,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
-  "newIds": [],
+  "newIds": [
+    "red-hot-shopping-special-apple-store",
+    "red-hot-shopping-special-wilson-offers"
+  ],
   "offers": [
     {
       "id": "everydaybankingrewardsyou",
@@ -30,7 +33,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "everymile-spending-offer",
@@ -58,7 +61,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-health-care-special-gba-offer",
@@ -83,7 +86,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-health-care-special-hospital-offer",
@@ -108,7 +111,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-health-care-special-insurance-offers",
@@ -135,7 +138,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-health-care-special-medical-center-offer",
@@ -154,7 +157,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-health-care-special-other-offer",
@@ -180,7 +183,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-quality-healthcare-age-based-check-ups",
@@ -207,7 +210,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-quality-healthcare-chinese-medicine-services",
@@ -233,7 +236,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-quality-healthcare-selected-single-screening",
@@ -260,7 +263,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-quality-healthcare-vaccinations",
@@ -284,7 +287,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "health-care-special-quality-healthcare-wellness-products",
@@ -310,7 +313,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offer-haagen-daz",
@@ -336,7 +339,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offer_shangri-la",
@@ -357,7 +360,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offers-arome",
@@ -383,7 +386,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offers-lmo",
@@ -410,7 +413,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offers-mx",
@@ -436,7 +439,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offers-rc",
@@ -462,7 +465,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "mooncake-promotion-offers-whk",
@@ -488,7 +491,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -519,7 +522,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -549,7 +552,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -577,7 +580,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -609,7 +612,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-dining-special-dining-city",
@@ -635,7 +638,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-dining-special-maxim-dinner-menu",
@@ -663,7 +666,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -691,7 +694,64 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
+    },
+    {
+      "id": "red-hot-shopping-special-apple-store",
+      "title": "Red Hot Shopping Special - Apple Store",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-shopping-special/apple-store/",
+      "summary": "Get ready to go for red this summer! As a HSBC credit card cardholder, you get access to all the hottest offers around. From 10 September until 13 November 2026, you can enjoy exclusive offers with HSBC credit card. When you use your HSBC credit card with Apple Pay, whether you’r…",
+      "titles": {
+        "zh-HK": "最紅購物優惠 - Apple Store",
+        "zh-CN": "最红购物优惠 - Apple Store"
+      },
+      "summaries": {
+        "zh-HK": "識得揀，一定揀最紅！做得滙豐信用卡持卡人，當然享有全城最紅優惠！由2026年9 月10日至11月13日，滙豐信用卡為您帶來專屬優惠。無論於 Apple Store 零售店、 Apple Store 網上商店或 Apple Store App 以 Apple Pay 簽賬添置新產品，都可以輕鬆買住賺！ 高達 10%「獎賞錢」回贈 憑滙豐信用卡透過 Apple Pay 於 Apple Store 零售店、Apple Store 網上商店或 Apple Store App 累積合資格簽賬滿港幣 5,000 元（每筆單一簽賬淨額最少滿港幣500元），即享額外 6…",
+        "zh-CN": "识得拣，一定拣最红！做得汇丰信用卡持卡人，当然享有全城最红优惠！由2026年9 月10日至11月13日，汇丰信用卡为您带来专属优惠。无论于 Apple Store 零售店、 Apple Store 在线商店或 Apple Store App 以 Apple Pay 签账添置新产品，都可以轻松买住赚！ 高达 10%「奖赏钱」回赠 凭汇丰信用卡使用 Apple Pay 于 Apple Store 零售店、Apple Store 在线商店或 Apple Store App 累积合资格签账满港币 5,000 元（每笔单一签账净额最少满港币500元），即享额外 6…"
+      },
+      "bodyHash": "55ff901a3bc3",
+      "highlight": "10% RewardCash",
+      "dates": [
+        "13 November 2026"
+      ],
+      "validUntil": "2026-11-13",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile",
+        "hsbc-red"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    {
+      "id": "red-hot-shopping-special-wilson-offers",
+      "title": "Red Hot Shopping Special - Wilson - offers",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-shopping-special/wilson/offers/",
+      "summary": "Jazz up your work and life with upgraded electronic gadgets, and discover the magic of everyday life. From 1 September to 30 November 2026, enjoy up to $400 RewardCash or 5,600 miles , and maximum 50% off selected items when you shop at Wilson physical stores or online shop with…",
+      "titles": {
+        "zh-HK": "最紅購物優惠 - 衛訊 - 優惠",
+        "zh-CN": "最红购物优惠 - 卫讯 - 优惠"
+      },
+      "summaries": {
+        "zh-HK": "無論日常玩樂或居家需要，不妨升級各式智能玩意，為生活帶來新發現！由2026年9月1日至11月30日，憑滙豐信用卡於衛訊門市或網店購物，可享高達 $400「獎賞錢」 或 5,600飛行里數 ，指定貨品更可享低至5折！ 單一簽賬淨額 以合資格信用卡簽賬 以合資格EveryMile信用卡簽賬 港幣3,500元至港幣7,499元 $100「獎賞錢」 (= 1,000飛行里數 ^ ) $80「獎賞錢」 (= 1,600飛行里數 ^ ) 港幣7,500元或以上 $400「獎賞錢」 (= 4,000飛行里數 ^ ) $280「獎賞錢」 (= 5,600飛行里數 ^ )…",
+        "zh-CN": "无论日常玩乐或居家需要，不妨升级各式智能玩意，为生活带来新发现！由2026年9月1日至11月30日，凭汇丰信用卡于卫讯门市或网店购物，可享高达 $400 \"奖赏钱\" 或 5,600飞行里数 ，指定货品更可享低至5折！ 单一签账净额 以合资格信用卡签账 以合资格EveryMile信用卡签账 港币3,500元至港币7,499元 $100 \"奖赏钱\" (= 1,000飞行里数 ^ ) $80 \"奖赏钱\" (= 1,600飞行里数 ^ ) 港币7,500元或以上 $400 \"奖赏钱\" (= 4,000飞行里数 ^ ) $280 \"奖赏钱\" (= 5,600飞行里…"
+      },
+      "bodyHash": "c4078a3d7e9d",
+      "highlight": "Up to 50% off",
+      "dates": [
+        "30 November 2026"
+      ],
+      "validUntil": "2026-11-30",
+      "merchants": [
+        "Wilson Communications"
+      ],
+      "cards": [
+        "hsbc-everymile"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -721,7 +781,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
@@ -748,7 +808,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
@@ -780,7 +840,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
@@ -808,7 +868,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
@@ -837,7 +897,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
@@ -864,7 +924,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "highlight": null,
@@ -908,7 +968,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -942,7 +1002,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -971,7 +1031,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -998,7 +1058,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     }
   ]
 }

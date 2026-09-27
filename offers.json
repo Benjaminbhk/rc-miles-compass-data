@@ -1,8 +1,10 @@
 {
-  "updated": "2026-09-26",
-  "count": 40,
+  "updated": "2026-09-27",
+  "count": 41,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
-  "newIds": [],
+  "newIds": [
+    "premier-card-exclusive-offer-landmark"
+  ],
   "offers": [
     {
       "id": "everydaybankingrewardsyou",
@@ -30,7 +32,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "everymile-spending-offer",
@@ -58,7 +60,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-health-care-special-gba-offer",
@@ -83,7 +85,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-health-care-special-hospital-offer",
@@ -108,7 +110,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-health-care-special-insurance-offers",
@@ -135,7 +137,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-health-care-special-medical-center-offer",
@@ -154,7 +156,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-health-care-special-other-offer",
@@ -180,7 +182,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-quality-healthcare-age-based-check-ups",
@@ -207,7 +209,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-quality-healthcare-chinese-medicine-services",
@@ -233,7 +235,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-quality-healthcare-selected-single-screening",
@@ -260,7 +262,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-quality-healthcare-vaccinations",
@@ -283,7 +285,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "health-care-special-quality-healthcare-wellness-products",
@@ -309,7 +311,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offer-haagen-daz",
@@ -335,7 +337,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offer_shangri-la",
@@ -356,7 +358,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offers-arome",
@@ -382,7 +384,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offers-lmo",
@@ -409,7 +411,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offers-mx",
@@ -435,7 +437,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offers-rc",
@@ -461,7 +463,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "mooncake-promotion-offers-whk",
@@ -487,7 +489,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -502,7 +504,7 @@
         "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
         "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
       },
-      "bodyHash": "03358dbfc9b5",
+      "bodyHash": "5c0ab84289a7",
       "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
@@ -518,7 +520,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -533,7 +535,7 @@
         "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
         "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
       },
-      "bodyHash": "dfb344377abb",
+      "bodyHash": "32db7e9ee09a",
       "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
@@ -548,7 +550,38 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
+    },
+    {
+      "id": "premier-card-exclusive-offer-landmark",
+      "title": "Exclusive privileges for HSBC Premier Mastercard® Credit Card - LANDMARK",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/premier-card-exclusive-offer/landmark/",
+      "summary": "Enhance your everyday spending with the HSBC Premier Mastercard® Credit Card and enjoy generous rewards! From 1 April to 31 October 2026, accumulate eligible local or overseas spending to designated amount, you can earn up to an extra $500 RewardCash per month, and a total of up…",
+      "titles": {
+        "zh-HK": "滙豐卓越理財信用卡®尊享優惠 - 置地廣塲",
+        "zh-CN": "汇丰卓越理财信用卡®尊享优惠 - 置地廣塲"
+      },
+      "summaries": {
+        "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
+        "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
+      },
+      "bodyHash": "37e6893eb943",
+      "highlight": "up to $3,500 RewardCash",
+      "dates": [
+        "31 October 2026",
+        "31 December 2026",
+        "18 November 2026",
+        "13 October 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [
+        "hsbc-premier-mastercard",
+        "hsbc-prive"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-09-27",
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -563,7 +596,7 @@
         "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
         "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
       },
-      "bodyHash": "788f466c5a1e",
+      "bodyHash": "5e8a8ab3e884",
       "highlight": "up to 5% cashback",
       "dates": [
         "31 October 2026",
@@ -576,7 +609,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -591,7 +624,7 @@
         "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
         "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
       },
-      "bodyHash": "ecb3acb864f1",
+      "bodyHash": "c78f5a310740",
       "highlight": "12% off",
       "dates": [
         "31 October 2026",
@@ -608,7 +641,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-dining-special-dining-city",
@@ -634,7 +667,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-dining-special-maxim-dinner-menu",
@@ -662,7 +695,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -690,7 +723,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-shopping-special-3hksupreme",
@@ -718,7 +751,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-shopping-special-apple-store",
@@ -746,7 +779,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-shopping-special-wilson-offers",
@@ -775,7 +808,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -803,7 +836,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
@@ -830,7 +863,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
@@ -862,7 +895,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
@@ -890,7 +923,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
@@ -919,7 +952,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
@@ -946,7 +979,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "highlight": null,
@@ -990,7 +1023,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -1024,7 +1057,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -1053,7 +1086,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -1080,7 +1113,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-26"
+      "lastSeen": "2026-09-27"
     }
   ]
 }

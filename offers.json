@@ -1,8 +1,13 @@
 {
-  "updated": "2026-09-29",
-  "count": 34,
+  "updated": "2026-09-30",
+  "count": 38,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
-  "newIds": [],
+  "newIds": [
+    "red-hot-dining-special-q4-offers-chinese-cuisine",
+    "red-hot-dining-special-q4-offers-galaxy-macau",
+    "red-hot-dining-special-q4-offers-hotel-dining",
+    "red-hot-dining-special-q4-offers-japanese-and-other-cuisine"
+  ],
   "offers": [
     {
       "id": "everydaybankingrewardsyou",
@@ -30,7 +35,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "everymile-spending-offer",
@@ -58,7 +63,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-health-care-special-gba-offer",
@@ -83,7 +88,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-health-care-special-hospital-offer",
@@ -108,7 +113,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-health-care-special-insurance-offers",
@@ -135,7 +140,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-health-care-special-medical-center-offer",
@@ -154,7 +159,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-health-care-special-other-offer",
@@ -180,7 +185,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-quality-healthcare-age-based-check-ups",
@@ -207,7 +212,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-quality-healthcare-chinese-medicine-services",
@@ -233,7 +238,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-quality-healthcare-selected-single-screening",
@@ -260,7 +265,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-quality-healthcare-vaccinations",
@@ -283,7 +288,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "health-care-special-quality-healthcare-wellness-products",
@@ -309,7 +314,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -340,7 +345,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -370,7 +375,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "premier-card-exclusive-offer-landmark",
@@ -401,7 +406,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -429,7 +434,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -461,7 +466,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-dining-special-dining-city",
@@ -487,7 +492,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-dining-special-maxim-dinner-menu",
@@ -515,7 +520,135 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
+    },
+    {
+      "id": "red-hot-dining-special-q4-offers-chinese-cuisine",
+      "title": "Red Hot Dining Special - Selected Dining Outlets - Chinese Cuisine",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-dining-special/q4-offers/chinese-cuisine/",
+      "summary": "Taste Red Hot, Back You Favourite! HSBC Credit Card is not only dedicated to bringing the Red Hot dining offers to town and supporting the local F&B industry, but also bring extra rewards on your dining transactions! From 1 October to 31 December 2026, simply spend with your HSBC…",
+      "titles": {
+        "zh-HK": "最紅飲食優惠 - 精選美饌 - 中菜",
+        "zh-CN": "最红饮食优惠 - 精选美馔 - 中菜"
+      },
+      "summaries": {
+        "zh-HK": "Taste最紅，撐最紅！滙豐信用卡一直支持香港餐飲業，帶來連串最紅飲食優惠，更為您的餐飲簽賬帶來額外獎賞！ 由2026年10月1日至12月31日，憑滙豐信用卡於超過24間精選餐廳簽賬可享低至5折優惠。 請選擇優惠 酒店美饌 中菜 日本菜及其他 澳門銀河 酒店美饌 中菜 Page tab selected 日本菜及其他 澳門銀河 壹玖捌叁 金秋時令大閘蟹粉饗宴套餐 85 折（適用於星期一至日及公眾假期，全日供應） 菜單 - 優惠不適用於2026年10月1、18及19日、12月22、24、25及31日。 - 優惠適用於全日之堂食。請於一天前預訂，兩位起。 -…",
+        "zh-CN": "Taste最红，撑最红！汇丰信用卡一直支持香港餐饮业，带来连串最红饮食优惠，更为您的餐饮签账带来额外奖赏！ 由2026年10月1日至12月31日，凭汇丰信用卡于超过24间精选餐厅签账可享低至5折优惠。 请选择优惠 酒店美馔 中菜 日本菜及其他 澳门银河 酒店美馔 中菜 Page tab selected 日本菜及其他 澳门银河 壹玖捌叁 金秋时令大闸蟹粉飨宴套餐 85 折（适用于星期一至日及公众假期，全日供应） 菜单 - 优惠不适用于2026年10月1、18及19日、12月22、24、25及31日。 - 优惠适用于全日之堂食。请于一天前预订，两位起。 -…"
+      },
+      "bodyHash": "5cbbe64af098",
+      "highlight": "up to 50% off",
+      "dates": [
+        "31 December 2026",
+        "22 December 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile",
+        "hsbc-pulse",
+        "hsbc-signature",
+        "hsbc-premier-mastercard",
+        "hsbc-red",
+        "hsbc-easy"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    {
+      "id": "red-hot-dining-special-q4-offers-galaxy-macau",
+      "title": "Red Hot Dining Special - Selected Dining Outlets - Galaxy Macau",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-dining-special/q4-offers/galaxy-macau/",
+      "summary": "Taste Red Hot, Back You Favourite! HSBC Credit Card is not only dedicated to bringing the Red Hot dining offers to town and supporting the local F&B industry, but also bring extra rewards on your dining transactions! From 1 October to 31 December 2026, simply spend with your HSBC…",
+      "titles": {
+        "zh-HK": "最紅飲食優惠 - 精選美饌 - 澳門銀河",
+        "zh-CN": "最红饮食优惠 - 精选美馔 - 澳门银河"
+      },
+      "summaries": {
+        "zh-HK": "Taste最紅，撐最紅！滙豐信用卡一直支持香港餐飲業，帶來連串最紅飲食優惠，更為您的餐飲簽賬帶來額外獎賞！ 由2026年10月1日至12月31日，憑滙豐信用卡於超過24間精選餐廳簽賬可享低至5折優惠。 請選擇優惠 酒店美饌 中菜 日本菜及其他 澳門銀河 酒店美饌 中菜 日本菜及其他 澳門銀河 Page tab selected 澳門銀河 Galaxy Stars of Gastronomy Event（活動日期：2026年11月20及21日） 早鳥8折 - 公眾及滙豐預訂（預訂日子：2026年9月14日至10月4日） 滙豐獨家9折 - 香港市場預訂（預訂…",
+        "zh-CN": "Taste最红，撑最红！汇丰信用卡一直支持香港餐饮业，带来连串最红饮食优惠，更为您的餐饮签账带来额外奖赏！ 由2026年10月1日至12月31日，凭汇丰信用卡于超过24间精选餐厅签账可享低至5折优惠。 请选择优惠 酒店美馔 中菜 日本菜及其他 澳门银河 酒店美馔 中菜 日本菜及其他 澳门银河 Page tab selected 澳门银河 Galaxy Stars of Gastronomy Event（活动日期：2026年11月20及21日） 早鸟8折 - 公众及汇丰预订（预订日子：2026年9月14日至10月4日） 汇丰独家9折 - 香港市场预订（预订…"
+      },
+      "bodyHash": "8ecd0016e75f",
+      "highlight": "up to 50% off",
+      "dates": [
+        "31 December 2026",
+        "21 November 2026",
+        "4 October 2026",
+        "19 November 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [],
+      "allCards": true,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    {
+      "id": "red-hot-dining-special-q4-offers-hotel-dining",
+      "title": "Red Hot Dining Special - Selected Dining Outlets - Hotel Dining",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-dining-special/q4-offers/hotel-dining/",
+      "summary": "Taste Red Hot, Back You Favourite! HSBC Credit Card is not only dedicated to bringing the Red Hot dining offers to town and supporting the local F&B industry, but also bring extra rewards on your dining transactions! From 1 October to 31 December 2026, simply spend with your HSBC…",
+      "titles": {
+        "zh-HK": "最紅飲食優惠 - 精選美饌 - 酒店美饌",
+        "zh-CN": "最红饮食优惠 - 精选美馔 - 酒店美馔"
+      },
+      "summaries": {
+        "zh-HK": "Taste最紅，撐最紅！滙豐信用卡一直支持香港餐飲業，帶來連串最紅飲食優惠，更為您的餐飲簽賬帶來額外獎賞！ 由2026年10月1日至12月31日，憑滙豐信用卡於超過24間精選餐廳簽賬可享低至5折優惠。 請選擇優惠 酒店美饌 中菜 日本菜及其他 澳門銀河 酒店美饌 Page tab selected 中菜 日本菜及其他 澳門銀河 香港港麗酒店 懷歐敘 自選菜譜8折 樂聚廊 「饗·樂之夜」自助餐8折 金葉庭 指定晚膳菜譜（金葉庭矜貴嚐味套餐、金葉庭翡翠尊貴套餐或金葉庭經典套餐）8折 寶絲吧 食品及飲品8折 - 所有優惠不適用於2026年12月22、25、26…",
+        "zh-CN": "Taste最红，撑最红！汇丰信用卡一直支持香港餐饮业，带来连串最红饮食优惠，更为您的餐饮签账带来额外奖赏！ 由2026年10月1日至12月31日，凭汇丰信用卡于超过24间精选餐厅签账可享低至5折优惠。 请选择优惠 酒店美馔 中菜 日本菜及其他 澳门银河 酒店美馔 Page tab selected 中菜 日本菜及其他 澳门银河 香港港丽酒店 怀欧叙 自选菜谱8折 乐聚廊 「飨·乐之夜」自助餐8折 金叶庭 指定晚膳菜谱（金叶庭矜贵尝味套餐、金叶庭翡翠尊贵套餐或金叶庭经典套餐）8折 宝丝吧 食品及饮品8折 - 所有优惠不适用于2026年12月22、25、26…"
+      },
+      "bodyHash": "e856f91d92e7",
+      "highlight": "up to 50% off",
+      "dates": [
+        "31 December 2026",
+        "1 October 2026",
+        "26 December 2026",
+        "22 December 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile",
+        "hsbc-pulse",
+        "hsbc-signature",
+        "hsbc-premier-mastercard",
+        "hsbc-red",
+        "hsbc-easy"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    {
+      "id": "red-hot-dining-special-q4-offers-japanese-and-other-cuisine",
+      "title": "Red Hot Dining Special - Selected Dining Outlets - Japanese and other Cuisine",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-dining-special/q4-offers/japanese-and-other-cuisine/",
+      "summary": "Taste Red Hot, Back You Favourite! HSBC Credit Card is not only dedicated to bringing the Red Hot dining offers to town and supporting the local F&B industry, but also bring extra rewards on your dining transactions! From 1 October to 31 December 2026, simply spend with your HSBC…",
+      "titles": {
+        "zh-HK": "最紅飲食優惠 - 精選美饌 - 日本菜及其他",
+        "zh-CN": "最红饮食优惠 - 精选美馔 - 日本菜及其他"
+      },
+      "summaries": {
+        "zh-HK": "Taste最紅，撐最紅！滙豐信用卡一直支持香港餐飲業，帶來連串最紅飲食優惠，更為您的餐飲簽賬帶來額外獎賞！ 由2026年10月1日至12月31日，憑滙豐信用卡於超過24間精選餐廳簽賬可享低至5折優惠。 請選擇優惠 酒店美饌 中菜 日本菜及其他 澳門銀河 酒店美饌 中菜 日本菜及其他 Page tab selected 澳門銀河 牛品台式火鍋 HSBC x 牛品專屬120分鐘火鍋放題「升級牛御品」晚市套餐8折，並可獲贈日本A5宮崎和牛一碟（價值港幣250元） 以優惠價港幣399元享晚市套餐（正價：港幣499元） 菜單 - 所有優惠需最少兩人消費才可使用，如…",
+        "zh-CN": "Taste最红，撑最红！汇丰信用卡一直支持香港餐饮业，带来连串最红饮食优惠，更为您的餐饮签账带来额外奖赏！ 由2026年10月1日至12月31日，凭汇丰信用卡于超过24间精选餐厅签账可享低至5折优惠。 请选择优惠 酒店美馔 中菜 日本菜及其他 澳门银河 酒店美馔 中菜 日本菜及其他 Page tab selected 澳门银河 牛品台式火锅 HSBC x 牛品专属120分钟火锅放题「升级牛御品」晚市套餐8折，并可获赠日本A5宫崎和牛一碟（价值港币250元） 以优惠价港币399元享晚市套餐（正价：港币499元） 菜单 - 所有优惠需最少两人消费才可使用，如…"
+      },
+      "bodyHash": "4811d607d48e",
+      "highlight": "up to 50% off",
+      "dates": [
+        "31 December 2026"
+      ],
+      "validUntil": "2026-12-31",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile",
+        "hsbc-pulse",
+        "hsbc-signature",
+        "hsbc-premier-mastercard",
+        "hsbc-red",
+        "hsbc-easy"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -543,7 +676,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-shopping-special-3hksupreme",
@@ -571,7 +704,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-shopping-special-apple-store",
@@ -599,7 +732,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-shopping-special-wilson-offers",
@@ -628,7 +761,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -656,7 +789,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-summer-summer-dining-buy-1-get-1-free",
@@ -683,7 +816,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-summer-summer-dining-chinese-cuisine",
@@ -715,7 +848,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-summer-summer-dining-hotel-offer",
@@ -743,7 +876,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-summer-summer-dining-japanese-cuisine",
@@ -772,7 +905,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "red-hot-summer-summer-dining-others",
@@ -799,7 +932,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "highlight": null,
@@ -843,7 +976,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -877,7 +1010,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -906,7 +1039,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -933,7 +1066,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-09-30"
     }
   ]
 }

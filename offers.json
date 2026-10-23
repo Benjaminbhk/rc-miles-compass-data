@@ -1,8 +1,10 @@
 {
-  "updated": "2026-10-22",
-  "count": 33,
+  "updated": "2026-10-23",
+  "count": 34,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
-  "newIds": [],
+  "newIds": [
+    "red-hot-shopping-special-sogo"
+  ],
   "offers": [
     {
       "id": "everydaybankingrewardsyou",
@@ -35,7 +37,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "everymile-spending-offer",
@@ -62,7 +64,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-health-care-special-gba-offer",
@@ -87,7 +89,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-health-care-special-hospital-offer",
@@ -112,7 +114,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-health-care-special-insurance-offers",
@@ -139,7 +141,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-health-care-special-medical-center-offer",
@@ -158,7 +160,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-health-care-special-other-offer",
@@ -184,7 +186,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-quality-healthcare-age-based-check-ups",
@@ -211,7 +213,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-quality-healthcare-chinese-medicine-services",
@@ -237,7 +239,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-quality-healthcare-selected-single-screening",
@@ -264,7 +266,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-quality-healthcare-vaccinations",
@@ -287,7 +289,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "health-care-special-quality-healthcare-wellness-products",
@@ -313,7 +315,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -344,7 +346,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -373,7 +375,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "premier-card-exclusive-offer-landmark",
@@ -404,7 +406,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -432,7 +434,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -464,7 +466,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-dining-special-dining-city",
@@ -490,7 +492,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-dining-special-maxim-dinner-menu",
@@ -518,7 +520,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-dining-special-q4-offers-chinese-cuisine",
@@ -551,7 +553,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-dining-special-q4-offers-galaxy-macau",
@@ -579,7 +581,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-dining-special-q4-offers-hotel-dining",
@@ -614,7 +616,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-dining-special-q4-offers-japanese-and-other-cuisine",
@@ -646,7 +648,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -674,7 +676,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-shopping-special-3hksupreme",
@@ -702,7 +704,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-shopping-special-apple-store",
@@ -733,7 +735,37 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
+    },
+    {
+      "id": "red-hot-shopping-special-sogo",
+      "title": "Red Hot Shopping Special - SOGO",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/red-hot-shopping-special/sogo/",
+      "summary": "Whether you're buying yourself something special or treating your loved ones, get rewards with HSBC credit card Red Hot Shopping Special offer. From 23 October 2026 to 3 January 2027, accumulate eligible transactions of HK$3,500 or above with your HSBC credit card at SOGO, you ca…",
+      "titles": {
+        "zh-HK": "最紅購物優惠 - 崇光百貨",
+        "zh-CN": "最红购物优惠 - 崇光百货"
+      },
+      "summaries": {
+        "zh-HK": "滙豐信用卡帶來最紅購物優惠，賞您買勻心頭好，兼氹氹身邊人！ 由2026年10月23日至2027年1月3日，於崇光百貨累積合資格簽賬滿港幣 3,500 元或以上，可享額外 6%「獎賞錢」回贈。 於整個推廣期內，以合資格EveryMile信用卡作合資格簽賬之持卡人最多可獲額外$450「獎賞錢」（=9,000飛行里數^），而以其他合資格信用卡作合資格簽賬之持卡人則最多可獲額外$700「獎賞錢」（=7,000飛行里數^）。 立即於滙豐Reward+應用程式登記！ 簽得多，分期賞更多！ 識得簽住賺，更要識得分期輕鬆還！首次分期仲可以體驗3個月0%手續費，回贈高達$…",
+        "zh-CN": "汇丰信用卡带来最红购物优惠，赏您买匀心头好，兼凼凼身边人！ 由 2026年10月23日至2027年1月3日，于崇光百货累积合资格签账满港币 3,500 元或以上，可享额外 6%「奖赏钱」回赠。 于整个推广期内，以合资格EveryMile信用卡作合资格签账之持卡人最多可获额外$450「奖赏钱」（=9,000飞行里数^），而以其他合资格信用卡作合资格签账之持卡人则最多可获额外$700「奖赏钱」（=7,000飞行里数^）。 立即于汇丰Reward+应用程序登记！ 签得多，分期赏更多！ 识得签住赚，更要识得分期轻松还！首次分期仲可以体验3个月0%手续费，回赠高达…"
+      },
+      "bodyHash": "8589cf9a8cba",
+      "highlight": "6% RewardCash",
+      "dates": [
+        "23 October 2026",
+        "3 January 2027"
+      ],
+      "validUntil": "2027-01-03",
+      "merchants": [
+        "SOGO"
+      ],
+      "cards": [
+        "hsbc-everymile"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-shopping-special-wilson-offers",
@@ -762,7 +794,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -790,7 +822,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "highlight": null,
@@ -834,7 +866,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -868,7 +900,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -897,7 +929,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -924,7 +956,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-10-22"
+      "lastSeen": "2026-10-23"
     }
   ]
 }

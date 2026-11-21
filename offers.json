@@ -1,8 +1,12 @@
 {
-  "updated": "2026-11-20",
-  "count": 40,
+  "updated": "2026-11-21",
+  "count": 43,
   "source": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/",
-  "newIds": [],
+  "newIds": [
+    "winter-delight-local-and-overseas",
+    "winter-delight-tax-payment",
+    "winter-delight-winter-spend"
+  ],
   "offers": [
     {
       "id": "everydaybankingrewardsyou",
@@ -30,7 +34,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "everymile-spending-offer",
@@ -57,7 +61,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-health-care-special-gba-offer",
@@ -82,7 +86,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-health-care-special-hospital-offer",
@@ -107,7 +111,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-health-care-special-insurance-offers",
@@ -134,7 +138,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-health-care-special-medical-center-offer",
@@ -153,7 +157,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-health-care-special-other-offer",
@@ -179,7 +183,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-quality-healthcare-age-based-check-ups",
@@ -206,7 +210,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-quality-healthcare-chinese-medicine-services",
@@ -232,7 +236,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-quality-healthcare-selected-single-screening",
@@ -259,7 +263,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-quality-healthcare-vaccinations",
@@ -282,7 +286,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "health-care-special-quality-healthcare-wellness-products",
@@ -308,7 +312,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "premier-card-exclusive-offer-dining",
@@ -339,7 +343,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "premier-card-exclusive-offer-insurance",
@@ -368,7 +372,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "premier-card-exclusive-offer-landmark",
@@ -383,13 +387,13 @@
         "zh-HK": "滙豐卓越理財信用卡®為您的日常消費帶來驚喜優惠！於2026年4月1日至10月31日期間，每月累積合資格本地或海外簽賬滿指定金額，可獲享高達額外$500「獎賞錢」，於整個推廣期內最多可獲享$3,500「獎賞錢」回贈！ 每月累積簽賬淨額 額外「獎賞錢」回贈 港幣15,000元至港幣39,999元 $150 港幣40,000元或以上 $500 此外，當月消費滿港幣40,000元或以上且平均全面理財總值達港幣2,000,000元或以上，更可享1個LoungeKey Pass貴賓室通行証（價值46美元）。整個推廣期內最多可獲4個通行証。憑每個LoungeKey P…",
         "zh-CN": "汇丰卓越理财信用卡®为您的日常消费带来惊喜优惠！于2026年4月1日至10月31日期间，每月累积合资格本地或海外签账满指定金额，可获享高达额外$500「奖赏钱」，于整个推广期内最多可获享$3,500「奖赏钱」回赠！ 每月累积签账净额 额外「奖赏钱」回赠 港币15,000元至港币39,999元 $150 港币40,000元或以上 $500 此外，当月消费满港币40,000元或以上且平均全面理财总值达港币2,000,000元或以上，更可享1个LoungeKey Pass贵宾室通行证（价值46美元）。整个推广期内最多可获4个通行证。凭每个LoungeKey P…"
       },
-      "bodyHash": "02a7cc2a7f62",
+      "bodyHash": "d0fe93c9004b",
       "highlight": "up to $3,500 RewardCash",
       "dates": [
         "31 October 2026",
         "31 December 2026",
-        "18 November 2026",
-        "23 October 2026"
+        "26 December 2026",
+        "10 December 2026"
       ],
       "validUntil": "2026-12-31",
       "merchants": [],
@@ -399,7 +403,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-27",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "premier-card-exclusive-offer-shopping",
@@ -427,7 +431,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "premier-card-exclusive-offer-travel",
@@ -459,7 +463,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-dining-city",
@@ -485,7 +489,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-festive-dining-dining-offer",
@@ -497,10 +501,10 @@
         "zh-CN": "最红饮食优惠 - 节日美馔 - 美馔优惠"
       },
       "summaries": {
-        "zh-HK": "由2026年11月16日至2027年2月28日，憑滙豐信用卡簽賬可於30多家指定商家享有專屬餐飲優惠，歡度聖誕和農曆新年，並享有低至四八折的節日餐飲折扣。 請選擇優惠 酒店優惠 美饌優惠 購物優惠 酒店優惠 美饌優惠 Page tab selected 購物優惠 Sunakku Mama 指定午市套餐85折 - 優惠不適用於 2026年12月24至26日、31日，2027年2月5至8日及14日。 - 優惠扣減後另收加一服務費，加一服務費按原價計算。 - 優惠不可與其他優惠同時使用。 85折 詳細 關閉 Washabu 指定午市套餐85折 - 優惠不適用於…",
-        "zh-CN": "由2026年11月16日至2027年2月28日，凭汇丰信用卡签账可于30多家指定商家享有专属餐饮优惠，欢度圣诞和农历新年，并享有低至四八折的节日餐饮折扣。 请选择优惠 酒店优惠 美馔优惠 购物优惠 酒店优惠 美馔优惠 Page tab selected 购物优惠 Sunakku Mama 指定午市套餐85折 - 优惠不适用于 2026年12月24至26日、31日，2027年2月5至8日及14日。 - 优惠扣减后另收加一服务费，加一服务费按原价计算。 - 优惠不可与其他优惠同时使用。 85折 详细 关闭 Washabu 指定午市套餐85折 - 优惠不适用于…"
+        "zh-HK": "由2026年11月16日至2027年2月28日，憑滙豐信用卡簽賬可於30多家指定商家享有專屬餐飲優惠，歡度聖誕和農曆新年，並享有低至四八折的節日餐飲折扣。 請選擇優惠 酒店優惠 美饌優惠 購物優惠 酒店優惠 美饌優惠 Page tab selected 購物優惠 Ami 惠顧第二份嚐味晚餐可享半價優惠（正價：港幣1,588元起） - 優惠不適用於 10% 服務費、飲品、附加費及7 人或以上的私人活動。 - 必須提前訂座方可享有此優惠。請於訂座時表明有意使用此優惠。若訂座時未有事先要求使用此優惠，將不獲折扣。 - 此優惠不可與其他優惠及推廣同時使用。 -…",
+        "zh-CN": "由2026年11月16日至2027年2月28日，凭汇丰信用卡签账可于30多家指定商家享有专属餐饮优惠，欢度圣诞和农历新年，并享有低至四八折的节日餐饮折扣。 请选择优惠 酒店优惠 美馔优惠 购物优惠 酒店优惠 美馔优惠 Page tab selected 购物优惠 Ami 惠顾第二份尝味晚餐可享半价优惠（正价：港币1,588元起） - 优惠不适用于 10% 服务费、饮品、附加费及7 人或以上的私人活动。 - 必须提前订座方可享有此优惠。请于订座时表明有意使用此优惠。若订座时未有事先要求使用此优惠，将不获折扣。 - 此优惠不可与其他优惠及推广同时使用。 -…"
       },
-      "bodyHash": "3aff529c5ef0",
+      "bodyHash": "dbf451ada9b1",
       "highlight": "up to 52% off",
       "dates": [
         "16 November 2026",
@@ -520,7 +524,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-festive-dining-hotel-offer",
@@ -535,7 +539,7 @@
         "zh-HK": "由2026年11月16日至2027年2月28日，憑滙豐信用卡簽賬可於30多家指定商家享有專屬餐飲優惠，歡度聖誕和農曆新年，並享有低至四八折的節日餐飲折扣。 請選擇優惠 酒店優惠 美饌優惠 購物優惠 酒店優惠 Page tab selected 美饌優惠 購物優惠 銅鑼灣如心酒店 阿翁小館 指定「經典珍饈套餐」48折 - 優惠不適用於2026年12月20至21日、2027年1月1日及2月5至8日。 - 須另收以正價計算之加一服務費、茶芥及前菜。 - 優惠不可與任何其他優惠同時使用。 - 優惠只適用於每枱最少2人。 - 優惠需預先一天前訂座方可使用。 - 圖…",
         "zh-CN": "由2026年11月16日至2027年2月28日，凭汇丰信用卡签账可于30多家指定商家享有专属餐饮优惠，欢度圣诞和农历新年，并享有低至四八折的节日餐饮折扣。 请选择优惠 酒店优惠 美馔优惠 购物优惠 酒店优惠 Page tab selected 美馔优惠 购物优惠 铜锣湾如心酒店 阿翁小馆 指定「经典珍馐套餐」48折 - 优惠不适用于2026年12月20至21日、2027年1月1日及2月5至8日。 - 须另收以正价计算之加一服务费、茶芥及前菜。 - 优惠不可与任何其他优惠同时使用。 - 优惠只适用于每枱最少2人。 - 优惠需预先一天前订座方可使用。 - 图…"
       },
-      "bodyHash": "5ec2336ced7a",
+      "bodyHash": "d80c31f767ea",
       "highlight": "up to 52% off",
       "dates": [
         "16 November 2026",
@@ -555,7 +559,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-festive-dining-shopping-offer",
@@ -567,18 +571,21 @@
         "zh-CN": "最红饮食优惠 - 节日美馔 - 购物优惠"
       },
       "summaries": {
-        "zh-HK": "由2026年11月16日至2027年2月28日，憑滙豐信用卡簽賬可於30多家指定商家享有專屬餐飲優惠，歡度聖誕和農曆新年，並享有低至四八折的節日餐飲折扣。 請選擇優惠 酒店優惠 美饌優惠 購物優惠 酒店優惠 美饌優惠 購物優惠 Page tab selected 好棧 好棧金裝紅燒鮑魚禮盒（3罐裝）買一送一（正價：港幣268元） 好棧包裝特選三花臘腸（4條裝）（150克）買一送一（正價：港幣68元） - 優惠只適於好棧分店(機場分店除外)。 - 優惠不可與其他優惠同時使用。 - 產品數量有限，售完即止。 - 好棧食品有限公司保留任何爭議之最終決定權。 買…",
-        "zh-CN": "由2026年11月16日至2027年2月28日，凭汇丰信用卡签账可于30多家指定商家享有专属餐饮优惠，欢度圣诞和农历新年，并享有低至四八折的节日餐饮折扣。 请选择优惠 酒店优惠 美馔优惠 购物优惠 酒店优惠 美馔优惠 购物优惠 Page tab selected 好栈 好栈金装红烧鲍鱼礼盒（3罐装）买一送一（正价：港币268元） 好栈包装特选三花腊肠（4条装）（150克）买一送一（正价：港币68元） - 优惠只适于好栈分店(机场分店除外)。 - 优惠不可与其他优惠同时使用。 - 产品数量有限，售完即止。 - 好栈食品有限公司保留任何争议之最终决定权。 买…"
+        "zh-HK": "由2026年11月16日至2027年2月28日，憑滙豐信用卡簽賬可於30多家指定商家享有專屬餐飲優惠，歡度聖誕和農曆新年，並享有低至四八折的節日餐飲折扣。 請選擇優惠 酒店優惠 美饌優惠 購物優惠 酒店優惠 美饌優惠 購物優惠 Page tab selected agnès b. café 聖誕早鳥優惠：購買聖誕全個蛋糕及禮物籃可獲85折優惠 農曆新年早鳥優惠：購買農曆新年禮盒及禮物籃可獲85折優惠 聖誕早鳥優惠： - 優惠推廣期為2026年11月16日至12月10日。 - 優惠不可兌換現金、貨品及其他優惠。 - 優惠不可與其他優惠同時使用。 - 上述優…",
+        "zh-CN": "由2026年11月16日至2027年2月28日，凭汇丰信用卡签账可于30多家指定商家享有专属餐饮优惠，欢度圣诞和农历新年，并享有低至四八折的节日餐饮折扣。 请选择优惠 酒店优惠 美馔优惠 购物优惠 酒店优惠 美馔优惠 购物优惠 Page tab selected agnès b. café 圣诞早鸟优惠：购买圣诞全个蛋糕及礼物篮可获85折优惠 农历新年早鸟优惠：购买农历新年礼盒及礼物篮可获85折优惠 圣诞早鸟优惠： - 优惠推广期为2026年11月16日至12月10日。 - 优惠不可兑换现金、货品及其他优惠。 - 优惠不可与其他优惠同时使用。 - 上述优…"
       },
-      "bodyHash": "9342bc60e163",
+      "bodyHash": "8fe961345bdd",
       "highlight": "up to 52% off",
       "dates": [
         "16 November 2026",
         "28 February 2027",
-        "26 December 2026"
+        "10 December 2026",
+        "31 January 2027"
       ],
       "validUntil": "2027-02-28",
-      "merchants": [],
+      "merchants": [
+        "agnès b."
+      ],
       "cards": [
         "hsbc-everymile",
         "hsbc-pulse",
@@ -589,7 +596,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-maxim-dinner-menu",
@@ -617,7 +624,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-q4-offers-chinese-cuisine",
@@ -650,7 +657,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-q4-offers-galaxy-macau",
@@ -678,7 +685,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-q4-offers-hotel-dining",
@@ -713,7 +720,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-dining-special-q4-offers-japanese-and-other-cuisine",
@@ -745,7 +752,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-online-special-ecommerce-offer",
@@ -776,7 +783,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-overseas-spending-rewards",
@@ -804,7 +811,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-shopping-special-3hksupreme",
@@ -832,7 +839,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-shopping-special-apple-store",
@@ -847,20 +854,23 @@
         "zh-HK": "識得揀，一定揀最紅！做得滙豐信用卡持卡人，當然享有全城最紅優惠！由2026年9 月10日至11月30日，滙豐信用卡為您帶來專屬優惠。無論於 Apple Store 零售店、 Apple Store 網上商店或 Apple Store App 以 Apple Pay 簽賬添置新產品，都可以輕鬆買住賺！ 高達 10%「獎賞錢」回贈 憑滙豐信用卡透過 Apple Pay 於 Apple Store 零售店、Apple Store 網上商店或 Apple Store App 累積合資格簽賬滿港幣 5,000 元（每筆單一簽賬淨額最少滿港幣500元），即享額外 6…",
         "zh-CN": "识得拣，一定拣最红！做得汇丰信用卡持卡人，当然享有全城最红优惠！由2026年9 月10日至11月30日，汇丰信用卡为您带来专属优惠。无论于 Apple Store 零售店、 Apple Store 在线商店或 Apple Store App 以 Apple Pay 签账添置新产品，都可以轻松买住赚！ 高达 10%「奖赏钱」回赠 凭汇丰信用卡使用 Apple Pay 于 Apple Store 零售店、Apple Store 在线商店或 Apple Store App 累积合资格签账满港币 5,000 元（每笔单一签账净额最少满港币500元），即享额外 6…"
       },
-      "bodyHash": "f705818ad3ff",
-      "highlight": "up to $800 RewardCash",
+      "bodyHash": "98cd776d218e",
+      "highlight": "10% RewardCash",
       "dates": [
         "30 November 2026",
-        "20 November 2026",
-        "28 February 2027",
-        "1 October 2026"
+        "1 October 2026",
+        "31 December 2026",
+        "1 October 2025"
       ],
-      "validUntil": "2027-02-28",
+      "validUntil": "2026-12-31",
       "merchants": [],
-      "cards": [],
-      "allCards": true,
+      "cards": [
+        "hsbc-everymile",
+        "hsbc-red"
+      ],
+      "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-shopping-special-k11",
@@ -888,7 +898,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-11-01",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-shopping-special-sogo",
@@ -918,7 +928,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-shopping-special-wilson-offers",
@@ -947,7 +957,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-shopping-special-xiaomi",
@@ -972,7 +982,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "red-hot-summer-shkp",
@@ -1000,7 +1010,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "highlight": null,
@@ -1044,7 +1054,7 @@
       "cards": [],
       "allCards": true,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "visa-platinum-asw-promotion-moneyback",
@@ -1078,7 +1088,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "visa-signature-emperor-cinemas",
@@ -1107,7 +1117,7 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
     },
     {
       "id": "visa-signature-lai-sun-dining",
@@ -1134,7 +1144,91 @@
       ],
       "allCards": false,
       "firstSeen": "2026-07-30",
-      "lastSeen": "2026-11-20"
+      "lastSeen": "2026-11-21"
+    },
+    {
+      "id": "winter-delight-local-and-overseas",
+      "title": "Red Hot Winter Rewards - Local and Overseas Spending Rewards",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/winter-delight/local-and-overseas/",
+      "summary": "Red Hot Winter Rewards are back! From 20 November 2026 to 28 February 2027, use your HSBC credit card to maximum rewards, maximum thrills! Whether it’s everyday’s spending, tax payments or spending instalments, we’ve got you covered! You can earn up to $2,300 RewardCash in total!…",
+      "titles": {
+        "zh-HK": "最紅冬日賞 - 最紅冬日賞—本地及海外簽賬優惠",
+        "zh-CN": "最红冬日赏 - 最红冬日赏 - 本地及海外签账优惠"
+      },
+      "summaries": {
+        "zh-HK": "最紅冬日賞又到啦！由2026年11月20日至2027年2月28日，憑滙豐信用卡解鎖冬日最紅方程式，無論日常消費、交稅定簽賬分期都一樣賺到「獎賞錢」，合共可享 高達$2,300 ！立即登記，獎賞加乘賺到Max ！ 未有滙豐信用卡？立即網上申請，享迎新獎賞高達$1,450「獎賞錢」！ 立即申請 請選擇優惠 最紅冬日賞—本地及海外簽賬優惠 最紅網上交稅獎賞 冬日簽賬及網上交稅分期獎賞 最紅冬日賞—本地及海外簽賬優惠 Page tab selected 最紅網上交稅獎賞 冬日簽賬及網上交稅分期獎賞 「最紅冬日賞—本地及海外簽賬優惠」詳情 由2026年11月20日…",
+        "zh-CN": "最红冬日赏又到啦！由2026年11月20日至2027年2月28日，凭汇丰信用卡解锁冬日最红方程式，无论日常消费、交税定签账分期都一样赚到「奖赏钱」，合共可享 高达$2,300 ！立即登记，奖赏加乘赚到Max ！ 未有汇丰信用卡？立即网上申请，享迎新奖赏高达$1,450「奖赏钱」！ 立即申请 请选择优惠 最红冬日赏 - 本地及海外签账优惠 最红网上交税奖赏 冬日签账及网上交税分期奖赏 最红冬日赏 - 本地及海外签账优惠 Page tab selected 最红网上交税奖赏 冬日签账及网上交税分期奖赏 「最红冬日赏—本地及海外签账优惠」详情 由2026年11…"
+      },
+      "bodyHash": "a7cea85ad977",
+      "highlight": "up to $2,300 RewardCash",
+      "dates": [
+        "20 November 2026",
+        "28 February 2027"
+      ],
+      "validUntil": "2027-02-28",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    {
+      "id": "winter-delight-tax-payment",
+      "title": "Red Hot Winter Rewards - Red Hot Online Tax Payment Rewards",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/winter-delight/tax-payment/",
+      "summary": "Red Hot Winter Rewards are back! From 20 November 2026 to 28 February 2027, use your HSBC credit card to maximum rewards, maximum thrills! Whether it’s everyday’s spending, tax payments or spending instalments, we’ve got you covered! You can earn up to $2,300 RewardCash in total!…",
+      "titles": {
+        "zh-HK": "最紅冬日賞 - 最紅網上交稅獎賞",
+        "zh-CN": "最红冬日赏 - 最红网上交税奖赏"
+      },
+      "summaries": {
+        "zh-HK": "最紅冬日賞又到啦！由2026年11月20日至2027年2月28日，憑滙豐信用卡解鎖冬日最紅方程式，無論日常消費、交稅定簽賬分期都一樣賺到「獎賞錢」，合共可享 高達$2,300 ！立即登記，獎賞加乘賺到Max ！ 未有滙豐信用卡？立即網上申請，享迎新獎賞高達$1,450「獎賞錢」！ 立即申請 請選擇優惠 最紅冬日賞—本地及海外簽賬優惠 最紅網上交稅獎賞 冬日簽賬及網上交稅分期獎賞 最紅冬日賞—本地及海外簽賬優惠 最紅網上交稅獎賞 Page tab selected 冬日簽賬及網上交稅分期獎賞 「最紅網上交稅獎賞」詳情 由2026年11月20日至2027年2…",
+        "zh-CN": "最红冬日赏又到啦！由2026年11月20日至2027年2月28日，凭汇丰信用卡解锁冬日最红方程式，无论日常消费、交税定签账分期都一样赚到「奖赏钱」，合共可享 高达$2,300 ！立即登记，奖赏加乘赚到Max ！ 未有汇丰信用卡？立即网上申请，享迎新奖赏高达$1,450「奖赏钱」！ 立即申请 请选择优惠 最红冬日赏 - 本地及海外签账优惠 最红网上交税奖赏 冬日签账及网上交税分期奖赏 最红冬日赏 - 本地及海外签账优惠 最红网上交税奖赏 Page tab selected 冬日签账及网上交税分期奖赏 「最红网上交税奖赏」详情 由2026年11月20日至20…"
+      },
+      "bodyHash": "d90451b78777",
+      "highlight": "up to $2,300 RewardCash",
+      "dates": [
+        "20 November 2026",
+        "28 February 2027"
+      ],
+      "validUntil": "2027-02-28",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    {
+      "id": "winter-delight-winter-spend",
+      "title": "Red Hot Winter Rewards - Winter Spend & Online Tax Payment Instalment Rewards",
+      "url": "https://www.redhotoffers.hsbc.com.hk/en/latest-offers/winter-delight/winter-spend/",
+      "summary": "Red Hot Winter Rewards are back! From 20 November 2026 to 28 February 2027, use your HSBC credit card to maximum rewards, maximum thrills! Whether it’s everyday’s spending, tax payments or spending instalments, we’ve got you covered! You can earn up to $2,300 RewardCash in total!…",
+      "titles": {
+        "zh-HK": "最紅冬日賞 - 冬日簽賬及網上交稅分期獎賞",
+        "zh-CN": "最红冬日赏 - 冬日签账及网上交税分期奖赏"
+      },
+      "summaries": {
+        "zh-HK": "最紅冬日賞又到啦！由2026年11月20日至2027年2月28日，憑滙豐信用卡解鎖冬日最紅方程式，無論日常消費、交稅定簽賬分期都一樣賺到「獎賞錢」，合共可享 高達$2,300 ！立即登記，獎賞加乘賺到Max ！ 未有滙豐信用卡？立即網上申請，享迎新獎賞高達$1,450「獎賞錢」！ 立即申請 請選擇優惠 最紅冬日賞—本地及海外簽賬優惠 最紅網上交稅獎賞 冬日簽賬及網上交稅分期獎賞 最紅冬日賞—本地及海外簽賬優惠 最紅網上交稅獎賞 冬日簽賬及網上交稅分期獎賞 Page tab selected 「冬日簽賬及網上交稅分期獎賞」詳情 由2026年11月20日至2…",
+        "zh-CN": "最红冬日赏又到啦！由2026年11月20日至2027年2月28日，凭汇丰信用卡解锁冬日最红方程式，无论日常消费、交税定签账分期都一样赚到「奖赏钱」，合共可享 高达$2,300 ！立即登记，奖赏加乘赚到Max ！ 未有汇丰信用卡？立即网上申请，享迎新奖赏高达$1,450「奖赏钱」！ 立即申请 请选择优惠 最红冬日赏 - 本地及海外签账优惠 最红网上交税奖赏 冬日签账及网上交税分期奖赏 最红冬日赏 - 本地及海外签账优惠 最红网上交税奖赏 冬日签账及网上交税分期奖赏 Page tab selected 「冬日签账及网上交税分期奖赏」详情 由2026年11月2…"
+      },
+      "bodyHash": "65c114d5678c",
+      "highlight": "up to $2,300 RewardCash",
+      "dates": [
+        "20 November 2026",
+        "28 February 2027"
+      ],
+      "validUntil": "2027-02-28",
+      "merchants": [],
+      "cards": [
+        "hsbc-everymile"
+      ],
+      "allCards": false,
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
     }
   ]
 }

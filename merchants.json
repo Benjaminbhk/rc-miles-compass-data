@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16",
-  "count": 235,
+  "updated": "2026-11-23",
+  "count": 259,
   "sources": {
     "ryc": "https://www.hsbc.com.hk{prefix}/credit-cards/rewards/your-choice/",
     "red": "https://www.hsbc.com.hk/credit-cards/products/red/",
@@ -61,6 +61,20 @@
       "source": "ryc"
     },
     {
+      "name": "24/7 FITNESS",
+      "names": {
+        "en": "24/7 FITNESS",
+        "zh-HK": "24/7 FITNESS",
+        "zh-CN": "24/7 FITNESS"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
       "name": "3COINS",
       "names": {
         "en": "3COINS"
@@ -78,6 +92,20 @@
         "en": "3HK",
         "zh-HK": "3香港",
         "zh-CN": "3香港"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
+      "source": "ryc"
+    },
+    {
+      "name": "3SUPREME",
+      "names": {
+        "en": "3SUPREME",
+        "zh-HK": "3SUPREME",
+        "zh-CN": "3SUPREME"
       },
       "tags": [
         "ryc:home"
@@ -142,6 +170,20 @@
       "source": "ryc"
     },
     {
+      "name": "ACME WELLNESS Hong Kong",
+      "names": {
+        "en": "ACME WELLNESS Hong Kong",
+        "zh-HK": "ACME WELLNESS Hong Kong",
+        "zh-CN": "ACME WELLNESS Hong Kong"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
       "name": "AEON",
       "names": {
         "en": "AEON",
@@ -184,6 +226,20 @@
       "source": "ryc"
     },
     {
+      "name": "Afterschool",
+      "names": {
+        "en": "Afterschool",
+        "zh-HK": "Afterschool",
+        "zh-CN": "Afterschool"
+      },
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
       "name": "agnes b. FLEURISTE",
       "names": {
         "en": "agnes b. FLEURISTE",
@@ -212,6 +268,20 @@
       "source": "ryc"
     },
     {
+      "name": "Anhao Wellness",
+      "names": {
+        "en": "Anhao Wellness",
+        "zh-HK": "Anhao Wellness",
+        "zh-CN": "Anhao Wellness"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
       "name": "APITA",
       "names": {
         "en": "APITA",
@@ -237,6 +307,20 @@
       "category": "everymile",
       "subcategory": "cafe",
       "source": "everymile-pdf"
+    },
+    {
+      "name": "ASAP | Alternate Sauna And Plunge",
+      "names": {
+        "en": "ASAP | Alternate Sauna And Plunge",
+        "zh-HK": "ASAP | Alternate Sauna And Plunge",
+        "zh-CN": "ASAP | Alternate Sauna And Plunge"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
     },
     {
       "name": "at.home",
@@ -836,6 +920,20 @@
       "source": "red-page"
     },
     {
+      "name": "DoggyHouse",
+      "names": {
+        "en": "DoggyHouse",
+        "zh-HK": "犬家莊",
+        "zh-CN": "犬家庄"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
       "name": "Don Don Donki",
       "names": {
         "en": "Don Don Donki",
@@ -1000,6 +1098,20 @@
       "source": "everymile-pdf"
     },
     {
+      "name": "FLOAT CO",
+      "names": {
+        "en": "FLOAT CO",
+        "zh-HK": "FLOAT CO",
+        "zh-CN": "FLOAT CO"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
       "name": "food le parc",
       "names": {
         "en": "food le parc",
@@ -1024,6 +1136,20 @@
       ],
       "category": "home",
       "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Fovever Pets",
+      "names": {
+        "en": "Fovever Pets",
+        "zh-HK": "寵物健康工房",
+        "zh-CN": "宠物健康工房"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
       "source": "ryc"
     },
     {
@@ -1066,20 +1192,6 @@
       ],
       "category": "shopping",
       "subcategory": "Fashion / Accessories",
-      "source": "ryc"
-    },
-    {
-      "name": "Go24 Fitness",
-      "names": {
-        "en": "Go24 Fitness",
-        "zh-HK": "Go24 Fitness",
-        "zh-CN": "Go24 Fitness"
-      },
-      "tags": [
-        "ryc:lifestyle"
-      ],
-      "category": "lifestyle",
-      "subcategory": "Fitness",
       "source": "ryc"
     },
     {
@@ -1230,6 +1342,20 @@
       ],
       "category": "shopping",
       "subcategory": "Department Store",
+      "source": "ryc"
+    },
+    {
+      "name": "Gym Town Fitness",
+      "names": {
+        "en": "Gym Town Fitness",
+        "zh-HK": "Gym Town Fitness",
+        "zh-CN": "Gym Town Fitness"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
       "source": "ryc"
     },
     {
@@ -1438,6 +1564,20 @@
       "source": "ryc"
     },
     {
+      "name": "Jakewell",
+      "names": {
+        "en": "Jakewell",
+        "zh-HK": "Jakewell",
+        "zh-CN": "Jakewell"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Home and Furniture",
+      "source": "ryc"
+    },
+    {
       "name": "Japan Home Centre (JHC)",
       "names": {
         "en": "Japan Home Centre (JHC)",
@@ -1494,11 +1634,11 @@
       "source": "ryc"
     },
     {
-      "name": "KeyChain Pay",
+      "name": "KeyChain",
       "names": {
-        "en": "KeyChain Pay",
-        "zh-HK": "KeyChain Pay",
-        "zh-CN": "KeyChain Pay"
+        "en": "KeyChain",
+        "zh-HK": "KeyChain",
+        "zh-CN": "KeyChain"
       },
       "tags": [
         "ryc:home"
@@ -1660,6 +1800,20 @@
       "source": "ryc"
     },
     {
+      "name": "Logo Pet",
+      "names": {
+        "en": "Logo Pet",
+        "zh-HK": "樂高寵物",
+        "zh-CN": "乐高宠物"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
       "name": "MARKS & SPENCER",
       "names": {
         "en": "MARKS & SPENCER",
@@ -1713,6 +1867,20 @@
       ],
       "category": "shopping",
       "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "MO+",
+      "names": {
+        "en": "MO+",
+        "zh-HK": "MO+",
+        "zh-CN": "MO+"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Telecom Companies",
       "source": "ryc"
     },
     {
@@ -2083,6 +2251,20 @@
       "source": "ryc"
     },
     {
+      "name": "PETAMO",
+      "names": {
+        "en": "PETAMO",
+        "zh-HK": "PETAMO",
+        "zh-CN": "PETAMO"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
       "name": "Petmium Superstore",
       "names": {
         "en": "Petmium Superstore",
@@ -2107,6 +2289,62 @@
       "category": "everymile",
       "subcategory": "local-transport",
       "source": "everymile-pdf"
+    },
+    {
+      "name": "PETSCO",
+      "names": {
+        "en": "PETSCO",
+        "zh-HK": "PETSCO",
+        "zh-CN": "PETSCO"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "PetsOrder",
+      "names": {
+        "en": "PetsOrder",
+        "zh-HK": "寵物網",
+        "zh-CN": "宠物网"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "Pettington",
+      "names": {
+        "en": "Pettington",
+        "zh-HK": "柏靈頓獸醫寵物用品",
+        "zh-CN": "柏灵顿兽医宠物用品"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "PICK POP",
+      "names": {
+        "en": "PICK POP",
+        "zh-HK": "匹旦",
+        "zh-CN": "匹旦"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
     },
     {
       "name": "PIT",
@@ -2191,6 +2429,20 @@
       "source": "ryc"
     },
     {
+      "name": "Revive Spa & Holistic Wellness",
+      "names": {
+        "en": "Revive Spa & Holistic Wellness",
+        "zh-HK": "Revive Spa & Holistic Wellness",
+        "zh-CN": "Revive Spa & Holistic Wellness"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
       "name": "Road Tunnel Toll Plaza",
       "names": {
         "en": "Road Tunnel Toll Plaza"
@@ -2242,6 +2494,47 @@
       ],
       "category": "shopping",
       "subcategory": "Beauty",
+      "source": "ryc"
+    },
+    {
+      "name": "Samsung",
+      "names": {
+        "en": "Samsung",
+        "zh-HK": "三星"
+      },
+      "tags": [
+        "ryc:home"
+      ],
+      "category": "home",
+      "subcategory": "Electronic Appliances",
+      "source": "ryc"
+    },
+    {
+      "name": "Sense of Touch",
+      "names": {
+        "en": "Sense of Touch",
+        "zh-HK": "Sense of Touch",
+        "zh-CN": "Sense of Touch"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
+      "name": "Senses Studio",
+      "names": {
+        "en": "Senses Studio",
+        "zh-HK": "Senses Studio",
+        "zh-CN": "Senses Studio"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
       "source": "ryc"
     },
     {
@@ -2510,6 +2803,20 @@
       "source": "ryc"
     },
     {
+      "name": "Stackd Pickleball",
+      "names": {
+        "en": "Stackd Pickleball",
+        "zh-HK": "Stackd Pickleball",
+        "zh-CN": "Stackd Pickleball"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Fitness",
+      "source": "ryc"
+    },
+    {
       "name": "STAR Cinema",
       "names": {
         "en": "STAR Cinema",
@@ -2601,20 +2908,6 @@
       ],
       "category": "home",
       "subcategory": "Electronic Appliances",
-      "source": "ryc"
-    },
-    {
-      "name": "SUPREME",
-      "names": {
-        "en": "SUPREME",
-        "zh-HK": "SUPREME",
-        "zh-CN": "SUPREME"
-      },
-      "tags": [
-        "ryc:home"
-      ],
-      "category": "home",
-      "subcategory": "Telecom Companies",
       "source": "ryc"
     },
     {
@@ -2758,6 +3051,20 @@
       "source": "ryc"
     },
     {
+      "name": "The Ceremony Wellness Club",
+      "names": {
+        "en": "The Ceremony Wellness Club",
+        "zh-HK": "The Ceremony Wellness Club",
+        "zh-CN": "The Ceremony Wellness Club"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
+      "source": "ryc"
+    },
+    {
       "name": "The Commercial Press",
       "names": {
         "en": "The Commercial Press",
@@ -2783,6 +3090,20 @@
       ],
       "category": "home",
       "subcategory": "Pet Care",
+      "source": "ryc"
+    },
+    {
+      "name": "The Ice Bath Club",
+      "names": {
+        "en": "The Ice Bath Club",
+        "zh-HK": "The Ice Bath Club",
+        "zh-CN": "The Ice Bath Club"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
       "source": "ryc"
     },
     {
@@ -2880,6 +3201,20 @@
       "source": "everymile-pdf"
     },
     {
+      "name": "Toys\"R\"Us",
+      "names": {
+        "en": "Toys\"R\"Us",
+        "zh-HK": "玩具“反”斗城",
+        "zh-CN": "玩具“反”斗城"
+      },
+      "tags": [
+        "ryc:shopping"
+      ],
+      "category": "shopping",
+      "subcategory": "Others",
+      "source": "ryc"
+    },
+    {
       "name": "Trip.com",
       "names": {
         "en": "Trip.com",
@@ -2947,20 +3282,6 @@
       ],
       "category": "home",
       "subcategory": "Home and Furniture",
-      "source": "ryc"
-    },
-    {
-      "name": "UNIQLO",
-      "names": {
-        "en": "UNIQLO",
-        "zh-HK": "UNIQLO",
-        "zh-CN": "UNIQLO"
-      },
-      "tags": [
-        "ryc:shopping"
-      ],
-      "category": "shopping",
-      "subcategory": "Fashion / Accessories",
       "source": "ryc"
     },
     {
@@ -3208,6 +3529,20 @@
       ],
       "category": "shopping",
       "subcategory": "Fashion / Accessories",
+      "source": "ryc"
+    },
+    {
+      "name": "°CRYO HONG KONG",
+      "names": {
+        "en": "°CRYO HONG KONG",
+        "zh-HK": "°CRYO HONG KONG",
+        "zh-CN": "°CRYO HONG KONG"
+      },
+      "tags": [
+        "ryc:lifestyle"
+      ],
+      "category": "lifestyle",
+      "subcategory": "Personal Wellness",
       "source": "ryc"
     }
   ]
